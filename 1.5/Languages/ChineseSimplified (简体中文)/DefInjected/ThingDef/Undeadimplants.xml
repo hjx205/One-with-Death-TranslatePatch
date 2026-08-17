@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: necrotic core -->
+<OWD_NecroticCore.label>死灵核心</OWD_NecroticCore.label>
+<!-- EN: A core of cristallized necrotic archites, can virtualize and improve the function of a regular heart by copying and internalizing its functions. The heart is destroyed in this process. -->
+<OWD_NecroticCore.description>一种由结晶死灵能量组成的核心，通过复制并内化其功能来虚拟化并增强常规心脏的功能，此过程会摧毁原有心脏</OWD_NecroticCore.description>
+<!-- EN: Install Necrotic Core -->
+<OWD_NecroticCore.comps.CompUsableNecroticCore.useLabel>安装坏死核心</OWD_NecroticCore.comps.CompUsableNecroticCore.useLabel>
+
+<!-- EN: unfinished necrotic prosthetic -->
+<UnfinishedHealthItemNecrotic.label>未完成的死灵假体</UnfinishedHealthItemNecrotic.label>
+<!-- EN: An unfinished necrotic prosthetic. -->
+<UnfinishedHealthItemNecrotic.description>一个未完成的死灵假体。</UnfinishedHealthItemNecrotic.description>
+
+  
+</LanguageData>

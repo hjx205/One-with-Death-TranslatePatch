@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Unstable Control -->
+  <OWD_WeakLink.label>控制失衡</OWD_WeakLink.label>
+  <!-- EN: Due to the link between the necromancer and this undead being weak, controlling this undead is becoming harder and harder. -->
+  <OWD_WeakLink.description>因死灵法师与此亡灵间的链接薄弱，控制该亡灵的难度与日俱增</OWD_WeakLink.description>
+  <!-- EN: Weak Link -->
+  <OWD_WeakLink.stages.Weak_Link.label>脆弱链接</OWD_WeakLink.stages.Weak_Link.label>
+  <!-- EN: Degraded Link -->
+  <OWD_WeakLink.stages.Degraded_Link.label>衰弱链接</OWD_WeakLink.stages.Degraded_Link.label>
+  <!-- EN: Fading Link -->
+  <OWD_WeakLink.stages.Fading_Link.label>消散链接</OWD_WeakLink.stages.Fading_Link.label>
+  <!-- EN: Link Severed -->
+  <OWD_WeakLink.stages.Link_Severed.label>链接断裂</OWD_WeakLink.stages.Link_Severed.label>
+  <!-- EN: Linked to ??? -->
+  <OWD_WeakLink.stages.Linked_to.label>链接至???</OWD_WeakLink.stages.Linked_to.label>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soul Shards -->
+  <OWD_SoulShards.label>灵魂碎片</OWD_SoulShards.label>
+  
+  <!-- EN: Empty Soul Shards -->
+  <OWD_SoulShards_Empty.label>空白灵魂碎片</OWD_SoulShards_Empty.label>
+  
+  <!-- EN: Filled Soul Shards -->
+  <OWD_SoulShards_Filled.label>充能灵魂碎片</OWD_SoulShards_Filled.label>
+  
+  <!-- EN: Major Soul Shards -->
+  <OWD_SoulShards_Filled_Major.label>大型灵魂碎片</OWD_SoulShards_Filled_Major.label>
+  
+  <!-- EN: Minor Soul Shards -->
+  <OWD_SoulShards_Filled_Minor.label>小型灵魂碎片</OWD_SoulShards_Filled_Minor.label>
+  
+</LanguageData>

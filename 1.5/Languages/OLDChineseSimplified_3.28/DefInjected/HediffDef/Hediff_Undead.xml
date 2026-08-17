@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Undead -->
+  <OWD_Undead.label>亡灵</OWD_Undead.label>
+  <!-- EN: This pawn is an undead controlled by a necromancer -->
+  <OWD_Undead.description>此人是死灵法师控制下的一名亡灵。</OWD_Undead.description>
+  
+  <!-- EN: Undead Champion -->
+  <UndeadChampion.label>亡灵先锋</UndeadChampion.label>
+  <!-- EN: This powerful undead is stronger, faster, better but requires more energy to be sustained. -->
+  <UndeadChampion.description>这名强大的亡灵更强壮、更迅捷、更卓越，但需要消耗更多的能量来维持。</UndeadChampion.description>
+  
+  <!-- EN: Undead Overseer -->
+  <UndeadOverseer.label>亡灵督军</UndeadOverseer.label>
+  <!-- EN: This powerful undead retains most of its former self, still bound by the necromancer by an unwavering sense of loyalty. -->
+  <UndeadOverseer.description>这名强大的亡灵保留了大部分生前的1自我，但仍然坚定地忠于死灵法师。</UndeadOverseer.description>
+  
+</LanguageData>

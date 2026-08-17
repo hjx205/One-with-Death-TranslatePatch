@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: legion undead -->
+  <OWD_Race_LegionUndead.label>军团亡灵</OWD_Race_LegionUndead.label>
+  <!-- EN: An undead, bound to the will of a necromantic force, ancient and dangerous. -->
+  <OWD_Race_LegionUndead.description>一种被死灵力量支配的亡灵生物，古老而致命。</OWD_Race_LegionUndead.description>
+  <!-- EN: left fist -->
+  <OWD_Race_LegionUndead.tools.left_fist.label>左拳</OWD_Race_LegionUndead.tools.left_fist.label>
+  <!-- EN: fist -->
+  <OWD_Race_LegionUndead.tools.left_fist.labelNoLocation>拳头</OWD_Race_LegionUndead.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <OWD_Race_LegionUndead.tools.right_fist.label>右拳</OWD_Race_LegionUndead.tools.right_fist.label>
+  <!-- EN: fist -->
+  <OWD_Race_LegionUndead.tools.right_fist.labelNoLocation>拳头</OWD_Race_LegionUndead.tools.right_fist.labelNoLocation>
+  <!-- EN: teeth -->
+  <OWD_Race_LegionUndead.tools.teeth.label>牙齿</OWD_Race_LegionUndead.tools.teeth.label>
+  <!-- EN: head -->
+  <OWD_Race_LegionUndead.tools.head.label>头部</OWD_Race_LegionUndead.tools.head.label>
+  
+</LanguageData>

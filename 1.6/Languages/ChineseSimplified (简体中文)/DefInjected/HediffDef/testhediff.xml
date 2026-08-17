@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Stat Bonus (Test) -->
+  <OWD_StatBonus_Test.label>属性加成（测试）</OWD_StatBonus_Test.label>
+  <!-- EN: A test hediff that grants bonuses to necromancy stats. -->
+  <OWD_StatBonus_Test.description>一个测试用的状态效果，授予死灵法师相关属性的加成。</OWD_StatBonus_Test.description>
+  
+</LanguageData>

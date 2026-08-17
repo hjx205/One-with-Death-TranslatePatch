@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Expand Energy Capacity -->
+  <Ability_ExpandMana.label>能量扩容</Ability_ExpandMana.label>
+  <!-- EN: Consumes all necrotic energy to permanently increase maximum capacity by 10. -->
+  <Ability_ExpandMana.description>消耗所有死灵能量，永久提升最大死灵能量10点。</Ability_ExpandMana.description>
+  
+  <!-- EN: Select Necromancer -->
+  <Ability_SelectNecromancer.label>选择死灵法师</Ability_SelectNecromancer.label>
+  <!-- EN: Teleport the camera to the controlling necromancer. -->
+  <Ability_SelectNecromancer.description>将视角转移到控制死灵法师的位置。</Ability_SelectNecromancer.description>
+  
+  <!-- EN: Destroy Self -->
+  <Ability_UndeadSuicide.label>自毁</Ability_UndeadSuicide.label>
+  <!-- EN: Order this undead to destroy itself. -->
+  <Ability_UndeadSuicide.description>命令该亡灵自我毁灭。</Ability_UndeadSuicide.description>
+  
+  <!-- EN: Consume Corpses -->
+  <ConsumeCorpses.label>吞噬尸体</ConsumeCorpses.label>
+  <!-- EN: Consume corpses in a big area around you in order to quickly convert their flesh and bones into necrotic energy. Used on the undead condenses the energy into crystals -->
+  <ConsumeCorpses.description>吞噬你周围大范围内的尸体，将它们的血肉与骨骼快速转化为死灵能量。用于亡灵时会将能量凝结成晶体。</ConsumeCorpses.description>
+  
+  <!-- EN: Necrotic Healing -->
+  <NecroticHealing.label>死灵再生</NecroticHealing.label>
+  <!-- EN: Channels necrotic energy into the ground, granting a regenerative surge to nearby undead. -->
+  <NecroticHealing.description>将死灵能量注入地面，为附近亡灵提供再生能力。</NecroticHealing.description>
+  
+  <!-- EN: Raise Undead -->
+  <RaiseUndead.label>亡者再临</RaiseUndead.label>
+  <!-- EN: Reanimates corpses and make them do your biddings -->
+  <RaiseUndead.description>复活附近的尸体并使它为你而战。</RaiseUndead.description>
+  
+  <!-- EN: Raise Undead Champion -->
+  <RaiseUndeadChampion.label>亡者再临-亡灵先锋</RaiseUndeadChampion.label>
+  <!-- EN: Resurrects a single corpse as a powerful undead champion linked to the necromancer. -->
+  <RaiseUndeadChampion.description>复活一具尸体，将其变为强大的亡灵先锋，并与死灵法师建立链接。</RaiseUndeadChampion.description>
+  
+  <!-- EN: Raise Undead Overseer -->
+  <RaiseUndeadOverseer.label>亡者再临-亡灵督军</RaiseUndeadOverseer.label>
+  <!-- EN: Resurrects a single corpse as a powerful undead overseer linked to the necromancer. -->
+  <RaiseUndeadOverseer.description>复活一具尸体，将其变为强大的亡灵督军，并与死灵法师建立链接。</RaiseUndeadOverseer.description>
+  
+  <!-- EN: Revive shamblers -->
+  <ReviveShamblers.label>复活蹒跚怪</ReviveShamblers.label>
+  <!-- EN: Releases a cloud of deadlife dust from the targeted ground cell, reviving nearby shamblers. This ability has 3 charges and a reduced cooldown per charge. -->
+  <ReviveShamblers.description>从目标地格释放出一团死灵尘，复活附近的蹒跚怪。此技能拥有3次充能，每次充能的冷却时间减少。</ReviveShamblers.description>
+  
+  <!-- EN: Skip Horde -->
+  <SummonHorde.label>群体幽冥折跃</SummonHorde.label>
+  <!-- EN: Skip a horde of 5 reanimated shamblers from somewhere. You can somehow feel their presence and guess their location in this and other worlds -->
+  <SummonHorde.description>从某处召唤出一群由5个蹒跚怪组成的大军。你可以感知到它们的存在，并预知它们在这个世界及其他世界中的位置。</SummonHorde.description>
+  
+  <!-- EN: Skip Shambler -->
+  <SummonShambler.label>幽冥折跃</SummonShambler.label>
+  <!-- EN: You skip a reanimated shambler from somwhere. You can somehow feel their presence and guess their location in this and other worlds -->
+  <SummonShambler.description>从某处召唤一个复活蹒跚怪。你可以感知到它的存在，并预知它在这个世界及其他世界中的位置。</SummonShambler.description>
+  
+</LanguageData>

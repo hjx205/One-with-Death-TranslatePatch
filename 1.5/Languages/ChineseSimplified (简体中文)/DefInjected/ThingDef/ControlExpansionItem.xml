@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Control expansion theory -->
+  <ControlExpansionItem.label>强化控制理论</ControlExpansionItem.label>
+  <!-- EN: A theory written on an old page, by applying its fundamentals you can expand the number of undead you can have under your control. -->
+  <ControlExpansionItem.description>写在一页旧纸上的理论，通过应用其基础原理，你可以增加能够控制的亡灵数量。</ControlExpansionItem.description>
+  <!-- EN: Study {0_label} -->
+  <ControlExpansionItem.comps.CompUsableImplant.useLabel>研究 {0_label}</ControlExpansionItem.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

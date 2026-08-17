@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gnawer -->
+  <OWD_Gnawer.label>啃咬者</OWD_Gnawer.label>
+  
+  <!-- EN: Lesser undead -->
+  <OWD_LesserUndead.label>次级亡灵</OWD_LesserUndead.label>
+  
+  <!-- EN: Lesser undead -->
+  <OWD_LesserUndead_Turret.label>次级亡灵炮塔</OWD_LesserUndead_Turret.label>
+  
+</LanguageData>

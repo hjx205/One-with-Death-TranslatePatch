@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Exsecratio Crescens -->
+  <OWD_ECrescens.label>憎恶增殖</OWD_ECrescens.label>
+  <!-- EN: The necrotic link to this being empowers it, growing stronger with each summoning. -->
+  <OWD_ECrescens.description>与死灵法师的死灵链接赋予了其力量，每次召唤都会使其愈发强大</OWD_ECrescens.description>
+  <!-- EN: I -->
+  <OWD_ECrescens.stages.I.label>I</OWD_ECrescens.stages.I.label>
+  <!-- EN: II -->
+  <OWD_ECrescens.stages.II.label>II</OWD_ECrescens.stages.II.label>
+  <!-- EN: III -->
+  <OWD_ECrescens.stages.III.label>III</OWD_ECrescens.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_ECrescens.stages.IV.label>IV</OWD_ECrescens.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_ECrescens.stages.V.label>V</OWD_ECrescens.stages.V.label>
+  <!-- EN: VI -->
+  <OWD_ECrescens.stages.VI.label>VI</OWD_ECrescens.stages.VI.label>
+  <!-- EN: VII -->
+  <OWD_ECrescens.stages.VII.label>VII</OWD_ECrescens.stages.VII.label>
+  <!-- EN: VIII -->
+  <OWD_ECrescens.stages.VIII.label>VIII</OWD_ECrescens.stages.VIII.label>
+  <!-- EN: IX -->
+  <OWD_ECrescens.stages.IX.label>IX</OWD_ECrescens.stages.IX.label>
+  <!-- EN: X -->
+  <OWD_ECrescens.stages.X.label>X</OWD_ECrescens.stages.X.label>
+  <!-- EN: XI -->
+  <OWD_ECrescens.stages.XI.label>XI</OWD_ECrescens.stages.XI.label>
+  <!-- EN: XII -->
+  <OWD_ECrescens.stages.XII.label>XII</OWD_ECrescens.stages.XII.label>
+  <!-- EN: XIII -->
+  <OWD_ECrescens.stages.XIII.label>XIII</OWD_ECrescens.stages.XIII.label>
+  <!-- EN: XIV -->
+  <OWD_ECrescens.stages.XIV.label>XIV</OWD_ECrescens.stages.XIV.label>
+  <!-- EN: XV -->
+  <OWD_ECrescens.stages.XV.label>XV</OWD_ECrescens.stages.XV.label>
+  <!-- EN: XVI -->
+  <OWD_ECrescens.stages.XVI.label>XVI</OWD_ECrescens.stages.XVI.label>
+  <!-- EN: XVII -->
+  <OWD_ECrescens.stages.XVII.label>XVII</OWD_ECrescens.stages.XVII.label>
+  <!-- EN: XVIII -->
+  <OWD_ECrescens.stages.XVIII.label>XVIII</OWD_ECrescens.stages.XVIII.label>
+  <!-- EN: XIX -->
+  <OWD_ECrescens.stages.XIX.label>XIX</OWD_ECrescens.stages.XIX.label>
+  <!-- EN: XX -->
+  <OWD_ECrescens.stages.XX.label>XX</OWD_ECrescens.stages.XX.label>
+  <!-- EN: ??? -->
+  <OWD_ECrescens.stages.20.label>???</OWD_ECrescens.stages.20.label>
+  <!-- EN: ?????? -->
+  <OWD_ECrescens.stages.21.label>??????</OWD_ECrescens.stages.21.label>
+  
+</LanguageData>

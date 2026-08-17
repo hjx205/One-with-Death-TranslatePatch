@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>  
+<LanguageData>  
+  
+  <!-- EN: Necrotic Flow -->  
+  <OWD_NecroticFlow.label>死灵能量流动</OWD_NecroticFlow.label>  
+  <!-- EN: Represents the necromancer's net flow of necrotic energy, influenced by their innate connection and the demands of controlling certain undead minions. This flow determines hourly energy gain or loss. -->  
+  <OWD_NecroticFlow.description>表示死灵法师的死灵能量净流动，受其天生的能量连接以及控制某些亡灵随从所需的能量影响。该流动决定每小时能量会增加或减少多少。</OWD_NecroticFlow.description>  
+  
+</LanguageData>  

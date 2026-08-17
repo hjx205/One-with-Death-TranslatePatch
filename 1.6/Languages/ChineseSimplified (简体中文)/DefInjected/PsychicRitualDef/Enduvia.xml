@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enduvia -->
+  <OWD_Enduvia.label>唤灵仪式·恩杜维亚</OWD_Enduvia.label>
+  <!-- EN: A dangerous ritual to call forth a necromancer's "soul", conciousness patterns scattered across dimensions, linked together by some invisible force, a link. -->
+  <OWD_Enduvia.description>危险仪式，旨在召唤死灵法师散逸于多维空间的"灵魂"——其意识碎片由无形之力（某种联结）所维系</OWD_Enduvia.description>
+  <!-- EN: The selected soul will be transferred to the sacrifice, overwriting their mind. If a soul already present in the world is chosen, or if no soul is chosen at all, the ritual will fail catastrophically. -->
+  <OWD_Enduvia.outcomeDescription>所选灵魂将转移至祭品体内，覆盖其原有心智。若选择已存于世的灵魂，或根本未选择任何灵魂，仪式将引发灾难性失败</OWD_Enduvia.outcomeDescription>
+  
+</LanguageData>

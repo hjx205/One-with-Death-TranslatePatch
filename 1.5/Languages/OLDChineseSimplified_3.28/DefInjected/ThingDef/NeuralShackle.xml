@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neural shackle -->
+  <OWD_NeuralShackle.label>死灵链接</OWD_NeuralShackle.label>
+  <!-- EN: A neural implant that links the wearer to a necromancer, providing additional bandwidth and serving as a mana source. -->
+  <OWD_NeuralShackle.description>一种神经植入物，将佩戴者与死灵法师连接起来，提供额外的带宽并作为魔力来源。</OWD_NeuralShackle.description>
+  
+</LanguageData>

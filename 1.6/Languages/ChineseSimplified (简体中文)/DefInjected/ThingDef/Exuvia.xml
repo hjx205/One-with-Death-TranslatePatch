@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soul Orb -->
+  <OWD_SoulOrb.label>灵魂宝珠</OWD_SoulOrb.label>
+  <!-- EN: A sphere of a crystal-like substance capable of holding the entire mind of a necromancer. It works in mysterious ways but you can tell that it breaks the dimensional barrier between worlds. Consuming it will transfer the stored mind to a new host, freeing the necromancer from its mortal shackles. -->
+  <OWD_SoulOrb.description>由晶化灵魂能量构成的球体，可完整保存死灵法师的思维意识。通过打破维度屏障实现意识转移，吞噬后可让死灵法师摆脱当前肉身束缚，将意识注入新宿主</OWD_SoulOrb.description>
+  <!-- EN: Consume Soul Orb -->
+  <OWD_SoulOrb.comps.CompUsable.useLabel>吞噬宝珠</OWD_SoulOrb.comps.CompUsable.useLabel>
+  
+</LanguageData>

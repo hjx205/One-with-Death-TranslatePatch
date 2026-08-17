@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: broken mind -->
+  <OWD_BrokenMind.label>破碎心智</OWD_BrokenMind.label>
+  <!-- EN: This pawn's soul has been violently ripped from their body, leaving behind a hollow shell. They are a shadow of their former self, barely able to function. -->
+  <OWD_BrokenMind.description>此人的灵魂已被暴力撕裂出躯体，徒留一具空洞躯壳。他们仅是往昔自我的残影，几乎丧失行动能力</OWD_BrokenMind.description>
+  <!-- EN: hollow -->
+  <OWD_BrokenMind.stages.hollow.label>空洞</OWD_BrokenMind.stages.hollow.label>
+  
+</LanguageData>

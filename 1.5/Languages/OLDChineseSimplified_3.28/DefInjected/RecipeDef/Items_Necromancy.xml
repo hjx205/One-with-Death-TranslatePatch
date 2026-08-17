@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft Green Crystal -->
+  <Make_GreenCrystal.label>制作翠绿灵晶</Make_GreenCrystal.label>
+  <!-- EN: Craft a Green Crystal by using jade as catalyst and bodies are fuel, allowing archites to replicate themselves. -->
+  <Make_GreenCrystal.description>使用翡翠作为催化剂，尸体作为燃料，制作翠绿灵晶，它可以使亡灵能量自我复制。</Make_GreenCrystal.description>
+  <!-- EN: Crafting a Green Crystal. -->
+  <Make_GreenCrystal.jobString>制作翠绿灵晶中。</Make_GreenCrystal.jobString>
+  
+</LanguageData>

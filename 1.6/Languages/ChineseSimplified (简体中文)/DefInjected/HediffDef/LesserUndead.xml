@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lesser undead link -->
+  <OWD_Hediff_LesserUndead.label>次级亡灵链接</OWD_Hediff_LesserUndead.label>
+  <!-- EN: A necrotic link binding this creature to its creator. -->
+  <OWD_Hediff_LesserUndead.description>一道将其与创造者绑定在一起的死灵链接</OWD_Hediff_LesserUndead.description>
+  
+</LanguageData>

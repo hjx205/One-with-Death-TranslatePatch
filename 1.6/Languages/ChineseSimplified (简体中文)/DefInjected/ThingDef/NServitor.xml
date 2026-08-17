@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auxiliary servitor -->
+  <owd_auxServitor.label>辅助侍仆</owd_auxServitor.label>
+  <!-- EN: A small construct that acts as a catalyst to improve certain aspects of necromancy, it is generally used to boost the connection to the necrotic link, improving the quality of rituals or the control given by a control servitor. -->
+  <owd_auxServitor.description>一种较小的中继装置，必须与主控侍仆连接后才能运作，可增强主控侍仆宿主的控制能力。</owd_auxServitor.description>
+  
+  <!-- EN: Control Servitor -->
+  <OWD_CServitor.label>主控侍仆</OWD_CServitor.label>
+  <!-- EN: A construct that can hold a living pawn inside indefinitely, forcibly linking it to the necrotic link that binds a necromancer to a mysterious archotech. This mentally enslaved pawn will be able to support the linked necromancer in various tasks. -->
+  <OWD_CServitor.description>一种死灵装置，可容纳一个单位并展示其头部。与死灵法师连接后，控制能力将根据宿主的智力提升，并可链接最多5个辅助侍仆。</OWD_CServitor.description>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necromancer Start -->
+  <NecromancerStart.label>死灵法师</NecromancerStart.label>
+  <!-- EN: You spent your whole life trying to find a way to reverse death, hopping planet to planet in order to find some archotech artifacts capable of doing so, chasing stories and paying for information. You found mostly junk or resurrector mech serums; your last find? A weird book that doesn't even have anything written on it. When you tried leaving that world, your main engine suddenly broke and you find yourself forced to an emergency landing. -->
+  <NecromancerStart.description>你一生都在寻找逆转死亡的方法，辗转于各个星球，寻找能够实现目标的亡灵能量遗物，听闻传说并支付高昂的费用获取信息。然而，你找到的多是废品或复活机械液；你最后的发现是一本连字都没有的奇怪书籍。当你试图离开那个星球时，飞船的主引擎突然损坏，使你不得不进行紧急降落。</NecromancerStart.description>
+  <!-- EN: You spent your whole life trying to find a way to reverse death, hopping planet to planet in order to find some archotech artifacts capable of doing so, chasing stories and paying for information. You found mostly junk or resurrector mech serums; your last find? A weird book that doesn't even have anything written on it. When you tried leaving that world, your main engine suddenly broke and you find yourself forced to an emergency landing. -->
+  <NecromancerStart.scenario.description>你一生都在寻找逆转死亡的方法，游历行星，追寻传说中的亡灵能量遗物，付出不少代价购买信息。而你找到的多是垃圾或复活机械液；你最后的发现只是一本没有任何文字的奇怪书籍。当你尝试离开这颗星球时，飞船的主引擎突然损坏，你不得不进行紧急降落。</NecromancerStart.scenario.description>
+  <!-- EN: Necromancer Start -->
+  <NecromancerStart.scenario.name>死灵法师开局</NecromancerStart.scenario.name>
+  <!-- EN: You wake up after the fall, you quickly scan around you trying to find the book without even looking for food first, you feel it calling to you. -->
+  <NecromancerStart.scenario.parts.GameStartDialog.text>坠毁后，你醒了过来，第一时间开始环顾四周寻找那本书，甚至连食物都顾不上。你能感受到它在召唤你。</NecromancerStart.scenario.parts.GameStartDialog.text>
+  <!-- EN: Alone with a book that enables you to control the dead -->
+  <NecromancerStart.scenario.summary>仅凭一本能够控制亡灵的书独自求生。</NecromancerStart.scenario.summary>
+  
+</LanguageData>

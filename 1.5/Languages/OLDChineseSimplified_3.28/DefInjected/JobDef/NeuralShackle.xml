@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>  
+<LanguageData>  
+  
+  <!-- EN: Attune necrotic link -->  
+  <OWD_AttuneNecroticLink.label>调整死灵连接</OWD_AttuneNecroticLink.label>  
+  <!-- EN: Attuning a pawn's neural shackle to establish a necrotic link. -->  
+  <OWD_AttuneNecroticLink.description>调整单位的神经锁以建立死灵连接。</OWD_AttuneNecroticLink.description>  
+  <!-- EN: Attuning {0}'s necrotic link. -->  
+  <OWD_AttuneNecroticLink.reportString>正在调整{0}的死灵连接。</OWD_AttuneNecroticLink.reportString>  
+  
+</LanguageData>  

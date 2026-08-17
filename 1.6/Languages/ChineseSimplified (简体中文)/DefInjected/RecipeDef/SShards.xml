@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cleanse soul shard -->
+  <OWD_CleanseSoulShard.label>灵魂碎片净化</OWD_CleanseSoulShard.label>
+  <!-- EN: Use necrotic energy to cleanse a filled Soul Shard, rendering it empty and ready for a new inscription. -->
+  <OWD_CleanseSoulShard.description>使用死灵能量净化已刻印的灵魂碎片，使其清空并可重新刻录</OWD_CleanseSoulShard.description>
+  <!-- EN: any filled soul shard -->
+  <OWD_CleanseSoulShard.ingredients.0.filter.customSummary>任意已刻印的灵魂碎片</OWD_CleanseSoulShard.ingredients.0.filter.customSummary>
+  <!-- EN: Cleansing Soul Shard. -->
+  <OWD_CleanseSoulShard.jobString>正在净化灵魂碎片</OWD_CleanseSoulShard.jobString>
+  
+  <!-- EN: craft empty soul shards -->
+  <OWD_CraftSoulShardEmpty.label>锻造空白灵魂碎片</OWD_CraftSoulShardEmpty.label>
+  <!-- EN: Craft 5 empty Soul Shards, an imperfect vessel capable of storing partial "soul" information, recording memories. It is created by infusing a Necrotic orb with a significant amount of stored energy from a linked Control Servitor, splitting the orb into 5 shards. -->
+  <OWD_CraftSoulShardEmpty.description>锻造5枚空白灵魂碎片——这种不完美的容器可储存部分"灵魂"信息并记录记忆。需将死灵球体与关联的操控侍从中储存的能量融合，将球体分裂为5枚碎片</OWD_CraftSoulShardEmpty.description>
+  <!-- EN: Crafting empty soul shards. -->
+  <OWD_CraftSoulShardEmpty.jobString>正在锻造空白灵魂碎片</OWD_CraftSoulShardEmpty.jobString>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Torch -->
+  <OWD_NecroticTorch.label>死灵火炬</OWD_NecroticTorch.label>
+  <!-- EN: A permanently lit torch that burns with a cold, green, necrotic flame. It requires no fuel. -->
+  <OWD_NecroticTorch.description>一柄永久燃烧的火炬，散发着冰冷的绿色死灵火焰。无需任何燃料</OWD_NecroticTorch.description>
+  
+</LanguageData>

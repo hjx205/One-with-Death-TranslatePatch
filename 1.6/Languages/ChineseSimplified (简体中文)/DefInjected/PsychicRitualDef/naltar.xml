@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Inscribe Soul -->
+  <OWD_InscribeSoul.label>魂刻仪式·铭魂</OWD_InscribeSoul.label>
+  <!-- EN: Perform a dark ritual to sacrifice a living creature, fusing their memory and brain patterns, their "soul", from their body to inscribe it into an empty Soul Shard. -->
+  <OWD_InscribeSoul.description>施行黑暗仪式献祭生灵，将其记忆与脑波模式——即其"灵魂"——从躯体剥离，铭刻入空白灵魂碎片之中</OWD_InscribeSoul.description>
+  <!-- EN: The quality of the ritual will determine the potency of the inscription. -->
+  <OWD_InscribeSoul.outcomeDescription>仪式质量将决定铭刻灵魂的强度</OWD_InscribeSoul.outcomeDescription>
+  
+</LanguageData>

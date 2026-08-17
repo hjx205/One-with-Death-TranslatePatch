@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Possessed Soul -->
+  <OWD_PawnSoul.label>附灵魂驱</OWD_PawnSoul.label>
+  <!-- EN: The soul of the necromancer is inhabiting this body. The original body's mind is suppressed as long as the necromancer decides to stay into this body -->
+  <OWD_PawnSoul.description>死灵法师的灵魂正占据此驱。只要其意念未消，原主心智便将持续沉寂</OWD_PawnSoul.description>
+  
+</LanguageData>

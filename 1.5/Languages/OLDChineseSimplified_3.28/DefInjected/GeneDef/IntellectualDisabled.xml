@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: intellectual disabled -->
+  <IntellectualDisabled.label>智力缺失</IntellectualDisabled.label>
+  <!-- EN: Carriers of this gene lack the capacity to perform intellectual tasks -->
+  <IntellectualDisabled.description>携带这种基因的个体缺乏执行智力相关任务的能力。</IntellectualDisabled.description>
+  <!-- EN: non-intellectual -->
+  <IntellectualDisabled.labelShortAdj>非智力型</IntellectualDisabled.labelShortAdj>
+  <!-- EN: dull -->
+  <IntellectualDisabled.symbolPack.prefixSymbols.0.symbol>迟钝</IntellectualDisabled.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: simple -->
+  <IntellectualDisabled.symbolPack.prefixSymbols.1.symbol>简单</IntellectualDisabled.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: basic -->
+  <IntellectualDisabled.symbolPack.prefixSymbols.2.symbol>基础</IntellectualDisabled.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: mindless -->
+  <IntellectualDisabled.symbolPack.prefixSymbols.3.symbol>无心智</IntellectualDisabled.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: mind -->
+  <IntellectualDisabled.symbolPack.suffixSymbols.0.symbol>心智</IntellectualDisabled.symbolPack.suffixSymbols.0.symbol>
+  
+</LanguageData>

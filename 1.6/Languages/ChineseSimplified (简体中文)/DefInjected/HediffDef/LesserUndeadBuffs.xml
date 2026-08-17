@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Autonomous imprint -->
+  <OWD_Buff_AutoImp.label>自主印记</OWD_Buff_AutoImp.label>
+  <!-- EN: Partial autonomy reduces the mental capacity required to control this undead. -->
+  <OWD_Buff_AutoImp.description>部分自主权降低了对控制此亡灵生物所需的心智容量</OWD_Buff_AutoImp.description>
+  <!-- EN: I -->
+  <OWD_Buff_AutoImp.stages.I.label>I</OWD_Buff_AutoImp.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_AutoImp.stages.II.label>II</OWD_Buff_AutoImp.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_AutoImp.stages.III.label>III</OWD_Buff_AutoImp.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_AutoImp.stages.IV.label>IV</OWD_Buff_AutoImp.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_AutoImp.stages.V.label>V</OWD_Buff_AutoImp.stages.V.label>
+  <!-- EN: VI -->
+  <OWD_Buff_AutoImp.stages.VI.label>VI</OWD_Buff_AutoImp.stages.VI.label>
+  <!-- EN: VII -->
+  <OWD_Buff_AutoImp.stages.VII.label>VII</OWD_Buff_AutoImp.stages.VII.label>
+  <!-- EN: VIII -->
+  <OWD_Buff_AutoImp.stages.VIII.label>VIII</OWD_Buff_AutoImp.stages.VIII.label>
+  <!-- EN: IX -->
+  <OWD_Buff_AutoImp.stages.IX.label>IX</OWD_Buff_AutoImp.stages.IX.label>
+  <!-- EN: X -->
+  <OWD_Buff_AutoImp.stages.X.label>X</OWD_Buff_AutoImp.stages.X.label>
+  
+  <!-- EN: Dense bones -->
+  <OWD_Buff_DenseBone.label>致密骨骼</OWD_Buff_DenseBone.label>
+  <!-- EN: Reinforced bone structure significantly reduces incoming damage. -->
+  <OWD_Buff_DenseBone.description>强化后的骨骼结构能显著降低所受到的伤害</OWD_Buff_DenseBone.description>
+  <!-- EN: I -->
+  <OWD_Buff_DenseBone.stages.I.label>I</OWD_Buff_DenseBone.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_DenseBone.stages.II.label>II</OWD_Buff_DenseBone.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_DenseBone.stages.III.label>III</OWD_Buff_DenseBone.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_DenseBone.stages.IV.label>IV</OWD_Buff_DenseBone.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_DenseBone.stages.V.label>V</OWD_Buff_DenseBone.stages.V.label>
+  
+  <!-- EN: Jaw control -->
+  <OWD_Buff_JawCtrl.label>颌骨控制</OWD_Buff_JawCtrl.label>
+  <!-- EN: Strengthened jaw bones allow for faster eating and processing. -->
+  <OWD_Buff_JawCtrl.description>强化的颌骨允许更快速地进食与处理</OWD_Buff_JawCtrl.description>
+  <!-- EN: I -->
+  <OWD_Buff_JawCtrl.stages.I.label>I</OWD_Buff_JawCtrl.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_JawCtrl.stages.II.label>II</OWD_Buff_JawCtrl.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_JawCtrl.stages.III.label>III</OWD_Buff_JawCtrl.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_JawCtrl.stages.IV.label>IV</OWD_Buff_JawCtrl.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_JawCtrl.stages.V.label>V</OWD_Buff_JawCtrl.stages.V.label>
+  
+  <!-- EN: Lighter bones -->
+  <OWD_Buff_LightBone.label>轻质骨骼</OWD_Buff_LightBone.label>
+  <!-- EN: This undead has been modified to have lighter bones, increasing its movement speed. -->
+  <OWD_Buff_LightBone.description>该亡灵经过改造，骨骼更轻，移动速度因此提升</OWD_Buff_LightBone.description>
+  <!-- EN: I -->
+  <OWD_Buff_LightBone.stages.I.label>I</OWD_Buff_LightBone.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_LightBone.stages.II.label>II</OWD_Buff_LightBone.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_LightBone.stages.III.label>III</OWD_Buff_LightBone.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_LightBone.stages.IV.label>IV</OWD_Buff_LightBone.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_LightBone.stages.V.label>V</OWD_Buff_LightBone.stages.V.label>
+  
+  <!-- EN: Overdrive -->
+  <OWD_Buff_Overdrive.label>超载</OWD_Buff_Overdrive.label>
+  <!-- EN: A surge of Necrotic archites flow into this undead, reducing attack cooldowns. -->
+  <OWD_Buff_Overdrive.description>一股死灵能量涌入此亡灵体内，缩短了其攻击间隔</OWD_Buff_Overdrive.description>
+  <!-- EN: I -->
+  <OWD_Buff_Overdrive.stages.I.label>I</OWD_Buff_Overdrive.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_Overdrive.stages.II.label>II</OWD_Buff_Overdrive.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_Overdrive.stages.III.label>III</OWD_Buff_Overdrive.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_Overdrive.stages.IV.label>IV</OWD_Buff_Overdrive.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_Overdrive.stages.V.label>V</OWD_Buff_Overdrive.stages.V.label>
+  
+  <!-- EN: Refined coordination -->
+  <OWD_Buff_RefinedCoord.label>精密协调</OWD_Buff_RefinedCoord.label>
+  <!-- EN: The necrotic link that controls this undead is calibrated to enhance accuracy and hit chance. -->
+  <OWD_Buff_RefinedCoord.description>控制此亡灵的死灵连接经过校准，提升了其精确度与命中几率</OWD_Buff_RefinedCoord.description>
+  <!-- EN: I -->
+  <OWD_Buff_RefinedCoord.stages.I.label>I</OWD_Buff_RefinedCoord.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_RefinedCoord.stages.II.label>II</OWD_Buff_RefinedCoord.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_RefinedCoord.stages.III.label>III</OWD_Buff_RefinedCoord.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_RefinedCoord.stages.IV.label>IV</OWD_Buff_RefinedCoord.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_RefinedCoord.stages.V.label>V</OWD_Buff_RefinedCoord.stages.V.label>
+  
+  <!-- EN: refined control -->
+  <OWD_Buff_RefinedCtrl.label>精密控制</OWD_Buff_RefinedCtrl.label>
+  <!-- EN: Enhanced motor control allows for harder hitting melee attacks. -->
+  <OWD_Buff_RefinedCtrl.description>增强的运动控制使其能发动更强力的近战攻击</OWD_Buff_RefinedCtrl.description>
+  <!-- EN: I -->
+  <OWD_Buff_RefinedCtrl.stages.I.label>I</OWD_Buff_RefinedCtrl.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_RefinedCtrl.stages.II.label>II</OWD_Buff_RefinedCtrl.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_RefinedCtrl.stages.III.label>III</OWD_Buff_RefinedCtrl.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_RefinedCtrl.stages.IV.label>IV</OWD_Buff_RefinedCtrl.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_RefinedCtrl.stages.V.label>V</OWD_Buff_RefinedCtrl.stages.V.label>
+  
+  <!-- EN: stabilized core -->
+  <OWD_Buff_StabCore.label>稳固核心</OWD_Buff_StabCore.label>
+  <!-- EN: A highly stable necrotic core extends the lifespan of the undead. -->
+  <OWD_Buff_StabCore.description>高度稳定的死灵核心延长了此亡灵的存续时间</OWD_Buff_StabCore.description>
+  <!-- EN: I -->
+  <OWD_Buff_StabCore.stages.I.label>I</OWD_Buff_StabCore.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Buff_StabCore.stages.II.label>II</OWD_Buff_StabCore.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Buff_StabCore.stages.III.label>III</OWD_Buff_StabCore.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Buff_StabCore.stages.IV.label>IV</OWD_Buff_StabCore.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Buff_StabCore.stages.V.label>V</OWD_Buff_StabCore.stages.V.label>
+  <!-- EN: VI -->
+  <OWD_Buff_StabCore.stages.VI.label>VI</OWD_Buff_StabCore.stages.VI.label>
+  <!-- EN: VII -->
+  <OWD_Buff_StabCore.stages.VII.label>VII</OWD_Buff_StabCore.stages.VII.label>
+  <!-- EN: VIII -->
+  <OWD_Buff_StabCore.stages.VIII.label>VIII</OWD_Buff_StabCore.stages.VIII.label>
+  <!-- EN: IX -->
+  <OWD_Buff_StabCore.stages.IX.label>IX</OWD_Buff_StabCore.stages.IX.label>
+  <!-- EN: X -->
+  <OWD_Buff_StabCore.stages.X.label>X</OWD_Buff_StabCore.stages.X.label>
+  
+  <!-- EN: Bad coordination -->
+  <OWD_Debuff_BadCoord.label>协调障碍</OWD_Debuff_BadCoord.label>
+  <!-- EN: Poor motor control reduces damage output. -->
+  <OWD_Debuff_BadCoord.description>低下的运动控制能力导致伤害输出降低</OWD_Debuff_BadCoord.description>
+  <!-- EN: I -->
+  <OWD_Debuff_BadCoord.stages.I.label>I</OWD_Debuff_BadCoord.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_BadCoord.stages.II.label>II</OWD_Debuff_BadCoord.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_BadCoord.stages.III.label>III</OWD_Debuff_BadCoord.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_BadCoord.stages.IV.label>IV</OWD_Debuff_BadCoord.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_BadCoord.stages.V.label>V</OWD_Debuff_BadCoord.stages.V.label>
+  
+  <!-- EN: Brittle bones -->
+  <OWD_Debuff_BrittleBone.label>脆弱骨骼</OWD_Debuff_BrittleBone.label>
+  <!-- EN: Weakened bone structure increases incoming damage. -->
+  <OWD_Debuff_BrittleBone.description>骨骼结构弱化，导致受到伤害增加</OWD_Debuff_BrittleBone.description>
+  <!-- EN: I -->
+  <OWD_Debuff_BrittleBone.stages.I.label>I</OWD_Debuff_BrittleBone.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_BrittleBone.stages.II.label>II</OWD_Debuff_BrittleBone.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_BrittleBone.stages.III.label>III</OWD_Debuff_BrittleBone.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_BrittleBone.stages.IV.label>IV</OWD_Debuff_BrittleBone.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_BrittleBone.stages.V.label>V</OWD_Debuff_BrittleBone.stages.V.label>
+  
+  <!-- EN: Calcified joints -->
+  <OWD_Debuff_CalcJoints.label>关节钙化</OWD_Debuff_CalcJoints.label>
+  <!-- EN: This undead suffers from calcified joints, reducing its movement speed. -->
+  <OWD_Debuff_CalcJoints.description>此亡灵因关节钙化而行动迟缓，移动速度降低</OWD_Debuff_CalcJoints.description>
+  <!-- EN: I -->
+  <OWD_Debuff_CalcJoints.stages.I.label>I</OWD_Debuff_CalcJoints.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_CalcJoints.stages.II.label>II</OWD_Debuff_CalcJoints.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_CalcJoints.stages.III.label>III</OWD_Debuff_CalcJoints.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_CalcJoints.stages.IV.label>IV</OWD_Debuff_CalcJoints.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_CalcJoints.stages.V.label>V</OWD_Debuff_CalcJoints.stages.V.label>
+  
+  <!-- EN: Conflicting Will -->
+  <OWD_Debuff_HazyLink.label>意志冲突</OWD_Debuff_HazyLink.label>
+  <!-- EN: The necrotic link flickers, decreasing attack speed. -->
+  <OWD_Debuff_HazyLink.description>死灵连接变得不稳定，导致攻击速度降低</OWD_Debuff_HazyLink.description>
+  <!-- EN: I -->
+  <OWD_Debuff_HazyLink.stages.I.label>I</OWD_Debuff_HazyLink.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_HazyLink.stages.II.label>II</OWD_Debuff_HazyLink.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_HazyLink.stages.III.label>III</OWD_Debuff_HazyLink.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_HazyLink.stages.IV.label>IV</OWD_Debuff_HazyLink.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_HazyLink.stages.V.label>V</OWD_Debuff_HazyLink.stages.V.label>
+  
+  <!-- EN: leaking core -->
+  <OWD_Debuff_LeakCore.label>核心泄露</OWD_Debuff_LeakCore.label>
+  <!-- EN: The necrotic energy core that stores the energy required to animate this undead is leaking, significantly reducing the lifespan of the undead. -->
+  <OWD_Debuff_LeakCore.description>为该亡灵供能的死灵能量核心正在泄露，这会显著缩短其存续时间</OWD_Debuff_LeakCore.description>
+  <!-- EN: I -->
+  <OWD_Debuff_LeakCore.stages.I.label>I</OWD_Debuff_LeakCore.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_LeakCore.stages.II.label>II</OWD_Debuff_LeakCore.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_LeakCore.stages.III.label>III</OWD_Debuff_LeakCore.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_LeakCore.stages.IV.label>IV</OWD_Debuff_LeakCore.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_LeakCore.stages.V.label>V</OWD_Debuff_LeakCore.stages.V.label>
+  <!-- EN: VI -->
+  <OWD_Debuff_LeakCore.stages.VI.label>VI</OWD_Debuff_LeakCore.stages.VI.label>
+  <!-- EN: VII -->
+  <OWD_Debuff_LeakCore.stages.VII.label>VII</OWD_Debuff_LeakCore.stages.VII.label>
+  <!-- EN: VIII -->
+  <OWD_Debuff_LeakCore.stages.VIII.label>VIII</OWD_Debuff_LeakCore.stages.VIII.label>
+  <!-- EN: IX -->
+  <OWD_Debuff_LeakCore.stages.IX.label>IX</OWD_Debuff_LeakCore.stages.IX.label>
+  <!-- EN: X -->
+  <OWD_Debuff_LeakCore.stages.X.label>X</OWD_Debuff_LeakCore.stages.X.label>
+  
+  <!-- EN: Poor conversion -->
+  <OWD_Debuff_PoorConv.label>低效转换</OWD_Debuff_PoorConv.label>
+  <!-- EN: Inefficient matter to archite conversion, eating is slowed down to give the required time for the conversion. -->
+  <OWD_Debuff_PoorConv.description>物质到能量的转换效率低下，进食因此减慢，以提供必需的转换时间</OWD_Debuff_PoorConv.description>
+  <!-- EN: I -->
+  <OWD_Debuff_PoorConv.stages.I.label>I</OWD_Debuff_PoorConv.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_PoorConv.stages.II.label>II</OWD_Debuff_PoorConv.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_PoorConv.stages.III.label>III</OWD_Debuff_PoorConv.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_PoorConv.stages.IV.label>IV</OWD_Debuff_PoorConv.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_PoorConv.stages.V.label>V</OWD_Debuff_PoorConv.stages.V.label>
+  
+  <!-- EN: Residual will -->
+  <OWD_Debuff_ResWill.label>残留意念</OWD_Debuff_ResWill.label>
+  <!-- EN: The undead fights back against control, increasing the mental requirements to maintain it. -->
+  <OWD_Debuff_ResWill.description>此亡灵反抗控制，增加了维持控制所需的心智消耗</OWD_Debuff_ResWill.description>
+  <!-- EN: I -->
+  <OWD_Debuff_ResWill.stages.I.label>I</OWD_Debuff_ResWill.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_ResWill.stages.II.label>II</OWD_Debuff_ResWill.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_ResWill.stages.III.label>III</OWD_Debuff_ResWill.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_ResWill.stages.IV.label>IV</OWD_Debuff_ResWill.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_ResWill.stages.V.label>V</OWD_Debuff_ResWill.stages.V.label>
+  <!-- EN: VI -->
+  <OWD_Debuff_ResWill.stages.VI.label>VI</OWD_Debuff_ResWill.stages.VI.label>
+  <!-- EN: VII -->
+  <OWD_Debuff_ResWill.stages.VII.label>VII</OWD_Debuff_ResWill.stages.VII.label>
+  <!-- EN: VIII -->
+  <OWD_Debuff_ResWill.stages.VIII.label>VIII</OWD_Debuff_ResWill.stages.VIII.label>
+  <!-- EN: IX -->
+  <OWD_Debuff_ResWill.stages.IX.label>IX</OWD_Debuff_ResWill.stages.IX.label>
+  <!-- EN: X -->
+  <OWD_Debuff_ResWill.stages.X.label>X</OWD_Debuff_ResWill.stages.X.label>
+  
+  <!-- EN: Sluggish -->
+  <OWD_Debuff_Sluggish.label>迟缓</OWD_Debuff_Sluggish.label>
+  <!-- EN: Slow reactions significantly reduce accuracy and hit chance. -->
+  <OWD_Debuff_Sluggish.description>反应迟钝，严重降低了其精确度与命中几率</OWD_Debuff_Sluggish.description>
+  <!-- EN: I -->
+  <OWD_Debuff_Sluggish.stages.I.label>I</OWD_Debuff_Sluggish.stages.I.label>
+  <!-- EN: II -->
+  <OWD_Debuff_Sluggish.stages.II.label>II</OWD_Debuff_Sluggish.stages.II.label>
+  <!-- EN: III -->
+  <OWD_Debuff_Sluggish.stages.III.label>III</OWD_Debuff_Sluggish.stages.III.label>
+  <!-- EN: IV -->
+  <OWD_Debuff_Sluggish.stages.IV.label>IV</OWD_Debuff_Sluggish.stages.IV.label>
+  <!-- EN: V -->
+  <OWD_Debuff_Sluggish.stages.V.label>V</OWD_Debuff_Sluggish.stages.V.label>
+  
+</LanguageData>

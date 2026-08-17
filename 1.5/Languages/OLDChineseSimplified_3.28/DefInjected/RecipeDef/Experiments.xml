@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Write Experiment Results I -->
+  <Make_ExperimentResultsI.label>撰写实验结果I</Make_ExperimentResultsI.label>
+  <!-- EN: Write the results of your experiments on paper -->
+  <Make_ExperimentResultsI.description>将你的实验结果记录在纸上。</Make_ExperimentResultsI.description>
+  <!-- EN: Experimenting. -->
+  <Make_ExperimentResultsI.jobString>进行实验中。</Make_ExperimentResultsI.jobString>
+  
+  <!-- EN: Write Experiment Results II -->
+  <Make_ExperimentResultsII.label>撰写实验结果II</Make_ExperimentResultsII.label>
+  <!-- EN: Write the results of your experiments on paper. -->
+  <Make_ExperimentResultsII.description>将你的实验结果记录在纸上。</Make_ExperimentResultsII.description>
+  <!-- EN: Experimenting -->
+  <Make_ExperimentResultsII.jobString>进行实验中。</Make_ExperimentResultsII.jobString>
+  
+  <!-- EN: Write Experiment Results III -->
+  <Make_ExperimentResultsIII.label>撰写实验结果III</Make_ExperimentResultsIII.label>
+  <!-- EN: Craft the ultimate record of necromantic mastery from corpses and green crystals. -->
+  <Make_ExperimentResultsIII.description>使用尸体与翠绿灵晶制作死灵法术的最终记录。</Make_ExperimentResultsIII.description>
+  <!-- EN: Experimenting. -->
+  <Make_ExperimentResultsIII.jobString>进行实验中。</Make_ExperimentResultsIII.jobString>
+  
+</LanguageData>

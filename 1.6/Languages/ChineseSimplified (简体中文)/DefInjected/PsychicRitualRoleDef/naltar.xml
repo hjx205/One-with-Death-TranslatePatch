@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chanter -->
+  <OWD_Chanter.label>吟咒者</OWD_Chanter.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <OWD_Chanter.description>吟咒者通过咏唱为仪式注入灵能强化</OWD_Chanter.description>
+  
+  <!-- EN: invoker -->
+  <OWD_Invoker.label>主祭</OWD_Invoker.label>
+  
+  <!-- EN: sacrifice -->
+  <OWD_Sacrifice.label>祭品</OWD_Sacrifice.label>
+  <!-- EN: The person to be sacrificed for the ritual. -->
+  <OWD_Sacrifice.description>作为仪式祭品被献祭的个体</OWD_Sacrifice.description>
+  
+</LanguageData>

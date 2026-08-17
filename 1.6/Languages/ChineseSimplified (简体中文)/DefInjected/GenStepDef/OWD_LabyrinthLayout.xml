@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: place custom necrotic chamber -->
+  <OWD_PlaceCustomRoom.label>放置自定义死灵室</OWD_PlaceCustomRoom.label>
+  
+  <!-- EN: scatter pocket dimension corpses -->
+  <OWD_ScatterPocketDimensionCorpses.label>驱散口袋次元的尸体</OWD_ScatterPocketDimensionCorpses.label>
+  
+</LanguageData>

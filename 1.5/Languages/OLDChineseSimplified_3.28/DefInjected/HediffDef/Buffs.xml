@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Regeneration -->
+  <OWD_NecroticRegeneration.label>死灵再生</OWD_NecroticRegeneration.label>
+  <!-- EN: A surge of necrotic energy accelerates healing restoring flesh and bones in the undead. -->
+  <OWD_NecroticRegeneration.description>大量的死灵能量正在加速重构亡灵的血肉。</OWD_NecroticRegeneration.description>
+  
+</LanguageData>

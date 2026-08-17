@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Altar -->
+  <OWD_Altar.label>死灵祭坛</OWD_Altar.label>
+  <!-- EN: An altar that converts corpses to necrotic energy. Due to the conversion requiring a weak link between the control servitor and the body, only humanlike corpses can be used. Can also be used as a focus for necromantic rituals. -->
+  <OWD_Altar.description>可将尸体转化为死灵能量的仪式祭坛。因需通过控制侍从与尸体建立临时精神链接，故仅能处理类人生物遗骸。同时也是施展高级死灵法术的核心能量枢纽</OWD_Altar.description>
+  
+</LanguageData>

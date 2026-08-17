@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bound to necromancer -->
+  <BoundToNecromancer.stages.bound_to_necromancer.label>死灵链接</BoundToNecromancer.stages.bound_to_necromancer.label>
+  <!-- EN: A profound sense of loyalty -->
+  <BoundToNecromancer.stages.bound_to_necromancer.description>亡者效忠于你。</BoundToNecromancer.stages.bound_to_necromancer.description>
+  
+  <!-- EN: Familiar with death -->
+  <FamiliarWithDeathPositive.stages.Familiar_with_death.label>窥视死亡</FamiliarWithDeathPositive.stages.Familiar_with_death.label>
+  <!-- EN: The link to death grows stronger, you feel a calm detachment and improved mental clarity. -->
+  <FamiliarWithDeathPositive.stages.Familiar_with_death.description>与死亡的连接变得更加强烈，你感到一种平静的超然和更清晰的心智。</FamiliarWithDeathPositive.stages.Familiar_with_death.description>
+  
+  <!-- EN: One with death -->
+  <OneWithDeathPositive.stages.One_with_death.label>死亡化身</OneWithDeathPositive.stages.One_with_death.label>
+  <!-- EN: You have become one with death, you feel linked to eternity itself, that comes with a sense of bliss -->
+  <OneWithDeathPositive.stages.One_with_death.description>你已经与死亡融为一体，感觉与永恒本身联系在一起，伴随而来的是一种幸福感。</OneWithDeathPositive.stages.One_with_death.description>
+  
+  <!-- EN: Undead -->
+  <UndeadTranquillity.stages.Undead.label>亡灵</UndeadTranquillity.stages.Undead.label>
+  <!-- EN: The link to the one that revived you fills your mind with its thoughts. -->
+  <UndeadTranquillity.stages.Undead.description>与你亡灵的连接占据了你的思维。</UndeadTranquillity.stages.Undead.description>
+  
+  <!-- EN: Undead -->
+  <UndeadTranquillityChampion.stages.Undead.label>亡灵</UndeadTranquillityChampion.stages.Undead.label>
+  <!-- EN: The link to the one that revived you fills your mind with its thoughts. -->
+  <UndeadTranquillityChampion.stages.Undead.description>与你亡灵的连接占据了你的思维。</UndeadTranquillityChampion.stages.Undead.description>
+  
+  <!-- EN: Undead -->
+  <UndeadTranquillityOverseer.stages.Undead.label>亡灵</UndeadTranquillityOverseer.stages.Undead.label>
+  <!-- EN: The link to the one that revived you fills your mind with positivity. -->
+  <UndeadTranquillityOverseer.stages.Undead.description>与你亡灵的连接为你的思维注入了力量。</UndeadTranquillityOverseer.stages.Undead.description>
+  
+  <!-- EN: Understanding of Death -->
+  <UnfamiliarWithDeathPositive.stages.Understanding_of_Death.label>理解死亡</UnfamiliarWithDeathPositive.stages.Understanding_of_Death.label>
+  <!-- EN: You are just beginning to understand death, you feel a link to something bigger. -->
+  <UnfamiliarWithDeathPositive.stages.Understanding_of_Death.description>你刚刚开始理解死亡，感觉自己与某种更宏大的存在建立了联系。</UnfamiliarWithDeathPositive.stages.Understanding_of_Death.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Provocation -->
+  <OWD_ProvokeObelisk.label>骸能唤灵·虚空应召</OWD_ProvokeObelisk.label>
+  <!-- EN: Perform a ritual using necrotic energy as a medium, like screaming into the void and waiting for an answer. Whatever responds has to be somehow related to the necrotic energy itself. -->
+  <OWD_ProvokeObelisk.description>以死灵能量为媒施行仪式，如向虚空嘶吼静候回响。凡有所应者，必与死灵能量同源</OWD_ProvokeObelisk.description>
+  <!-- EN: A necrotic obelisk will manifest somewhere on the map, guarded by several undead minions. -->
+  <OWD_ProvokeObelisk.outcomeDescription>骸能方尖碑将现于地图某处，其周有数名亡灵扈从拱卫</OWD_ProvokeObelisk.outcomeDescription>
+  
+</LanguageData>

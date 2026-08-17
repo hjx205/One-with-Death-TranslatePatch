@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cemetery -->
+  <NecroCemetery.label>墓地</NecroCemetery.label>
+  <!-- EN: View deceased undead. -->
+  <NecroCemetery.description>查看已逝的亡灵。</NecroCemetery.description>
+  
+  <!-- EN: list -->
+  <NecroList.label>列表</NecroList.label>
+  <!-- EN: View the list of undead controlled by the necromancer. -->
+  <NecroList.description>查看死灵法师控制的亡灵列表。</NecroList.description>
+  
+  <!-- EN: Nskip -->
+  <NecroNskip.label>Nskip</NecroNskip.label>
+  <!-- EN: Reserved for future use. -->
+  <NecroNskip.description>保留供未来使用。</NecroNskip.description>
+  
+  <!-- EN: select all -->
+  <NecroSelectAllMechs.label>全选</NecroSelectAllMechs.label>
+  <!-- EN: Select all undead in this control group. -->
+  <NecroSelectAllMechs.description>选择此控制组中的所有亡灵。</NecroSelectAllMechs.description>
+  
+</LanguageData>

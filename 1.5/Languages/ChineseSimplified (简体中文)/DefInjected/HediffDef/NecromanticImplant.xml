@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necromancer -->
+  <NecromancerImplant.label>死灵法师</NecromancerImplant.label>
+  <!-- EN: Manage and control archites to raise undead and perform other abilities -->
+  <NecromancerImplant.description>管理和控制死灵能量以复活亡灵并执行其他能力。</NecromancerImplant.description>
+  
+</LanguageData>

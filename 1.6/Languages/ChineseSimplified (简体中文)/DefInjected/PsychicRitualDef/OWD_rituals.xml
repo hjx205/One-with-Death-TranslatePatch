@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic provocation -->
+  <OWD_ritual_provocation.label>死灵扰动</OWD_ritual_provocation.label>
+  <!-- EN: Perform a ritual using necrotic energy as a medium, like screaming into the void and waiting for an answer. Whatever responds has to be somehow related to the necrotic energy itself. -->
+  <OWD_ritual_provocation.description>以死灵能量为媒介进行仪式，如同对虚空呐喊并等待回应。任何回应必然与死灵能量有某种联系。</OWD_ritual_provocation.description>
+  <!-- EN: A necrotic obelisk will manifest somewhere on the map, guarded by several undead minions. -->
+  <OWD_ritual_provocation.outcomeDescription>一个死灵方尖碑将在地图某处显现，并由数名亡灵侍从守卫。</OWD_ritual_provocation.outcomeDescription>
+  
+</LanguageData>

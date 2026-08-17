@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced necromancy -->
+  <AdvancedNecromancy.label>炉火纯青</AdvancedNecromancy.label>
+  <!-- EN: Infusing extreme amounts of necrotic energy into a body is dangerous, most simply rupture from the strain. Yet, I have succeeded. These undead regenerate at an astonishing rate, flesh reforming even from total desiccation. Their minds retain fragments of their past selves, their cognitive abilities enhanced beyond previous limits. The mental effort to control them is immense, but the results are undeniable. They seem to innatively know how to channel necrotic energy, but they can't store them optimally, they need to sacrifice their own flesh in order to make use of it. Fortunately they do have the ability to regenerate themselves. -->
+  <AdvancedNecromancy.description>将极大量的死灵能量注入一个躯体是极其危险的，大多数情况会因压力而直接崩裂。然而，我成功了。这些亡灵能够以惊人的速度再生，甚至从完全干枯的状态中复原。它们的心智保留了过去的片段，其认知能力超越了之前的极限。控制它们的精神压力巨大，但结果是不容忽视的。它们天生知道如何引导死灵能量，但却无法最佳地存储能量，需要牺牲自己的血肉来使用。不过，它们拥有自我再生的能力。</AdvancedNecromancy.description>
+  
+  <!-- EN: control expansion -->
+  <ControlExpansion.label>强化控制</ControlExpansion.label>
+  <!-- EN: Increasing the limit of undead I can control should be possible in theory, but each increase disrupts all known variables. Progress must be made carefully, step by step. -->
+  <ControlExpansion.description>理论上增加我所能控制的亡灵数量是可能的，但每次增加都会干扰已知的变量。进展必须小心谨慎，一步一步地推进。</ControlExpansion.description>
+  
+  <!-- EN: First experiment -->
+  <FirstExperiment.label>渐入佳境</FirstExperiment.label>
+  <!-- EN: As I study the undead, I begin to perceive something, an unseen link binding them to an unknown force. The more necrotic energy I channel through my own body, the clearer this connection becomes. Sleep and hunger fade, replaced by a deeper understanding of death and undeath. -->
+  <FirstExperiment.description>在研究亡灵的过程中，我逐渐感知到某种东西，一种将它们和某种未知力量联系在一起的无形链接。我通过自身引导的死灵能量越多，这种连接就越清晰。睡眠和饥饿逐渐消退，取而代之的是对死亡与永生更深刻的理解。</FirstExperiment.description>
+  
+  <!-- EN: intermediate necromancy -->
+  <IntermediateNecromancy.label>初窥门径</IntermediateNecromancy.label>
+  <!-- EN: Channeling a greater concentration of necrotic energy into a single undead enhances its strength and speed, even granting regeneration. However, the strain on the mind to control such an entity increases significantly. -->
+  <IntermediateNecromancy.description>将更高浓度的死灵能量注入一个亡灵体内,这能够增强其力量和速度，甚至赋予再生能力。然而，控制这种存在对精神的负担将显著增加。</IntermediateNecromancy.description>
+  
+  <!-- EN: necrotic healing -->
+  <NecroticHealing.label>死灵再生</NecroticHealing.label>
+  <!-- EN: By infusing undead tissue with raw necrotic energy, we can cause their flesh and bones to rapidly regenerate -->
+  <NecroticHealing.description>通过将纯粹的死灵能量注入亡灵组织，我们可以使它们的血肉和骨骼迅速再生。</NecroticHealing.description>
+  
+  <!-- EN: Neural Shackle -->  
+  <NeuralShackleTech.label>死灵链接</NeuralShackleTech.label>  
+  <!-- EN: Unlocks the ability to craft and install neural shackles. By studying the link between a necromancer and the undead, I learned that by using a catalyst on a living being, it's possible to recreate something similar. While Unable to fully control the living being, I can access parts of their brain, using them to help you control more undead. In a pinch, I am able to use the link to directly use their bodies as fuel for the archites. -->  
+  <NeuralShackleTech.description>解锁制造和安装死灵链接的能力。通过研究死灵法师与亡灵之间的链接，我发现可以对活体使用催化剂来重现类似的链接效果。虽然无法完全控制活体，但我可以访问其大脑的部分区域，借此帮助我控制更多亡灵。在紧急情况下，我还能通过这种链接直接将他们的身体作为始机体的燃料。</NeuralShackleTech.description>  
+  
+  <!-- EN: one with death -->
+  <OneWithDeath.label>死亡化身</OneWithDeath.label>
+  <!-- EN: I have fully embraced death and undeath. The unseen connection that binds me to something far beyond mortal comprehension sustains my body, keeping me alive without food, sleep, or breath. - -Gain the ability to resurrect yourself using 25 Necrotic Energy or any alternative like controlled undead. -->
+  <OneWithDeath.description>我已经完全拥抱了死亡与永生。那种将我与超越凡人理解的事物连接在一起的无形纽带支撑着我的身体，使我无需食物、睡眠或呼吸便能活下去。流淌于我体内的巨大死灵能量已经不可逆转地改变了我——我再也无法保持人的外貌。</OneWithDeath.description>
+  
+  <!-- EN: Second experiment -->
+  <SecondExperiment.label>登堂入室</SecondExperiment.label>
+  <!-- EN: The more of these archites I infuse in my body, the more I connect myself with "it", whatever it is. I feel more detached from my needs and more focused on the work that needs to be done. -->
+  <SecondExperiment.description>我在身体中注入的亡灵能量越多，就越能够与那个“它”建立更深的联系，无论它是什么。我感觉自己越来越脱离基本需求，而更加专注于需要完成的工作。</SecondExperiment.description>
+  
+  <!-- EN: Self Experimentation -->
+  <SelfExperimentation.label>视死如归</SelfExperimentation.label>
+  <!-- EN: The pursuit of knowledge demands sacrifice. By experimenting on myself, I can gain a firsthand understanding of the intricacies of necromantic power. -->
+  <SelfExperimentation.description>对知识的追求需要牺牲。通过对自己进行实验，我能够亲身体会死灵力量的奥秘。</SelfExperimentation.description>
+  
+  <!-- EN: skip horde -->
+  <SkipHorde.label>群体幽冥折跃</SkipHorde.label>
+  <!-- EN: Building upon the shambler breakthrough, I can now skip multiple shamblers at once. Their hostily means I should be careful where to skip them. -->
+  <SkipHorde.description>基于在幽冥折跃上的突破研究，我现在可以一次性折跃多个蹒跚怪。然而，它们的敌对性意味着我需要谨慎选择折跃的地点。</SkipHorde.description>
+  
+  <!-- EN: Skip shambler -->
+  <SkipShambler.label>幽冥折跃</SkipShambler.label>
+  <!-- EN: The Shamblers leave a trace signature of archites that is possible to locate, with this, It should be possible to skip them here. Since I can't infuse them with the archites that flow in my body they will be hostile however. -->
+  <SkipShambler.description>蹒跚怪留下了一种可以追踪的亡灵能量痕迹，借此可以在此处对它们进行折跃。由于我无法为它们注入流淌于我体内的亡灵能量，它们将保持敌对状态。</SkipShambler.description>
+  
+  <!-- EN: Study of necromancy -->
+  <StudyOfNecromancy.label>向死之路</StudyOfNecromancy.label>
+  <!-- EN: Trying to consume an undead instead of a corpse unexpectedly produced some form of crystal. We know for sure that it's a mixture of self replicating archites and something else.  If guided by a concious mind, these archites will consume any type of flesh in order to replicate and spread, while entering some sort of psychic link with the one connected to them. Now we can truly begin to study how to use them effectively. -->
+  <StudyOfNecromancy.description>现在我们分析了原生能量晶体，可以确认它是自我复制的亡灵能量与其他物质的混合体。如果由有意识的头脑引导，它们将消耗任何类型的血肉来自我复制。现在我们可以真正开始研究如何有效地使用它们。</StudyOfNecromancy.description>
+  
+  <!-- EN: unsafe casting -->
+  <UnsafeCasting.label>血肉燃魂</UnsafeCasting.label>
+  <!-- EN: Through my studies, I discovered that every living or dead body harbors the potential to replicate necrotic archites. This revelation enables me to channel necromantic abilities using my own body as fuel,granting power at the expens of my own flesh. -->
+  <UnsafeCasting.description>通过研究，我发现每个活体或死体都潜藏着复制死灵亡灵能量的潜力。这一发现使我能够以自己的血肉为燃料，施展死灵能力，获得强大的力量。</UnsafeCasting.description>
+  
+</LanguageData>

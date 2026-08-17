@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archite dust -->
+  <OWD_ArchiteDust.label>死灵花灰烬</OWD_ArchiteDust.label>
+  <!-- EN: A mixture of plant matter and necrotic archites, once cut, this flower's entire structure collapses until only dust remains. -->
+  <OWD_ArchiteDust.description>植物组织与坏死死灵花的混合物，被切割后，这种花朵的整个结构会崩解，最终仅剩灰烬残留</OWD_ArchiteDust.description>
+  
+  <!-- EN: Necro-Bloom tonic -->
+  <OWD_NecroBloomTonic.label>死灵绽露药剂</OWD_NecroBloomTonic.label>
+  <!-- EN: A refined slurry of biomatter and necrotic archites. Has various effects if consumed but its main effect is to maintain a control servitor. -->
+  <OWD_NecroBloomTonic.description>由生物质与坏死死灵花精炼而成的浆液。饮用后会产生多种效果，但其主要用途是维持控制型仆从的存续。</OWD_NecroBloomTonic.description>
+  <!-- EN: Drink Necro-Bloom tonic -->
+  <OWD_NecroBloomTonic.comps.CompUsable.useLabel>饮用死灵绽露药剂</OWD_NecroBloomTonic.comps.CompUsable.useLabel>
+  
+  <!-- EN: necro-bloom -->
+  <OWD_Plant_Necrobloom.label>死灵绽放花</OWD_Plant_Necrobloom.label>
+  <!-- EN: This flower is capable of absorbing storing and replicating necrotic archites inside itself. Doing so modifies its cellular structure to be the perfect recipient to store large quantities of necrotic archites. -->
+  <OWD_Plant_Necrobloom.description>这种花朵能够吸收、储存并复制体内的坏死死灵花能量。此过程会改变其细胞结构，使其成为储存大量死灵能量的完美容器</OWD_Plant_Necrobloom.description>
+  
+</LanguageData>

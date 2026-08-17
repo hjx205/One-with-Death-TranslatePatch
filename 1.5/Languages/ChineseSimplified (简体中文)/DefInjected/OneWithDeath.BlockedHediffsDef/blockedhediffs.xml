@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: OWD Blocked Hediffs -->
+<OWD_BlockedHediffsList.label>OWD (OneWithDeath) 阻挡的 Hediff 列表</OWD_BlockedHediffsList.label>
+<!-- EN: Defines hediffs that should be blocked from being added to OWD undead types. -->
+<OWD_BlockedHediffsList.description>定义应阻止添加到 OWD 不死生物类型的 Hediff。</OWD_BlockedHediffsList.description>
+
+</LanguageData>

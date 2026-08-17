@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Obelisk -->
+  <OWD_ObeliskEntrance.label>死灵方尖碑</OWD_ObeliskEntrance.label>
+  <!-- EN: A strange obelisk humming with latent energy. It seems to be a focal point, a gateway to a pocket dimension. -->
+  <OWD_ObeliskEntrance.description>一座奇异的方尖碑，蕴含着潜在能量的低鸣。它仿佛是某种汇聚点，极有可能是通往异界的门户。可拆卸并重新安装，建造前需研究"炉火纯青"。</OWD_ObeliskEntrance.description>
+  <!-- EN: A strange obelisk humming with latent energy. -->
+  <OWD_ObeliskEntrance.comps.CompInspectString.inspectString>一座奇异的方尖碑，蕴含着潜在能量的低鸣。</OWD_ObeliskEntrance.comps.CompInspectString.inspectString>
+  <!-- EN: Labyrinth Entered -->
+  <OWD_ObeliskEntrance.portal.enteredLetterLabel>误入死灵迷宫</OWD_ObeliskEntrance.portal.enteredLetterLabel>
+  <!-- EN: Your colonists have entered the necrotic labyrinth. The only way out is through the portal at its heart. -->
+  <OWD_ObeliskEntrance.portal.enteredLetterText>你的殖民者进入了死灵迷宫。唯一逃生途径是穿过位于核心处的传送门</OWD_ObeliskEntrance.portal.enteredLetterText>
+  
+  <!-- EN: Necrotic Obelisk (Exit) -->
+  <OWD_ObeliskExit.label>死灵方尖碑（出口）</OWD_ObeliskExit.label>
+  <!-- EN: A shimmering portal anchored by an obelisk fragment. It seems to lead back to where you came from. -->
+  <OWD_ObeliskExit.description>一道由方尖碑碎片锚定的闪烁传送门，看起来可以带你返回来时之地。</OWD_ObeliskExit.description>
+  <!-- EN: A portal leading back. -->
+  <OWD_ObeliskExit.comps.CompInspectString.inspectString>一扇通向回归之路的传送门。</OWD_ObeliskExit.comps.CompInspectString.inspectString>
+  
+</LanguageData>

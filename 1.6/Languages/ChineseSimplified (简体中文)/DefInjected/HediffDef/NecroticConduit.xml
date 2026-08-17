@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Shambler Link -->
+  <OWD_NecroticFlow.label>蹒跚怪链接</OWD_NecroticFlow.label>
+  <!-- EN: A conduit of necrotic archites linking the necromancer to shamblers raised with the same type of archites. It uses a shard of dark archotechnology as its connection point. You can only speculate about its inner workings, but one thing is clear from your experiments: the number of controllable shamblers is directly tied to the extent of your control. Undead Overseers should be able to help you extend this limit further. -->
+  <OWD_NecroticFlow.description>一条由死灵能量构成的通道，将死灵法师与同源死灵能量复苏的蹒跚者连接起来。它使用一块暗黑超凡科技碎片作为链接点。其内部机制仍属猜测，但你的实验已证明：可控制的蹒跚怪数量与你的掌控极限直接相关。亡灵督军能够帮助你进一步提升这一上限。</OWD_NecroticFlow.description>
+  
+</LanguageData>

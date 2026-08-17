@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: necrotic core -->
+<OWD_NecroticCore.label>死灵核心</OWD_NecroticCore.label>
+<!-- EN: An installed necrotic core. This implant replaces the heart of an undead pawn, sustaining their body with necrotic energy, boosting regeneration. -->
+<OWD_NecroticCore.description>已安装的死灵核心。这种植入体会取代不死生物的心脏，通过死灵能量维持其身体，并增强再生能力。</OWD_NecroticCore.description>
+<!-- EN: a necrotic core -->
+<OWD_NecroticCore.labelNoun>一个死灵核心</OWD_NecroticCore.labelNoun>
+
+</LanguageData>

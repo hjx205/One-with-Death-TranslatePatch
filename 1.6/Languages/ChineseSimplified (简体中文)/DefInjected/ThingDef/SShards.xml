@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soul Shard (Empty) -->
+  <OWD_SoulShardEmpty.label>灵魂碎片(空白)</OWD_SoulShardEmpty.label>
+  <!-- EN: A shard of obsidian-like crystal, strangely cold to the touch. It seems to hum with a faint, empty resonance, as if waiting to be filled. -->
+  <OWD_SoulShardEmpty.description>一块黑曜石般的晶体碎片，触感异常冰冷。它发出微弱的空洞共鸣，仿佛在等待被填满</OWD_SoulShardEmpty.description>
+  
+  <!-- EN: Soul Shard -->
+  <OWD_SoulShardFilled_Major.label>充能灵魂碎片（大型）</OWD_SoulShardFilled_Major.label>
+  <!-- EN: A shard of obsidian-like crystal that glows with a faint light. It feels warm to the touch. It is filled with fragments of memory from another Pawn. -->
+  <OWD_SoulShardFilled_Major.description>一块散发微光的黑曜石晶体，触感温暖。内部封存着其他角色的记忆碎片，可被吸收获取其能力</OWD_SoulShardFilled_Major.description>
+  <!-- EN: Consume {0_label} -->
+  <OWD_SoulShardFilled_Major.comps.CompUsable_ConsumeSoulShard.useLabel>吸收{0_label}</OWD_SoulShardFilled_Major.comps.CompUsable_ConsumeSoulShard.useLabel>
+  
+  <!-- EN: Soul Shard -->
+  <OWD_SoulShardFilled_Minor.label>充能灵魂碎片（小型）</OWD_SoulShardFilled_Minor.label>
+  <!-- EN: A shard of obsidian-like crystal that glows with a faint light. It feels warm to the touch. It is filled with fragments of memory from another Pawn. -->
+  <OWD_SoulShardFilled_Minor.description>一块散发微光的黑曜石晶体，触感温暖。内部封存着其他角色的零散记忆，可被吸收获取部分能力</OWD_SoulShardFilled_Minor.description>
+  <!-- EN: Consume {0_label} -->
+  <OWD_SoulShardFilled_Minor.comps.CompUsable_ConsumeSoulShard.useLabel>吸收{0_label}</OWD_SoulShardFilled_Minor.comps.CompUsable_ConsumeSoulShard.useLabel>
+  
+</LanguageData>

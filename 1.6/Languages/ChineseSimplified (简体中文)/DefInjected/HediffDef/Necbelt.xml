@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: necrotic orb -->
+  <OWD_Hediff_NecroticOrb.label>死灵宝珠</OWD_Hediff_NecroticOrb.label>
+  <!-- EN: An installed necrotic orb. It projects a powerful energy shield. -->
+  <OWD_Hediff_NecroticOrb.description>一个植入的死灵宝珠，可投射强大的能量护盾。</OWD_Hediff_NecroticOrb.description>
+  <!-- EN: a Necrotic orb -->
+  <OWD_Hediff_NecroticOrb.labelNoun>一个死灵宝珠</OWD_Hediff_NecroticOrb.labelNoun>
+  
+  <!-- UNUSED -->
+  <OWD_Hediff_NecroticOrb.comps.HediffComp_LetterOnDeath.letterLabel>可回收的死灵宝珠可用</OWD_Hediff_NecroticOrb.comps.HediffComp_LetterOnDeath.letterLabel>
+  <OWD_Hediff_NecroticOrb.comps.HediffComp_LetterOnDeath.letterText>{PAWN} 死于体内植入 {HEDIFF_label}。该宝珠可以拆卸并由他人重新安装。</OWD_Hediff_NecroticOrb.comps.HediffComp_LetterOnDeath.letterText>
+  
+</LanguageData>

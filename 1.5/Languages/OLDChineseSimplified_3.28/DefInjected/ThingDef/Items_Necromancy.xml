@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Green crystal -->
+  <GreenCrystal.label>翠绿灵晶</GreenCrystal.label>
+  <!-- EN: A green crystal that seems to be made from condensed archites and crystallized energy. -->
+  <GreenCrystal.description>一种绿色的水晶，似乎由浓缩的亡灵能量结晶构成。</GreenCrystal.description>
+  <!-- EN: Analyze the Green Crystal to unlock its secrets. -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.activateDescString>分析翠绿灵晶以解锁其秘密。</GreenCrystal.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</GreenCrystal.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the Green Crystal, {PAWN_labelShort} has unlocked the secrets of {RESEARCH}.\n\nYour researchers can now begin exploring this forbidden knowledge. -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究翠绿灵晶，{PAWN_labelShort} 解锁了 {RESEARCH} 的秘密。\n\n你的研究人员现在可以开始探索这一禁忌知识。</GreenCrystal.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Green Crystal analyzed: {RESEARCH} unlocked -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.completedLetterLabel>翠绿灵晶分析完成：{RESEARCH} 解锁</GreenCrystal.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析此晶体的人。</GreenCrystal.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.inspectString>可以由殖民者分析。</GreenCrystal.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyzing Green Crystal -->
+  <GreenCrystal.comps.CompAnalyzableUnlockResearch.jobString>正在分析翠绿灵晶。</GreenCrystal.comps.CompAnalyzableUnlockResearch.jobString>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Control Expansion (deprecated) -->
+  <ControlExpansionItem.label>强化控制理论(已弃用)</ControlExpansionItem.label>
+  <!-- EN: A deprecated item used for save game compatibility. -->
+  <ControlExpansionItem.description>该物品已不再使用，但为保留旧存档的完整性而保留</ControlExpansionItem.description>
+  
+  <!-- EN: Soul Shard (deprecated) -->
+  <OWD_SoulShardFilled.label>灵魂碎片(已弃用)</OWD_SoulShardFilled.label>
+  <!-- EN: A deprecated item used for save game compatibility. -->
+  <OWD_SoulShardFilled.description>该物品已不再使用，但为保留旧存档的完整性而保留</OWD_SoulShardFilled.description>
+  
+</LanguageData>

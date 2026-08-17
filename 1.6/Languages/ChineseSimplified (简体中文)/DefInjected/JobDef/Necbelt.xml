@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: installing necrotic orb. -->
+  <InstallNecroticOrbJob.reportString>正在安装死灵宝珠。</InstallNecroticOrbJob.reportString>
+  
+  <!-- EN: removing necrotic orb from {0}. -->
+  <OWD_RemoveNecroticOrb.reportString>正在从{0}移除死灵宝珠。</OWD_RemoveNecroticOrb.reportString>
+  
+</LanguageData>

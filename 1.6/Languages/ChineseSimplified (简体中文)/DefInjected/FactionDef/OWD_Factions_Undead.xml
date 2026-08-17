@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: undead legion -->
+  <OWD_Undeads.label>亡灵军团</OWD_Undeads.label>
+  <!-- EN: An unholy legion of skeletal warriors and their dark masters, bound to the will of an unseen necromantic force. -->
+  <OWD_Undeads.description>一支由骷髅战士和其暗黑主宰组成的不洁军团，受无形死灵力量的意志所驱使。</OWD_Undeads.description>
+  <!-- EN: Undead Legion -->
+  <OWD_Undeads.fixedName>亡灵军团</OWD_Undeads.fixedName>
+  <!-- EN: leader -->
+  <OWD_Undeads.leaderTitle>首领</OWD_Undeads.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OWD_Undeads.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}</OWD_Undeads.messageDefendersAttacking>
+  <!-- EN: undead -->
+  <OWD_Undeads.pawnSingular>亡灵</OWD_Undeads.pawnSingular>
+  <!-- EN: undead -->
+  <OWD_Undeads.pawnsPlural>亡灵</OWD_Undeads.pawnsPlural>
+  
+</LanguageData>

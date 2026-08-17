@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Aura Emitter -->
+  <OWD_NecroticAuraEmitter.label>死灵灵气发生器</OWD_NecroticAuraEmitter.label>
+  <!-- EN: A device housing a resonating core of green crystals. When active, it emits a field of necrotic energy that forces rapid, painful regeneration in nearby living beings, while also inducing drowsiness and hindering fine motor skills at higher intensities. Requires Green Crystals as fuel. -->
+  <OWD_NecroticAuraEmitter.description>一种内含共振翠绿灵晶核心的装置。激活时会释放出死灵能量场，迫使附近生物以剧烈且痛苦的方式快速再生；强度升高时，还会引发嗜睡感并削弱精细动作能力。需以翠绿灵晶为燃料。</OWD_NecroticAuraEmitter.description>
+  <!-- EN: Crystals -->
+  <OWD_NecroticAuraEmitter.comps.CompRefuelable.fuelLabel>翠绿灵晶</OWD_NecroticAuraEmitter.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs Green Crystals -->
+  <OWD_NecroticAuraEmitter.comps.CompRefuelable.outOfFuelMessage>需要翠绿灵晶</OWD_NecroticAuraEmitter.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

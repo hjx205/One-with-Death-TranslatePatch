@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bound to a necromancer’s will, [PAWN_nameDef] exists as an undead, stripped of past life and driven by necrotic energy. -->
+  <OWD_BKST_UndeadAdulthood.description>被绑定于死灵法师的意志之下，[PAWN_nameDef] 作为亡灵存在，它的灵魂已经逝去，现在仅由死灵能量驱动。</OWD_BKST_UndeadAdulthood.description>
+  <!-- EN: Undead Servitude -->
+  <OWD_BKST_UndeadAdulthood.title>亡灵侍从</OWD_BKST_UndeadAdulthood.title>
+  <!-- EN: Servant -->
+  <OWD_BKST_UndeadAdulthood.titleShort>亡灵</OWD_BKST_UndeadAdulthood.titleShort>
+  
+  <!-- EN: Resurrected as an undead, [PAWN_nameDef] has no memories of a living childhood, existing only as a servant of death. -->
+  <OWD_BKST_UndeadBeginnings.description>以亡灵之身复生，[PAWN_nameDef] 没有生前童年的记忆，仅作为死亡的仆从而存在。</OWD_BKST_UndeadBeginnings.description>
+  <!-- EN: Undead Origin -->
+  <OWD_BKST_UndeadBeginnings.title>亡灵起源</OWD_BKST_UndeadBeginnings.title>
+  <!-- EN: Undead -->
+  <OWD_BKST_UndeadBeginnings.titleShort>亡灵</OWD_BKST_UndeadBeginnings.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is stronger than regular undead, retaining more of its previous self to enable it to fight more fiercely -->
+  <OWD_BKST_UndeadChampion.description>[PAWN_nameDef] 比普通亡灵更强大，并且保留了更多的自我，这使它战斗更加凶猛。</OWD_BKST_UndeadChampion.description>
+  <!-- EN: Undead Champion -->
+  <OWD_BKST_UndeadChampion.title>亡灵先锋</OWD_BKST_UndeadChampion.title>
+  <!-- EN: Champion -->
+  <OWD_BKST_UndeadChampion.titleShort>亡灵</OWD_BKST_UndeadChampion.titleShort>
+  
+  <!-- EN: Resurrected as an undead, [PAWN_nameDef] has no memories of a living childhood, existing only as a servant of death. -->
+  <OWD_BKST_UndeadChildhood.description>以亡灵之身复生，[PAWN_nameDef] 没有生前童年的记忆，仅作为死亡的仆从而存在。</OWD_BKST_UndeadChildhood.description>
+  <!-- EN: Undead Origin -->
+  <OWD_BKST_UndeadChildhood.title>亡灵起源</OWD_BKST_UndeadChildhood.title>
+  <!-- EN: Undead -->
+  <OWD_BKST_UndeadChildhood.titleShort>亡灵</OWD_BKST_UndeadChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] retains most of its old memories along with new ones that allow the channeling of the necrotic energy flowing inside its own body. -->
+  <OWD_BKST_UndeadOverseer.description>[PAWN_nameDef] 保留了大部分的旧记忆，同时获得了一种新觉悟，使其能够掌控流淌于自身的死灵能量。</OWD_BKST_UndeadOverseer.description>
+  <!-- EN: Undead Overseer -->
+  <OWD_BKST_UndeadOverseer.title>亡灵督军</OWD_BKST_UndeadOverseer.title>
+  <!-- EN: Overseer -->
+  <OWD_BKST_UndeadOverseer.titleShort>亡灵</OWD_BKST_UndeadOverseer.titleShort>
+  
+</LanguageData>

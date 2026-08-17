@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: soul infusion (Major Animals) -->
+  <OWD_ShardInfusion_AnimalsMajor.label>灵魂碎片·御兽宗师</OWD_ShardInfusion_AnimalsMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master animal handler. -->
+  <OWD_ShardInfusion_AnimalsMajor.description>蕴含御兽宗师灵魂的碎片，可使持有者驯兽能力显著提升</OWD_ShardInfusion_AnimalsMajor.description>
+  
+  <!-- EN: soul infusion (Minor Animals) -->
+  <OWD_ShardInfusion_AnimalsMinor.label>灵魂碎片·驯兽能手</OWD_ShardInfusion_AnimalsMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled animal handler. -->
+  <OWD_ShardInfusion_AnimalsMinor.description>封存着熟练驯养者灵魂的碎片，可使持有者驯兽能力提升</OWD_ShardInfusion_AnimalsMinor.description>
+  
+  <!-- EN: soul infusion (Major Artistic) -->
+  <OWD_ShardInfusion_ArtisticMajor.label>灵魂碎片·艺术宗师</OWD_ShardInfusion_ArtisticMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master artist. -->
+  <OWD_ShardInfusion_ArtisticMajor.description>凝聚艺术大师灵魂的碎片，可使持有者艺术能力显著提升</OWD_ShardInfusion_ArtisticMajor.description>
+  
+  <!-- EN: soul infusion (Minor Artistic) -->
+  <OWD_ShardInfusion_ArtisticMinor.label>灵魂碎片·艺术能手</OWD_ShardInfusion_ArtisticMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled artist. -->
+  <OWD_ShardInfusion_ArtisticMinor.description>封存着熟练艺术家灵魂的碎片，可使持有者艺术能力提升</OWD_ShardInfusion_ArtisticMinor.description>
+  
+  <!-- EN: soul infusion (Major Construction) -->
+  <OWD_ShardInfusion_ConstructionMajor.label>灵魂碎片·建城宗师</OWD_ShardInfusion_ConstructionMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master builder. -->
+  <OWD_ShardInfusion_ConstructionMajor.description>蕴含建筑大师灵魂的碎片，可使持有者建造能力显著提升</OWD_ShardInfusion_ConstructionMajor.description>
+  
+  <!-- EN: soul infusion (Minor Construction) -->
+  <OWD_ShardInfusion_ConstructionMinor.label>灵魂碎片·建造能手</OWD_ShardInfusion_ConstructionMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled builder. -->
+  <OWD_ShardInfusion_ConstructionMinor.description>封存着熟练工匠灵魂的碎片，可使持有者建造能力提升</OWD_ShardInfusion_ConstructionMinor.description>
+  
+  <!-- EN: soul infusion (Major Cooking) -->
+  <OWD_ShardInfusion_CookingMajor.label>灵魂碎片·食神之魂</OWD_ShardInfusion_CookingMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master cook. -->
+  <OWD_ShardInfusion_CookingMajor.description>凝聚厨艺宗师灵魂的碎片，可使持有者烹饪能力显著提升</OWD_ShardInfusion_CookingMajor.description>
+  
+  <!-- EN: soul infusion (Minor Cooking) -->
+  <OWD_ShardInfusion_CookingMinor.label>灵魂碎片·烹饪能手</OWD_ShardInfusion_CookingMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled cook. -->
+  <OWD_ShardInfusion_CookingMinor.description>封存着熟练厨师灵魂的碎片，可使持有者烹饪能力提升</OWD_ShardInfusion_CookingMinor.description>
+  
+  <!-- EN: soul infusion (Major Crafting) -->
+  <OWD_ShardInfusion_CraftingMajor.label>灵魂碎片·匠神精魄</OWD_ShardInfusion_CraftingMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master crafter. -->
+  <OWD_ShardInfusion_CraftingMajor.description>蕴含工匠之神灵魂的碎片，可使持有者制造能力显著提升</OWD_ShardInfusion_CraftingMajor.description>
+  
+  <!-- EN: soul infusion (Minor Crafting) -->
+  <OWD_ShardInfusion_CraftingMinor.label>灵魂碎片·工艺能手</OWD_ShardInfusion_CraftingMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled crafter. -->
+  <OWD_ShardInfusion_CraftingMinor.description>封存着熟练匠人灵魂的碎片，可使持有者制造能力提升</OWD_ShardInfusion_CraftingMinor.description>
+  
+  <!-- EN: soul infusion (Major Intellectual) -->
+  <OWD_ShardInfusion_IntellectualMajor.label>灵魂碎片·学界泰斗</OWD_ShardInfusion_IntellectualMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master scholar. -->
+  <OWD_ShardInfusion_IntellectualMajor.description>凝聚学术大师灵魂的碎片，可使持有者智识能力显著提升</OWD_ShardInfusion_IntellectualMajor.description>
+  
+  <!-- EN: soul infusion (Minor Intellectual) -->
+  <OWD_ShardInfusion_IntellectualMinor.label>灵魂碎片·学术能手</OWD_ShardInfusion_IntellectualMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled scholar. -->
+  <OWD_ShardInfusion_IntellectualMinor.description>封存着学者灵魂的碎片，可使持有者智识能力提升</OWD_ShardInfusion_IntellectualMinor.description>
+  
+  <!-- EN: soul infusion (Major Medicine) -->
+  <OWD_ShardInfusion_MedicineMajor.label>灵魂碎片·医圣之魂</OWD_ShardInfusion_MedicineMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master doctor. -->
+  <OWD_ShardInfusion_MedicineMajor.description>蕴含医道宗师灵魂的碎片，可使持有者医疗能力显著提升</OWD_ShardInfusion_MedicineMajor.description>
+  
+  <!-- EN: soul infusion (Minor Medicine) -->
+  <OWD_ShardInfusion_MedicineMinor.label>灵魂碎片·医疗能手</OWD_ShardInfusion_MedicineMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled doctor. -->
+  <OWD_ShardInfusion_MedicineMinor.description>封存着医师灵魂的碎片，可使持有者医疗能力提升</OWD_ShardInfusion_MedicineMinor.description>
+  
+  <!-- EN: soul infusion (Major Melee) -->
+  <OWD_ShardInfusion_MeleeMajor.label>灵魂碎片·武圣精魄</OWD_ShardInfusion_MeleeMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master warrior. -->
+  <OWD_ShardInfusion_MeleeMajor.description>凝聚武学宗师灵魂的碎片，可使持有者近战能力显著提升</OWD_ShardInfusion_MeleeMajor.description>
+  
+  <!-- EN: soul infusion (Minor Melee) -->
+  <OWD_ShardInfusion_MeleeMinor.label>灵魂碎片·武艺能手</OWD_ShardInfusion_MeleeMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled warrior. -->
+  <OWD_ShardInfusion_MeleeMinor.description>封存着战士灵魂的碎片，可使持有者近战能力提升</OWD_ShardInfusion_MeleeMinor.description>
+  
+  <!-- EN: soul infusion (Major Mining) -->
+  <OWD_ShardInfusion_MiningMajor.label>灵魂碎片·掘矿宗师</OWD_ShardInfusion_MiningMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master miner. -->
+  <OWD_ShardInfusion_MiningMajor.description>蕴含采矿大师灵魂的碎片，可使持有者挖掘能力显著提升</OWD_ShardInfusion_MiningMajor.description>
+  
+  <!-- EN: soul infusion (Minor Mining) -->
+  <OWD_ShardInfusion_MiningMinor.label>灵魂碎片·采矿能手</OWD_ShardInfusion_MiningMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled miner. -->
+  <OWD_ShardInfusion_MiningMinor.description>封存着矿工灵魂的碎片，可使持有者挖掘能力提升</OWD_ShardInfusion_MiningMinor.description>
+  
+  <!-- EN: soul infusion (Major Plants) -->
+  <OWD_ShardInfusion_PlantsMajor.label>灵魂碎片·植灵宗师</OWD_ShardInfusion_PlantsMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master gardener. -->
+  <OWD_ShardInfusion_PlantsMajor.description>凝聚植物大师灵魂的碎片，可使持有者种植能力显著提升</OWD_ShardInfusion_PlantsMajor.description>
+  
+  <!-- EN: soul infusion (Minor Plants) -->
+  <OWD_ShardInfusion_PlantsMinor.label>灵魂碎片·种植能手</OWD_ShardInfusion_PlantsMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled gardener. -->
+  <OWD_ShardInfusion_PlantsMinor.description>封存着园丁灵魂的碎片，可使持有者种植能力提升</OWD_ShardInfusion_PlantsMinor.description>
+  
+  <!-- EN: soul infusion (Major Shooting) -->
+  <OWD_ShardInfusion_ShootingMajor.label>灵魂碎片·神射手魂</OWD_ShardInfusion_ShootingMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master sharpshooter. -->
+  <OWD_ShardInfusion_ShootingMajor.description>蕴含狙击宗师灵魂的碎片，可使持有者射击能力显著提升</OWD_ShardInfusion_ShootingMajor.description>
+  
+  <!-- EN: soul infusion (Minor Shooting) -->
+  <OWD_ShardInfusion_ShootingMinor.label>灵魂碎片·射击能手</OWD_ShardInfusion_ShootingMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled shooter. -->
+  <OWD_ShardInfusion_ShootingMinor.description>封存着射手灵魂的碎片，可使持有者射击能力提升</OWD_ShardInfusion_ShootingMinor.description>
+  
+  <!-- EN: soul infusion (Major Slave Soul) -->
+  <OWD_ShardInfusion_SlaveMajor.label>灵魂碎片·全能劳工</OWD_ShardInfusion_SlaveMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master slave, skilled in all forms of labor. -->
+  <OWD_ShardInfusion_SlaveMajor.description>蕴含全能劳工灵魂的碎片，可使持有者精通所有体力劳动</OWD_ShardInfusion_SlaveMajor.description>
+  
+  <!-- EN: soul infusion (Minor Slave Soul) -->
+  <OWD_ShardInfusion_SlaveMinor.label>灵魂碎片·熟练劳工</OWD_ShardInfusion_SlaveMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled slave. -->
+  <OWD_ShardInfusion_SlaveMinor.description>封存着普通劳工灵魂的碎片，可提升基础劳动效率</OWD_ShardInfusion_SlaveMinor.description>
+  
+  <!-- EN: soul infusion (Major Smart Soul) -->
+  <OWD_ShardInfusion_SmartMajor.label>灵魂碎片·智者之魂</OWD_ShardInfusion_SmartMajor.label>
+  <!-- EN: A crystal shard containing the soul of a very smart pawn, skilled in intellectual pursuits. -->
+  <OWD_ShardInfusion_SmartMajor.description>凝聚天才灵魂的碎片，可使智力获得显著提升</OWD_ShardInfusion_SmartMajor.description>
+  
+  <!-- EN: soul infusion (Minor Smart Soul) -->
+  <OWD_ShardInfusion_SmartMinor.label>灵魂碎片·聪慧之魂</OWD_ShardInfusion_SmartMinor.label>
+  <!-- EN: A crystal shard containing the soul of a smart pawn. -->
+  <OWD_ShardInfusion_SmartMinor.description>封存着聪慧者灵魂的碎片，可提升学习与理解能力</OWD_ShardInfusion_SmartMinor.description>
+  
+  <!-- EN: soul infusion (Major Social) -->
+  <OWD_ShardInfusion_SocialMajor.label>灵魂碎片·社交宗师</OWD_ShardInfusion_SocialMajor.label>
+  <!-- EN: A crystal shard containing the soul of a master diplomat. -->
+  <OWD_ShardInfusion_SocialMajor.description>蕴含外交大师灵魂的碎片，可使持有者社交能力显著提升</OWD_ShardInfusion_SocialMajor.description>
+  
+  <!-- EN: soul infusion (Minor Social) -->
+  <OWD_ShardInfusion_SocialMinor.label>灵魂碎片·社交能手</OWD_ShardInfusion_SocialMinor.label>
+  <!-- EN: A crystal shard containing the soul of a skilled diplomat. -->
+  <OWD_ShardInfusion_SocialMinor.description>封存着交际者灵魂的碎片，可使持有者社交能力提升</OWD_ShardInfusion_SocialMinor.description>
+  
+</LanguageData>

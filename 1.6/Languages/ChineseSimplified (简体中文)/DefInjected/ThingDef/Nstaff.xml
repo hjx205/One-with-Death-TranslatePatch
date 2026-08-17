@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Deadlink Staff -->
+  <OWD_NecromancerStaff.label>亡缚法杖</OWD_NecromancerStaff.label>
+  <!-- EN: A crude staff with a crystal made of pure necrotic archites as a focus. It slowly reabsorbs necrotic archites present around its user and helps steadying the mind, which results in more stable control. -->
+  <OWD_NecromancerStaff.description>一柄粗糙的法杖，顶端镶嵌着一颗由纯净死灵能量构成的水晶作为导能焦点。它能缓慢重吸使用者周围的死灵能量，并有助于稳固心神，从而实现对亡灵更稳定的操控</OWD_NecromancerStaff.description>
+  <!-- EN: head -->
+  <OWD_NecromancerStaff.tools.head.label>杖首</OWD_NecromancerStaff.tools.head.label>
+  
+</LanguageData>

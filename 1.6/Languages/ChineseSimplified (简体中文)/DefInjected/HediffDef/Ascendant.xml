@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: necrotic energy -->
+  <OWD_LesserUndead_Energy.label>死灵能量</OWD_LesserUndead_Energy.label>
+  <!-- EN: The fading necrotic energy animating this creature. When it runs out, the creature will collapse into dust. -->
+  <OWD_LesserUndead_Energy.description>驱动此造物的死灵能量正在逐渐消散。当能量耗尽时，该生物将化为尘埃。</OWD_LesserUndead_Energy.description>
+  
+  <!-- EN: Ascendant -->
+  <OWD_OverseerAscendant.label>升格者</OWD_OverseerAscendant.label>
+  <!-- EN: nothingyet -->
+  <OWD_OverseerAscendant.description>暂无描述</OWD_OverseerAscendant.description>
+  
+</LanguageData>

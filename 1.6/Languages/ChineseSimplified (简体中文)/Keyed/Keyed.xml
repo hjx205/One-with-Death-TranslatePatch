@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+    <Book_of_Death>亡魂魔典</Book_of_Death>
+    <Book_of_Death_default>打开亡魂魔典以使用亡灵巫术能力</Book_of_Death_default>
+
+    <Select_All_Undead>选择所有亡灵</Select_All_Undead>
+
+    <Necrotic_energy_lack>要扩展能量容量，必须保证‘死灵能量’处于满值状态。</Necrotic_energy_lack>
+    <Necrotic_link_servered>这个亡灵与你之间的链接已被切断。有其他东西在维持着它的存活</Necrotic_link_servered>
+    <Necrotic_link_servered_detail>你与这个亡灵之间的链接已然被切断，但有其他东西将它锚定在现实之中</Necrotic_link_servered_detail>
+    <Necrotic_energy_capacity_expand>死灵能量容量已提升至 {0}</Necrotic_energy_capacity_expand>
+    
+    <Awakening>觉醒</Awakening>
+    <Awakening_text>无论我翻开多少页，它们始终空白——可我却无法摆脱一种感觉：这里有东西存在。有东西在等待。我双眼后方似有压力积聚，随后——符号出现了。那些我无法辨识的形状，却如同早已烙印在我脑海中一般，清晰得仿佛它们本就存在于那里。我的手颤抖起来，接着不由自主地动了起来。我拿起一支笔，开始书写，并非出于刻意，而是出于绝望。符号倾泻而出，杂乱无章，狂热急切，仿佛有什么东西正奋力挣脱束缚。\n \n三页纸。起初，只是毫无意义的涂鸦。但随着我凝神聚焦，混乱开始转变。图案浮现了。有了结构。在看到它们之前，我就已感受到了它们——那些微观构造、建筑般的结构，正从纸张上流入我的血肉。那种感觉势不可挡，是一种在感知边缘处的侵扰。然后，就在那一瞬间，我看到了——某种东西。一个存在。一个无法理解的设计。就在那一刻，我明白了。\n \n我能读懂自己写下的东西了。\n \n但这还不够。那些知识停留在我的思绪边缘，不完整，未完成。我必须继续探索。还有更多等待被揭开——太多太多了。</Awakening_text>
+    <Awakening_after>有人觉醒成了死灵法师</Awakening_after>
+
+    <Destroy_Undead>断开亡灵链接</Destroy_Undead>
+    <Destroy_Undead_Detail>命令所有选择的亡灵断开链接</Destroy_Undead_Detail>
+    <!-- MannulPatch_JobDriver_InstallNecromanticCore -->
+    <Fleshbound_Grimoire_Undead>是亡灵，无法理解《亡魂魔典》</Fleshbound_Grimoire_Undead>
+    <Fleshbound_Grimoire>血肉束缚的魔典</Fleshbound_Grimoire>
+    <Fleshbound_Grimoire_text>当你翻开这本古老典籍时，你感觉仿佛有什么东西正从那洁白空白的书页中召唤着你，一股寒意顺着你的脊背直往下蹿。你确定要读这本书吗？</Fleshbound_Grimoire_text>
+    <!-- Patch_Ability_SelectNecromancer -->
+    <Select_Necromancer_unknown>选择死灵法师(???)</Select_Necromancer_unknown>
+    <Select_Necromancer_unknown_text>未知的链接来源</Select_Necromancer_unknown_text>
+    <Select_Necromancer_unknown_detail>这个亡灵似乎与某种未知事物进行链接</Select_Necromancer_unknown_detail>
+    <Select_Necromancer>选择死灵法师 ({0})</Select_Necromancer>
+    <Select_Necromancer_text>将摄像机转到操控的死灵法师处</Select_Necromancer_text>
+    <!-- Patch_Fleshtomana -->
+    <not_enough_bodypart>可消耗的身体部位不足</not_enough_bodypart>
+    <not_enough_necrotic_energy>死灵能量不足</not_enough_necrotic_energy>
+    <not_enough_energyorbodypart>自身或链接的单位缺少死灵能量，或没有可用的身体部位</not_enough_energyorbodypart>
+
+    <OWD_Raise_Undead>{0}唤醒了{1}个亡灵</OWD_Raise_Undead>
+    <OWD_Raise_Undead_Other>身为死灵法师{0}的下属，{1}唤醒了{2}个亡灵</OWD_Raise_Undead_Other>
+    <Insufficient_bandwith>没有多余的精神纽带唤醒亡灵</Insufficient_bandwith>
+    <No_vaild_corpse>没有可供唤醒的尸体</No_vaild_corpse>
+    <Necromancer_comp_mis>已失去死灵法师的能力</Necromancer_comp_mis>
+    <link_Necromancer_comp_mis>链接的死灵法师已经失去能力</link_Necromancer_comp_mis>
+    <Cannot_raise_Undead>无法唤醒亡灵：链接的死灵法师失踪或是死亡</Cannot_raise_Undead>
+    <Cannot_raise_Undead_sample>无法唤醒亡灵：</Cannot_raise_Undead_sample>
+    <Not_resource_raise_Undead>资源不足，无法召唤任何亡灵</Not_resource_raise_Undead>
+
+    <Necrotic_energy_already_full>死灵能量已经充满</Necrotic_energy_already_full>
+    <Consume_corpse>吞噬了{0}个尸体，获得了{1}死灵能量</Consume_corpse>
+    <No_consumed_target>在所选定的区域内，没有有效的尸体以供吞噬</No_consumed_target>
+    <!-- Patch_Gizmo_LesserUndeadControls -->
+    <SpawnLesserUndead>召唤次级亡灵\n消耗：{0}点死灵能量</SpawnLesserUndead>
+    <LesserUndeadControl_text1>饥饿供养：亡灵将以尸体与肉类为食，为亡灵督军提供能量。也可召唤特定的特殊亡灵</LesserUndeadControl_text1> 
+    <LesserUndeadControl_text2>自动召唤：自动生成次级亡灵</LesserUndeadControl_text2>
+    <LesserUndeadControl_text3>攻击敌人：亡灵将攻击它们发现的所有敌人</LesserUndeadControl_text3>
+    <LesserUndeadControl_text4>护卫：跟随并保护亡灵督军</LesserUndeadControl_text4>
+    <!-- Patch_Gizmo_NecromancerBandwidth -->
+    <Control>精神纽带</Control>
+    <OWD_View_deceased_undead>查看已故的亡灵</OWD_View_deceased_undead>
+    <!-- Patch_Gizmo_NecromancerMana -->
+    <Necrotic_Energy>死灵能量</Necrotic_Energy>
+    <Necrotic_Energy_detail>死灵能量：</Necrotic_Energy_detail>
+    <!-- Patch_Gizmo_NecroticEnergyNeed -->
+    <Necrotic_Energy_Need_detail>死灵能量：{0} / {1}\n恢复速率：{2}/h</Necrotic_Energy_Need_detail> 
+    <!-- Patch_Dialog_BookOfTheDead -->
+    <Show_in_ability_bar>在角色的能力栏中显示</Show_in_ability_bar>
+    <add_to_ability_bar>已添加到角色的能力栏中</add_to_ability_bar>
+    <hidden_in_the_book>重新隐藏回书中</hidden_in_the_book>
+    <!-- Patch_Gizmo_NecromancerControls -->
+    <No_undead>无亡灵</No_undead>
+
+    <Cannot_raise_Champion_sample>无法唤醒亡灵先锋：</Cannot_raise_Champion_sample>
+    <Champion_Insufficient_bandwidth>纽带数量不足(需要占据{0}格精神纽带)</Champion_Insufficient_bandwidth>
+    <Raising_undead_champion>唤醒了亡灵先锋</Raising_undead_champion>
+
+    <Cannot_raise_Overseer_sample>无法唤醒亡灵督军：</Cannot_raise_Overseer_sample>
+    <Raising_undead_overseer>唤醒了亡灵督军</Raising_undead_overseer>
+    <!-- Patch_CompAbilityEffect_NecroticHealing -->
+    <Necrotic_Healing_text>{0}已对符合条件的{1}个亡灵赋予死灵修复</Necrotic_Healing_text>
+    <No_valid_target>范围内没有有效目标</No_valid_target>
+    <!-- Patch_CompUsableNecroticCore -->
+    <OWD_Cannot_install>无法植入</OWD_Cannot_install>
+    
+    <OWD_Pawn_is_dead_or_null>角色死亡或不存在</OWD_Pawn_is_dead_or_null>
+    <OWD_Pawn_already_has_this_implant_installed>角色已拥有该植入物</OWD_Pawn_already_has_this_implant_installed>
+    <OWD_Pawn_has_no_heart_to_install_implant>角色不存在心脏</OWD_Pawn_has_no_heart_to_install_implant>
+    <OWD_Pawn_must_be_an_undead>角色必须是亡灵</OWD_Pawn_must_be_an_undead>
+    <!-- Patch_CompAbilityEffect_RaiseCreature -->
+    <Cannot_raise_creature>无法唤醒蹒跚怪：死灵法师可能死亡、失踪或不在地图上</Cannot_raise_creature>
+    <Cannot_raise_creature_missflow>无法唤醒蹒跚怪：{0}没有植入腐化导管</Cannot_raise_creature_missflow>
+    <Creature_No_vaild_corpse>选择的范围内没有可供唤醒的蹒跚怪尸体</Creature_No_vaild_corpse>
+    <Cannot_raise_more_creature>无法唤醒更多的蹒跚怪：召唤数量达到了上限({0}/{1})</Cannot_raise_more_creature>
+    <Cannot_raise_creature_misspoint>无法唤醒蹒跚怪：没有足够的控制额度给附近的尸体(最少需要{0}点，当前有{1}点，最高{2}点)</Cannot_raise_creature_misspoint>
+    <beging_raise_creature>{0}开始唤醒{1}个蹒跚怪</beging_raise_creature>
+    <cost_control_point>(占用：{0}/{1})</cost_control_point>
+
+    <OWD_experiment_result_lack>{0}缺少 {1} 研究来理解{2}</OWD_experiment_result_lack>
+    <OWD_already_have_experiment>{0}已经从{1}获得了知识</OWD_already_have_experiment>
+    <OWD_the_last_experiment>最后一次实验将造成不可逆转的后果，你确定要继续吗？你将永远放弃人类身份</OWD_the_last_experiment>
+    <OWD_warning>警告：此实验结果不可逆</OWD_warning>
+    <!-- Patch_DeathActionWorker_SkipAndLichCheck_PawnDied -->
+    <OWD_LichCheck_0>就在你即将给予最后一击之际，你能感觉到{0}的本质离开了这具躯体，退往某个未知之处。</OWD_LichCheck_0>
+    <OWD_LichCheck_1>\n你能感觉到它的一部分怒火在剩余的亡灵体内流淌</OWD_LichCheck_1>
+    <!-- Patch_Gizmo_ShamblerControl -->
+    <OWD_Shambler_settings>蹒跚怪设置</OWD_Shambler_settings>
+    <OWD_Select_all_active_shamblers>选择所有活跃的蹒跚怪</OWD_Select_all_active_shamblers>
+    <OWD_Enrage_shamblers>激怒所有活跃的蹒跚者（消耗：20能量，持续时间：2分钟）</OWD_Enrage_shamblers>
+    <OWD_Necromancer_not_found>没找到死灵法师</OWD_Necromancer_not_found>
+    <OWD_No_active_shamblers>找不到活跃的蹒跚怪来激怒</OWD_No_active_shamblers>
+    <OWD_No_active_shamblers_map>地图上找不到活跃的蹒跚怪</OWD_No_active_shamblers_map>
+
+    <ritual_enduvial_target>无人可召唤前来。继续行动或许十分危险，因为我们不知会唤醒何种存在</ritual_enduvial_target>
+    <ritual_enduvial_title>即便如此仍要继续吗？</ritual_enduvial_title>
+
+    <ritual_enduvial_fail_0>仪式向虚空发出召唤，而某个存在回应了</ritual_enduvial_fail_0>
+    <ritual_enduvial_fail_1>仪式进行期间，与选定灵魂的链接中断了</ritual_enduvial_fail_1>
+    <ritual_enduvial_fail_2>灵魂的本质已遭腐化，无法重塑。有其他存在回应了召唤</ritual_enduvial_fail_2>
+    <ritual_enduvial_fail_3>世界上已经存在一个具有相同身份({0})的角色并且当前处于活跃状态</ritual_enduvial_fail_3>
+    <ritual_enduvial_fail_d1>\n\n某种未知存在正附身于{0}!</ritual_enduvial_fail_d1>
+    <ritual_enduvial_fail_d2>\n仪式彻底失败，躯体被混沌能量吞噬殆尽</ritual_enduvial_fail_d2>
+
+    <ritual_enduvial_success>恩杜维亚仪式已完成。{0}的灵魂已成功转移至{1}的躯体中</ritual_enduvial_success>
+
+    <ritual_extractsoul_fail_0>仪式失败：操控侍从已失控</ritual_extractsoul_fail_0>
+    <ritual_extractsoul_fail_1>仪式失败：操控侍从能量不足</ritual_extractsoul_fail_1>
+    <ritual_extractsoul_shared_break>灵魂碎片在萃取过程中因专注力不足而碎裂！</ritual_extractsoul_shared_break>
+    <ritual_extractsoul_success>已成功从灌注体内萃取并净化灵魂碎片。灵魂碎片来自于灌注体:</ritual_extractsoul_success>
+
+    <No_Control_Servitor>范围内无操控侍从</No_Control_Servitor>
+    <require_Control_Servitor_energy>需在关联的操控侍从中储存{0}单位能量</require_Control_Servitor_energy>
+    <ritual_trackerComponent_not_found>未找到仪式追踪组件</ritual_trackerComponent_not_found>
+    <ritual_exuvia_complete>埃克苏维亚仪式完成</ritual_exuvia_complete>
+    <ritual_exuvia_success>仪式完成。{0}的灵魂已被封印至灵魂宝珠中。\n\n让另一名单位吞噬此宝珠，即可将灵魂转移至其躯体</ritual_exuvia_success>
+
+    <roleDef_casterExuvia>施法者必须与死亡融为一体</roleDef_casterExuvia>
+    <roleDef_infused>角色必须携带灌注的灵魂碎片</roleDef_infused>
+
+    <ritual_inscribesoul_fail_0>仪式失败：主祭者未携带所需的祭品</ritual_inscribesoul_fail_0>
+    <ritual_inscribesoul_fail_1>仪式失败：操控侍从已脱离范围</ritual_inscribesoul_fail_1>
+    <ritual_inscribesoul_fail_2>仪式失败：操控侍从能量不足</ritual_inscribesoul_fail_2>
+    <ritual_inscribesoul_success>{0}的灵魂已被封印至灵魂碎片中</ritual_inscribesoul_success>
+
+    <OWD_Ritual_Failed>仪式失败</OWD_Ritual_Failed>
+    <OWD_Ritual_Complete>仪式成功</OWD_Ritual_Complete>
+
+    <ritual_forbiddenknowledge_outcome>仪式已圆满完成。祭坛上出现了一本奇异的书</ritual_forbiddenknowledge_outcome>
+    <ritual_forbiddenknowledge_0>与那本书一同出现的还有其他东西</ritual_forbiddenknowledge_0>
+    <ritual_forbiddenknowledge_1>它们似乎对我们的贪婪感到好奇，此刻我能感觉到它们正对我们心存戒备</ritual_forbiddenknowledge_1>
+    <ritual_forbiddenknowledge_2>它们似乎并不喜欢我们对力量的渴求</ritual_forbiddenknowledge_2>
+    <ritual_forbiddenknowledge_default>它们正公然向我们发起挑战！</ritual_forbiddenknowledge_default>
+    <Undeed_Legion>亡灵军团</Undeed_Legion>
+    <ritual_forbiddenknowledge_other_outcome>仪式成功了，然而也有其他东西随之降临。{0}只亡灵生物凭空出现，正在攻击我们！</ritual_forbiddenknowledge_other_outcome>
+    <!-- Patch_CompUsable_InstallNecroticOrb -->
+    <OWD_installNecroticOrb_fail_0>仅可安装于亡灵或巫妖身上</OWD_installNecroticOrb_fail_0>
+    <OWD_installNecroticOrb_fail_1>已经安装过了</OWD_installNecroticOrb_fail_1>
+    <OWD_installNecroticOrb_fail_2>你阵营中的另一个角色已安装了死灵宝珠</OWD_installNecroticOrb_fail_2>
+    <OWD_installNecroticOrb_fail_3>地图上已有一具尸体安装了死灵宝珠</OWD_installNecroticOrb_fail_3>
+    <!-- Patch_CompUseEffect_NecroBloomTonic -->
+    <NecroBloomTonic_Necromancer>死灵绽露药剂(死灵法师)</NecroBloomTonic_Necromancer>
+    <NecroBloomTonic_Undead>死灵绽露药剂(亡灵)</NecroBloomTonic_Undead>
+    <NecroBloomTonic_Humanlike>死灵绽露药剂(人类)</NecroBloomTonic_Humanlike>
+    <!-- Patch_NecromanceForge_Draw -->
+    <OWD_Undead>亡灵</OWD_Undead>
+    <OWD_UndeadChampion>亡灵先锋</OWD_UndeadChampion>
+    <OWD_UndeadOverseer>亡灵督军</OWD_UndeadOverseer>
+    <OWD_Shamblers>蹒跚怪</OWD_Shamblers>
+    <!-- Patch_NecromancerForge_GetBonusString -->
+    <OWD_Forge_MoveSpeed>移动速度：</OWD_Forge_MoveSpeed>
+    <OWD_Forge_Consciousness>意识：</OWD_Forge_Consciousness>
+    <OWD_Forge_WorkSpeed>工作速度：</OWD_Forge_WorkSpeed>
+    <OWD_Forge_IncomingDamage>承伤系数：</OWD_Forge_IncomingDamage>
+    <OWD_Forge_MeleeDamage>近战伤害系数：</OWD_Forge_MeleeDamage>
+    <OWD_Forge_HitChance>近战命中率：</OWD_Forge_HitChance>
+    <OWD_Forge_LevelCap>等级上限：</OWD_Forge_LevelCap>
+    <OWD_Forge_RegenSiphon>再生虹吸：</OWD_Forge_RegenSiphon>
+    <OWD_Forge_Experience_Gain>经验获取：</OWD_Forge_Experience_Gain>
+    <OWD_Forge_Lifespan>存续时间：</OWD_Forge_Lifespan>
+    <!-- Patch_IncidentWorker_SpawnNecroticObelisk_TryExecuteWorker -->
+    <OWD_SpawnObelisk_title>死灵方尖碑显现</OWD_SpawnObelisk_title>
+    <OWD_SpawnObelisk_desc>一场仪式已完成，一座嗡嗡作响的死灵方尖碑已在地图上显现，数名骷髅仆从守卫着它</OWD_SpawnObelisk_desc>
+    <!-- Patch_PsychicRitualToil_ProvocationOutcome_End -->
+    <OWD_ProvocationOutcome_title>虚空应召完成</OWD_ProvocationOutcome_title>
+    <OWD_ProvocationOutcome_desc>你能感觉到有某个存在正追踪着你的方位</OWD_ProvocationOutcome_desc>
+    <!-- MannulPatch_Building_ObeliskEntrance_GetGizmo_0 -->
+    <OWD_CollapseLink>切断链接</OWD_CollapseLink>
+    <OWD_CollapseLink_desc>关联的子空间将会自毁。此过程不可逆</OWD_CollapseLink_desc>
+    <!-- MannulPatch_Building_ObeliskEntrance_GetGizmo_1 -->
+    <OWD_CollapseLink_detail>你确定要切断与子空间的链接吗？其中的一切事物与生命都将永久消失</OWD_CollapseLink_detail>
+    <!-- Patch_PlaceWorker_ControlPylon -->
+    <ControlPylon_r1>内部错误：未找到侍仆定义</ControlPylon_r1>
+    <ControlPylon_r2>内部错误：辅助侍仆缺少设施组件属性</ControlPylon_r2>
+    <ControlPylon_r3>必须放置在距离主控侍仆{0}格范围内</ControlPylon_r3>
+    <ControlPylon_r4>附近所有主控侍仆均已达到最大连接数（5个辅助侍仆）</ControlPylon_r4>
+    <!-- Patch_CompFacility_AuxServitor -->
+    <OWD_AuxSeveritorExtra>若连接到主控侍仆，则提升控制效果</OWD_AuxSeveritorExtra>
+    <!-- Patch_Building_ControlServitor -->
+    <OWD_BCS_0>装有: </OWD_BCS_0>
+    <OWD_BCS_1>智力: </OWD_BCS_1>
+    <OWD_BCS_2>提供控制: </OWD_BCS_2>
+    <OWD_BCS_3> (基础: </OWD_BCS_3>
+    <OWD_BCS_4> - 递减)</OWD_BCS_4>
+    <OWD_BCS_5>潜在控制: </OWD_BCS_5>
+    <OWD_BCS_6>连接死灵法师: </OWD_BCS_6>
+    <OWD_BCS_7>辅助侍仆: </OWD_BCS_7>
+    <!-- MannulPatch_Building_ControlServitor_GetGizmo_0 -->
+    <OWD_InsertPawn_text_0>这个角色将永久受困，且在被移除时会死亡。你确定要继续吗？</OWD_InsertPawn_text_0>
+    <!-- MannulPatch_Building_ControlServitor_GetGizmo_1 -->
+    <OWD_BCS_DOB>将此角色移出建筑将会导致其死亡，确定要继续吗？</OWD_BCS_DOB>
+    <!-- MannulPatch_Building_ControlServitor_GetGizmo_2 -->
+    <Auto-transfer>自动传输</Auto-transfer>
+    <OWD_At_desc>切换自动能量传输</OWD_At_desc>
+    <OWD_BCS_N2S>从死灵法师向主控侍仆传输过剩的死灵能量</OWD_BCS_N2S>
+    <OWD_BCS_S2N>当高于阈值时，从主控侍仆向死灵法师传输死灵能量</OWD_BCS_S2N>
+    <OWD_BCS_Ip>放入角色...</OWD_BCS_Ip>
+    <OWD_BCS_Ip_desc>选择一个角色进入主控侍仆</OWD_BCS_Ip_desc>
+    <Cancel>取消</Cancel>
+    <OWD_BCS_C_desc>取消角色进入的命令</OWD_BCS_C_desc>
+    <OWD_BCS_Ep>弹出角色</OWD_BCS_Ep>
+    <OWD_BCS_Ep_desc>从主控侍仆中弹出角色</OWD_BCS_Ep_desc>
+    <OWD_BCS_SC>扫描尸体...</OWD_BCS_SC>
+    <OWD_BCS_SC_desc>扫描地图上所有尸体，寻找特定特性或异种类型，并将它们传送至指定区域。消耗10点死灵能量</OWD_BCS_SC_desc>
+    <OWD_BCS_LN>连接死灵法师...</OWD_BCS_LN>
+    <OWD_BCS_LN_desc>将此主控侍仆连接至一名死灵法师以提供控制加成。当前连接：</OWD_BCS_LN_desc>
+    <!-- Patch_Dialog_CorpseScanner -->
+    <OWD_CS_SC>搜索尸体</OWD_CS_SC>
+    <OWD_CS_Xenotypes>异种人类型</OWD_CS_Xenotypes>
+    <OWD_CS_NAF>未找到玩家创建的区域</OWD_CS_NAF>
+    <OWD_CS_SAM>选择移动尸体的目标区域：</OWD_CS_SAM>
+    <OWD_CS_SA>选择一个区域...</OWD_CS_SA>
+    <OWD_CS_MSA>必须选择一个区域</OWD_CS_MSA>
+    <!-- Patch_Dialog_LesserUndeadSettings -->
+    <OWD_LUS_ASL>自动生成上限</OWD_LUS_ASL>
+    <OWD_LUS_T>目标：</OWD_LUS_T>
+    <OWD_LUS_AR>区域限制</OWD_LUS_AR>
+    <OWD_LUS_LU>次级亡灵</OWD_LUS_LU>
+    <OWD_LUS_G>啃咬者</OWD_LUS_G>
+    <OWD_LUS_HS>饥饿设置</OWD_LUS_HS>
+    <Meat>肉</Meat>
+    <Bones>骨头</Bones>
+    <OWD_LUS_OC>仅尸体</OWD_LUS_OC>
+    <Humanlikes>人类</Humanlikes>
+    <Entities>实体</Entities>
+    <Animals>动物</Animals>
+    <!-- Patch_Dialog_NecromancerGroupSettings -->
+    <OWD_NGS_SG>组设置：</OWD_NGS_SG>
+    <OWD_NGS_CBV>殖民者栏可见性</OWD_NGS_CBV>
+    <OWD_NGS_HBU>  隐藏基础不死生物</OWD_NGS_HBU>
+    <OWD_NGS_HUC>  隐藏亡灵先锋</OWD_NGS_HUC>
+    <OWD_NGS_RMS>已恢复最大不死生物设置</OWD_NGS_RMS>
+    <OWD_NGS_AGS>已应用组设置</OWD_NGS_AGS>
+    <!-- Patch_OneWithDeathMod -->
+    <OWD_OWDM_EDL>启用调试日志</OWD_OWDM_EDL>
+    <OWD_OWDM_EDL_desc>开关One With Death模组的调试日志记录。</OWD_OWDM_EDL_desc>
+    <OWD_OWDM_DCCB>禁用自定义殖民者栏</OWD_OWDM_DCCB>
+    <OWD_OWDM_DCCB_desc>如果勾选此项，亡灵将使用原版（或其他模组）的殖民者栏样式，而非自定义的绿/灰色样式。需重启游戏或重新加载存档才能完全生效。</OWD_OWDM_DCCB_desc>
+    <OWD_OWDM_DSDR>禁用仆从递减收益</OWD_OWDM_DSDR>
+    <OWD_OWDM_DSDR_desc>如果勾选此项，多个主控侍仆将提供完整的控制增益，而不会使每个额外侍仆承受50%的惩罚。</OWD_OWDM_DSDR_desc>
+    <OWD_OWDM_UA>亡灵外观：</OWD_OWDM_UA>
+    <OWD_OWDM_SBUS>将基础亡灵显示为骨架</OWD_OWDM_SBUS>
+    <OWD_OWDM_SBUS_desc>如果勾选此项，基础亡灵将使用干尸外观图形；如不勾选，则使用新鲜外观图形。</OWD_OWDM_SBUS_desc>
+    <OWD_OWDM_SCS>将亡灵先锋显示为骨架</OWD_OWDM_SCS>
+    <OWD_OWDM_SCS_desc>如果勾选此项，亡灵冠军将使用干尸外观图形；如不勾选，则使用腐烂外观图形。</OWD_OWDM_SCS_desc>
+    <OWD_OWDM_SOS>将亡灵督军显示为骨架</OWD_OWDM_SOS>
+    <OWD_OWDM_SOS_desc>如果勾选此项，亡灵监督者将使用干尸外观图形；如不勾选，则使用新鲜外观图形。</OWD_OWDM_SOS_desc>
+    <OWD_OWDM_SPS>将'与死亡合一'的角色显示为骨架</OWD_OWDM_SPS>
+    <OWD_OWDM_SPS_desc>如果勾选此项，'与死亡合一'的角色将使用干尸外观图形；如不勾选，则使用新鲜外观图形。</OWD_OWDM_SPS_desc>
+    <OWD_OWDM_Cheat>作弊/自定义</OWD_OWDM_Cheat>
+    <OWD_OWDM_GC>基因自定义...</OWD_OWDM_GC>
+    <OWD_OWDM_CMC>控制倍率调整：</OWD_OWDM_CMC>
+    <OWD_OWDM_CMC_desc>放大死灵法师的基础精神纽带和衍生的控制点数。视觉界面更新可能需要重新选择单位或重启游戏才能完全显示。</OWD_OWDM_CMC_desc>
+    <OWD_OWDM_CCCM>点击以修改控制倍率。</OWD_OWDM_CCCM>
+
+    <Test>测试翻译文本</Test>
+</LanguageData>

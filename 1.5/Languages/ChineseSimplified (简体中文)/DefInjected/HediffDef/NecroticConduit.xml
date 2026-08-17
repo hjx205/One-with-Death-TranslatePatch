@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Shambler Link -->
+  <OWD_NecroticFlow.label>死灵能量流动</OWD_NecroticFlow.label>
+  <!-- EN: A conduit of necrotic archites linking the necromancer to shamblers raised with the same type of archites. It uses a shard of dark archotechnology as its connection point. You can only speculate about its inner workings, but one thing is clear from your experiments: the number of controllable shamblers is directly tied to the extent of your control. Undead Overseers should be able to help you extend this limit further. -->
+  <OWD_NecroticFlow.description>表示死灵法师的死灵能量净流动，受其天生的能量连接以及控制某些亡灵随从所需的能量影响。该流动决定每小时能量会增加或减少多少。</OWD_NecroticFlow.description>
+  
+</LanguageData>

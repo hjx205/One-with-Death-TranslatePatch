@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necromancer -->
+  <NecromancerControl.label>控制于</NecromancerControl.label>
+  <!-- EN: This pawn is being controlled by a Necromancer -->
+  <NecromancerControl.description>该单位被一名死灵法师控制</NecromancerControl.description>
+  
+</LanguageData>

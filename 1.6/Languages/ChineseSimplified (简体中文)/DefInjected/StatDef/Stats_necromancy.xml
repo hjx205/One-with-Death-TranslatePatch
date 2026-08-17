@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Stable Control Bonus -->
+  <OWD_Control.label>稳定操控强化</OWD_Control.label>
+  <!-- EN: A flat bonus to the stable control a necromancer can have. -->
+  <OWD_Control.description>永久提升死灵法师可直接掌控的稳定亡灵数量上限</OWD_Control.description>
+  
+  <!-- EN: Stable Control Bonus -->
+  <OWD_Control_Offset.label>稳定操控增益</OWD_Control_Offset.label>
+  <!-- EN: An offset to stable control. -->
+  <OWD_Control_Offset.description>来自装备的稳定亡灵控制力修正</OWD_Control_Offset.description>
+  
+  <!-- EN: Energy Regeneration Bonus -->
+  <OWD_EnergyRegeneration.label>亡灵能量回涌</OWD_EnergyRegeneration.label>
+  <!-- EN: A flat bonus to the amount of necrotic energy regenerated per second. -->
+  <OWD_EnergyRegeneration.description>每秒自动恢复的亡灵能量值获得永久性提升</OWD_EnergyRegeneration.description>
+  
+  <!-- EN: Energy Regeneration Bonus -->
+  <OWD_EnergyRegeneration_Offset.label>亡灵能量回涌增益</OWD_EnergyRegeneration_Offset.label>
+  <!-- EN: An offset to energy regeneration provided by equipment. -->
+  <OWD_EnergyRegeneration_Offset.description>来自装备的亡灵能量恢复速率修正</OWD_EnergyRegeneration_Offset.description>
+  
+  <!-- EN: necrotic energy capacity -->
+  <OWD_NecroticEnergy.label>亡灵能量容量</OWD_NecroticEnergy.label>
+  <!-- EN: The base amount of necrotic energy this individual can store. -->
+  <OWD_NecroticEnergy.description>该单位可储存的亡灵能量基础总量</OWD_NecroticEnergy.description>
+  
+  <!-- EN: necrotic energy capacity -->
+  <OWD_NecroticEnergy_Offset.label>亡灵能量容量增益</OWD_NecroticEnergy_Offset.label>
+  <!-- EN: An offset to necrotic energy capacity provided by equipment. -->
+  <OWD_NecroticEnergy_Offset.description>来自装备的亡灵能量储存上限修正</OWD_NecroticEnergy_Offset.description>
+  
+  <!-- EN: Shambler Control Bonus -->
+  <OWD_ShamblerControl.label>蹒跚怪操控专精</OWD_ShamblerControl.label>
+  <!-- EN: A flat bonus to the total control points available for controlling shamblers. -->
+  <OWD_ShamblerControl.description>可操控的蹒跚怪类亡灵的总控制点数获得额外加成</OWD_ShamblerControl.description>
+  
+  <!-- EN: Unstable Control Bonus -->
+  <OWD_UnstableControl.label>危险操控增幅</OWD_UnstableControl.label>
+  <!-- EN: A flat bonus to the unstable control a necromancer can have. -->
+  <OWD_UnstableControl.description>死灵法师通过侍从间接掌控的不稳定亡灵数量上限获得提升</OWD_UnstableControl.description>
+  
+</LanguageData>

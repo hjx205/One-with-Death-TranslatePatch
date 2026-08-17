@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: necrotic energy core -->
+  <OWD_NecroticEnergyCore.label>坏死能量核心</OWD_NecroticEnergyCore.label>
+  
+  <!-- EN: necrotic sight node -->
+  <OWD_NecroticSightNode.label>坏死视点节点</OWD_NecroticSightNode.label>
+  
+  <!-- EN: arm bone -->
+  <OWD_UndeadArmBone.label>手臂</OWD_UndeadArmBone.label>
+  
+  <!-- EN: clavicle -->
+  <OWD_UndeadClavicle.label>锁骨</OWD_UndeadClavicle.label>
+  
+  <!-- EN: finger -->
+  <OWD_UndeadFinger.label>手指</OWD_UndeadFinger.label>
+  
+  <!-- EN: foot -->
+  <OWD_UndeadFoot.label>脚</OWD_UndeadFoot.label>
+  
+  <!-- EN: hand -->
+  <OWD_UndeadHand.label>手掌</OWD_UndeadHand.label>
+  
+  <!-- EN: head -->
+  <OWD_UndeadHead.label>头颅</OWD_UndeadHead.label>
+  
+  <!-- EN: jaw -->
+  <OWD_UndeadJaw.label>下颌</OWD_UndeadJaw.label>
+  
+  <!-- EN: leg bone -->
+  <OWD_UndeadLegBone.label>腿骨</OWD_UndeadLegBone.label>
+  
+  <!-- EN: neck -->
+  <OWD_UndeadNeck.label>脖颈</OWD_UndeadNeck.label>
+  
+  <!-- EN: pelvis -->
+  <OWD_UndeadPelvis.label>骨盆</OWD_UndeadPelvis.label>
+  
+  <!-- EN: ribcage -->
+  <OWD_UndeadRibcage.label>胸腔</OWD_UndeadRibcage.label>
+  
+  <!-- EN: shoulder -->
+  <OWD_UndeadShoulder.label>肩膀</OWD_UndeadShoulder.label>
+  
+  <!-- EN: skull -->
+  <OWD_UndeadSkull.label>颅骨</OWD_UndeadSkull.label>
+  
+  <!-- EN: spine -->
+  <OWD_UndeadSpine.label>脊柱</OWD_UndeadSpine.label>
+  
+  <!-- EN: sternum -->
+  <OWD_UndeadSternum.label>胸骨</OWD_UndeadSternum.label>
+  
+  <!-- EN: toe -->
+  <OWD_UndeadToe.label>脚趾</OWD_UndeadToe.label>
+  
+  <!-- EN: torso -->
+  <OWD_UndeadTorso.label>躯干</OWD_UndeadTorso.label>
+  
+</LanguageData>

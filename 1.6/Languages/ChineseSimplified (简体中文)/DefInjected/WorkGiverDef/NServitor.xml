@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carry to control servitor -->
+  <OWD_CarryToControlServitor.label>搬运至控制侍从</OWD_CarryToControlServitor.label>
+  <!-- EN: carrying -->
+  <OWD_CarryToControlServitor.gerund>搬运中</OWD_CarryToControlServitor.gerund>
+  <!-- EN: carry -->
+  <OWD_CarryToControlServitor.verb>搬运</OWD_CarryToControlServitor.verb>
+  
+</LanguageData>

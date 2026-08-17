@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caster -->
+  <OWD_CasterExuvia.label>献祭者</OWD_CasterExuvia.label>
+  <!-- EN: The necromancer who will die in order to fill the soul orb. -->
+  <OWD_CasterExuvia.description>以自身死亡为代价，将灵魂灌注至魂球的死灵法师</OWD_CasterExuvia.description>
+  
+</LanguageData>

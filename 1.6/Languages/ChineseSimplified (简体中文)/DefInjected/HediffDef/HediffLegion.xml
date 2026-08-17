@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Undead -->
+  <OWD_Legion_Undead.label>亡灵</OWD_Legion_Undead.label>
+  <!-- EN: A being resurrected into an animated skeleton, driven by necrotic archites. -->
+  <OWD_Legion_Undead.description>一种被死灵能量转化而成的行尸走肉，不会感到疼痛，饥饿或是劳累，并且会不断再生。</OWD_Legion_Undead.description>
+  
+</LanguageData>

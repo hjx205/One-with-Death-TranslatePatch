@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Exuvia -->
+  <OWD_Exuvia.label>蜕灵仪式·埃克苏维亚</OWD_Exuvia.label>
+  <!-- EN: A powerful and not fully understood ritual where a necromancer that has already embraced death, sheds their final mortal coil. Their very essence is torn from their body and bound within a Soul Orb. The ritual requires a living sacrifice and ingent quantities of necrotic energy, provided by a nearby servitor. -->
+  <OWD_Exuvia.description>一场强大而神秘的仪式——已接纳死亡的死灵法师将蜕去最后凡躯，其灵魂本质被撕裂封印于灵魂之球中。仪式需活体祭品及由附近侍从供给的巨量死灵能量</OWD_Exuvia.description>
+  <!-- EN: The caster's body will die. The sacrifice will be killed. A Soul Orb containing the caster's soul will be created and their essence saved for future use. -->
+  <OWD_Exuvia.outcomeDescription>施术者肉身将陨灭，祭品必遭处决。蕴含施术者灵魂的灵魂之球将被创造，其灵魂本质将留存以备后用</OWD_Exuvia.outcomeDescription>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Forbidden Knowledge -->
+  <OWD_ForbiddenKnowledge.label>禁忌秘典·溯源</OWD_ForbiddenKnowledge.label>
+  <!-- EN: Something is linked to the altar, I can feel it, by focusing on it with the help of a sacrifice, we can try and skip the source of this power. Who knows what will arrive, we should be careful. -->
+  <OWD_ForbiddenKnowledge.description>祭坛与某物产生共鸣，我能感受到它的存在。借助祭品之力聚焦其上，或可绕过力量本源直接获取。然未知之物将至，须谨慎行事</OWD_ForbiddenKnowledge.description>
+  <!-- EN: The key to necromancy is behind this ritual; A book will appear on completion, along with something else that defends this knowledge. We should prepare ourselves. -->
+  <OWD_ForbiddenKnowledge.outcomeDescription>死灵术之钥隐于此仪；成仪之时将现秘典，亦有守护此知之物同现。吾等当严阵以待</OWD_ForbiddenKnowledge.outcomeDescription>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: invoker -->
+  <OWD_Invoker_Psychic.label>主祭</OWD_Invoker_Psychic.label>
+  <!-- EN: The invoker must be psychically sensitive to channel the energies of the ritual. -->
+  <OWD_Invoker_Psychic.description>主祭者需具备灵能感知力以引导仪式能量</OWD_Invoker_Psychic.description>
+  
+</LanguageData>

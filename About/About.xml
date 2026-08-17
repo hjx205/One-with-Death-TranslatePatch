@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<ModMetaData>   
+  <name>One with Death_translate_patch</name>  
+  <author>Hjx</author>  
+  <packageId>hjx.6224y.onewithdeath.zh</packageId>  
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>  
+  <description>   
+  死亡化身-中文翻译,成为死灵法师吧！
+  </description>  
+  <modDependencies>  
+    <li>  
+      <packageId>6224y.onewithdeath</packageId>  
+      <displayName>One with Death</displayName>  
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3448902635</steamWorkshopUrl>  
+    </li>  
+  </modDependencies>  
+  <loadAfter>  
+    <li>6224y.onewithdeath</li>  
+  </loadAfter>   
+</ModMetaData>  

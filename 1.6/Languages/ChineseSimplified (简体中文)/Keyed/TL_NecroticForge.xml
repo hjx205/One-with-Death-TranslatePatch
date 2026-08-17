@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Necromancy -->
+  <OWD_NecromancyTab>死灵术</OWD_NecromancyTab>
+  <!-- EN: U.Forge -->
+  <OWD_UndeadForgeTabLabel>亡灵熔炉</OWD_UndeadForgeTabLabel>
+  <!-- EN: Undead Forge -->
+  <OWD_UndeadForgeTitle>亡灵熔炉</OWD_UndeadForgeTitle>
+  <!-- EN: Available Points: {0} -->
+  <OWD_AvailablePoints>可用点数：{0}</OWD_AvailablePoints>
+  <!-- EN: Reset Points -->
+  <OWD_ResetPoints>重置点数</OWD_ResetPoints>
+  <!-- EN: Free Reset -->
+  <OWD_FreeReset>免费重置</OWD_FreeReset>
+  <!-- EN: Resetting your points loses 10% of your total experience, are you sure? -->
+  <OWD_ResetWarning>重置点数将损失你总经验值的10%，确定要继续吗？</OWD_ResetWarning>
+  <!-- EN: Warning: One or more of your overseers are above their natural level cap (Level {0}). The level cap upgrade won't be fully reset ({1} points kept). Proceed anyway? -->
+  <OWD_ResetRestricted>警告：你的一名或多名督军等级已超过其自然等级上限（等级{0}）。等级上限升级将不会被完全重置（保留{1}点）。仍然继续？</OWD_ResetRestricted>
+  <!-- EN: Level {0} -->
+  <OWD_Level>等级 {0}</OWD_Level>
+  <!-- EN: Level {0}/{1} -->
+  <OWD_LevelWithCap>等级 {0}/{1}</OWD_LevelWithCap>
+  <!-- EN: {0} has reached level {1}! -->
+  <OWD_LevelUpMessage>{0} 已升至等级 {1}！</OWD_LevelUpMessage>
+  <!-- EN: Only pawns that can use Necromancy can understand this. -->
+  <OWD_MustBeCapableOfNecromancy>只有能够使用死灵术的个体才能理解此信息</OWD_MustBeCapableOfNecromancy>
+  <!-- EN: Already has Necrotic Coil. -->
+  <OWD_AlreadyHasCoil>已拥有死灵能量线圈</OWD_AlreadyHasCoil>
+  
+  <!-- Basic Undead -->
+  <!-- EN: Necrotic Impulse -->
+  <OWD_Label_UndeadSpeed>死灵脉冲</OWD_Label_UndeadSpeed>
+  <!-- EN: Channels raw energy directly into the frame for faster movements. -->
+  <OWD_Desc_UndeadSpeed>将原始能量直接注入亡灵躯壳，以获得更快的移动速度</OWD_Desc_UndeadSpeed>
+  
+  <!-- EN: Link Clarity -->
+  <OWD_Label_UndeadControl>链接明晰</OWD_Label_UndeadControl>
+  <!-- EN: Stabilizes the necrotic connection, improving responsiveness and consciousness. -->
+  <OWD_Desc_UndeadControl>稳定死灵连接，提升其响应速度与意识清晰度</OWD_Desc_UndeadControl>
+  
+<!-- EN: Unnatural Efficiency -->
+  <OWD_Label_UndeadCost>非人效率</OWD_Label_UndeadCost>
+  <!-- EN: Accelerates the undead's motor functions for faster work speed. -->
+  <OWD_Desc_UndeadCost>加速亡灵的机体机能，使其工作速度更快</OWD_Desc_UndeadCost>
+
+  <!-- Champion -->
+  <!-- EN: Relentless Pursuit -->
+  <OWD_Label_ChampSpeed>无尽追击</OWD_Label_ChampSpeed>
+  <!-- EN: Optimizes energy usage to accelerate movement. -->
+  <OWD_Desc_ChampSpeed>优化能量使用以提升移动速度</OWD_Desc_ChampSpeed>
+  
+  <!-- EN: Osseous Plating -->
+  <OWD_Label_ChampResist>骨制护甲</OWD_Label_ChampResist>
+  <!-- EN: Reinforces the body's structure to act as natural armor. -->
+  <OWD_Desc_ChampResist>强化身体结构，使其起到天然护甲的作用</OWD_Desc_ChampResist>
+  
+  <!-- EN: Martial Echoes -->
+  <OWD_Label_ChampFight>战斗回响</OWD_Label_ChampFight>
+  <!-- EN: Fading memories floating in the greater link floats in the undead, improving its combat stats. -->
+  <OWD_Desc_ChampFight>消散的记忆通过链接在亡灵中回荡，提升了其战斗属性</OWD_Desc_ChampFight>
+
+  <!-- Overseer -->
+  <!-- EN: Core Expansion -->
+  <OWD_Label_OverCap>核心扩展</OWD_Label_OverCap>
+  <!-- EN: Alters the geometry of the necrotic core, allowing it to hold more power (Level Cap). -->
+  <OWD_Desc_OverCap>改变死灵核心的几何结构，使其能够容纳更多能量（提升等级上限）</OWD_Desc_OverCap>
+  
+  <!-- EN: Parasitic Bond -->
+  <OWD_Label_OverLink>寄生链接</OWD_Label_OverLink>
+  <!-- EN: Creates a one-way siphon to draw excess energy regeneration from the master. -->
+  <OWD_Desc_OverLink>创建一个单向虹吸，从主人身上吸取过量的能量再生</OWD_Desc_OverLink>
+  
+  <!-- EN: Forbidden Knowledge -->
+  <OWD_Label_OverExp>禁忌知识</OWD_Label_OverExp>
+  <!-- EN: Accelerates the comprehension of necromantic knowledge, increasing experience gain and how to better use their undead body. -->
+  <OWD_Desc_OverExp>加速对死灵知识的理解，增加经验获取，并学会如何更好地运用其亡灵之躯</OWD_Desc_OverExp>
+
+  <!-- Shamblers -->
+  <!-- EN: Undying March -->
+  <OWD_Label_ShamblerMarch>不死行军</OWD_Label_ShamblerMarch>
+  <!-- EN: Increases movement speed for shamblers. -->
+  <OWD_Desc_ShamblerMarch>提升蹒跚怪的移动速度</OWD_Desc_ShamblerMarch>
+  
+  <!-- EN: Corpse Bloat -->
+  <OWD_Label_ShamblerBloat>尸体膨胀</OWD_Label_ShamblerBloat>
+  <!-- EN: Reduces incoming damage for shamblers. -->
+  <OWD_Desc_ShamblerBloat>降低蹒跚怪所受的伤害</OWD_Desc_ShamblerBloat>
+  
+  <!-- EN: Lingering Rot -->
+  <OWD_Label_ShamblerRot>延绵腐朽</OWD_Label_ShamblerRot>
+  <!-- EN: Increases the lifespan of the shambler. -->
+  <OWD_Desc_ShamblerRot>延长蹒跚怪的存续时间</OWD_Desc_ShamblerRot>
+
+  <!-- Overseer Forge Specifics -->
+  <!-- EN: Available Points:  -->
+  <OWD_AvailablePointsSimple>可用点数：</OWD_AvailablePointsSimple>
+  <!-- EN: Energy cost:  -->
+  <OWD_CostLabel>能量消耗：</OWD_CostLabel>
+  <!-- EN: Positive Modifications -->
+  <OWD_Header_Positive>正向改造</OWD_Header_Positive>
+  <!-- EN: Negative Modifications -->
+  <OWD_Header_Negative>负向改造</OWD_Header_Negative>
+  <!-- EN: Specials -->
+  <OWD_Header_Specials>特殊能力</OWD_Header_Specials>
+  <!-- EN: Unlocked -->
+  <OWD_Unlocked>已解锁</OWD_Unlocked>
+  <!-- EN: Unlock: 5 -->
+  <OWD_Unlock5>解锁需求：5</OWD_Unlock5>
+  <!-- EN: Cost cannot be lower than 2.5. -->
+  <OWD_MinCostLimit>消耗不能低于2.5</OWD_MinCostLimit>
+  <!-- EN: Cost cannot be higher than 15. -->
+  <OWD_MaxCostLimit>消耗不能高于15</OWD_MaxCostLimit>
+
+  <!-- EN: Lighter Bones -->
+  <OWD_Buff_LightBone>轻质骨骼</OWD_Buff_LightBone>
+  <!-- EN: Dense Bones -->
+  <OWD_Buff_DenseBone>致密骨骼</OWD_Buff_DenseBone>
+  <!-- EN: Refined Control -->
+  <OWD_Buff_RefinedCtrl>精密控制</OWD_Buff_RefinedCtrl>
+  <!-- EN: Jaw Control -->
+  <OWD_Buff_JawCtrl>颌骨控制</OWD_Buff_JawCtrl>
+  <!-- EN: Refined Coordination -->
+  <OWD_Buff_RefinedCoord>精密协调</OWD_Buff_RefinedCoord>
+  <!-- EN: Overdrive -->
+  <OWD_Buff_Overdrive>超载</OWD_Buff_Overdrive>
+<!-- EN: Stabilized Core -->
+  <OWD_Buff_StabCore>稳固核心</OWD_Buff_StabCore>
+  <!-- EN: Autonomous Imprint -->
+  <OWD_Buff_AutoImp>自主印记</OWD_Buff_AutoImp>
+
+  <!-- EN: Calcified Joints -->
+  <OWD_Debuff_CalcJoints>关节钙化</OWD_Debuff_CalcJoints>
+  <!-- EN: Brittle Bones -->
+  <OWD_Debuff_BrittleBone>脆弱骨骼</OWD_Debuff_BrittleBone>
+  <!-- EN: Bad Coordination -->
+  <OWD_Debuff_BadCoord>协调障碍</OWD_Debuff_BadCoord>
+  <!-- EN: Poor Conversion -->
+  <OWD_Debuff_PoorConv>低效转换</OWD_Debuff_PoorConv>
+  <!-- EN: Sluggish -->
+  <OWD_Debuff_Sluggish>迟缓</OWD_Debuff_Sluggish>
+  <!-- EN: Hazy Link -->
+  <OWD_Debuff_HazyLink>意志冲突</OWD_Debuff_HazyLink>
+ <!-- EN: Leaking Core -->
+  <OWD_Debuff_LeakCore>核心泄露</OWD_Debuff_LeakCore>
+  <!-- EN: Residual Will -->
+  <OWD_Debuff_ResWill>残留意念</OWD_Debuff_ResWill>
+
+<!-- EN: Melee Weapons -->
+  <OWD_Spec_Medieval>近战武器</OWD_Spec_Medieval>
+  <!-- EN: Armor -->
+  <OWD_Spec_Armor>护甲</OWD_Spec_Armor>
+  <!-- EN: Turrets -->
+  <OWD_Spec_Turret>炮塔</OWD_Spec_Turret>
+  <!-- EN: Shotguns -->
+  <OWD_Spec_Shotgun>霰弹枪</OWD_Spec_Shotgun>
+   <!-- EN: Bows -->
+  <OWD_Spec_Bow>弓</OWD_Spec_Bow>
+
+
+  <!-- Descriptions -->
+  <!-- EN: Increases movement speed. -->
+  <OWD_Desc_LightBone>增加移动速度</OWD_Desc_LightBone>
+  <!-- EN: Reduces incoming damage. -->
+  <OWD_Desc_DenseBone>减少受到的伤害</OWD_Desc_DenseBone>
+  <!-- EN: Increases inflicted damage. -->
+  <OWD_Desc_RefinedCtrl>增加造成的伤害</OWD_Desc_RefinedCtrl>
+  <!-- EN: Increases eating speed (applies to Gnawer). -->
+  <OWD_Desc_JawCtrl>增加进食速度（对啃咬者生效）</OWD_Desc_JawCtrl>
+  <!-- EN: Increases hit chance and accuracy. -->
+  <OWD_Desc_RefinedCoord>增加命中几率和精确度</OWD_Desc_RefinedCoord>
+  <!-- EN: Increases attack speed and aiming stats. -->
+  <OWD_Desc_Overdrive>增加攻击速度和瞄准属性</OWD_Desc_Overdrive>
+
+  <!-- EN: Reduces movement speed. -->
+  <OWD_Desc_CalcJoints>减少移动速度</OWD_Desc_CalcJoints>
+  <!-- EN: Increases incoming damage. -->
+  <OWD_Desc_BrittleBone>增加受到的伤害</OWD_Desc_BrittleBone>
+  <!-- EN: Reduces inflicted damage. -->
+  <OWD_Desc_BadCoord>减少造成的伤害</OWD_Desc_BadCoord>
+  <!-- EN: Reduces eating speed (applies to Gnawer). -->
+  <OWD_Desc_PoorConv>减少进食速度（对啃咬者生效）</OWD_Desc_PoorConv>
+  <!-- EN: Reduces hit chance and accuracy. -->
+  <OWD_Desc_Sluggish>减少命中几率和精确度</OWD_Desc_Sluggish>
+  <!-- EN: Reduces attack speed and aiming stats. -->
+  <OWD_Desc_HazyLink>减少攻击速度和瞄准属性</OWD_Desc_HazyLink>
+
+  <!-- EN: Unlocks simple bladed weapons. -->
+  <OWD_Desc_Spec_Medieval>解锁简单的刃类武器</OWD_Desc_Spec_Medieval>
+  <!-- EN: Unlocks armor usage. -->
+  <OWD_Desc_Spec_Armor>解锁护甲使用能力</OWD_Desc_Spec_Armor>
+  <!-- EN: Unlocks shoulder-mounted turrets. -->
+  <OWD_Desc_Spec_Turret>解锁肩扛式炮塔</OWD_Desc_Spec_Turret>
+  <!-- EN: Unlocks shotgun usage. -->
+  <OWD_Desc_Spec_Shotgun>解锁霰弹枪使用能力</OWD_Desc_Spec_Shotgun>
+  <!-- EN: Increased base duration by 2 hours per level. -->
+  <OWD_Desc_StabCore>每级增加2小时基础持续时间</OWD_Desc_StabCore>
+  <!-- EN: Increases control by 1 per level. -->
+  <OWD_Desc_AutoImp>每级增加1点控制力</OWD_Desc_AutoImp>
+  <!-- EN: Decrease base duration by 2 hours per level. -->
+  <OWD_Desc_LeakCore>每级减少2小时基础持续时间</OWD_Desc_LeakCore>
+  <!-- EN: Decreases control by 1 per level. -->
+  <OWD_Desc_ResWill>每级减少1点控制力</OWD_Desc_ResWill>
+  <!-- EN: Unlocks bow usage. -->
+  <OWD_Desc_Spec_Bow>解锁弓使用能力</OWD_Desc_Spec_Bow>
+</LanguageData>

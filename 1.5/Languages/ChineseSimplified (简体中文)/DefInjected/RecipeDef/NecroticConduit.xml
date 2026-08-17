@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft Necrotic Conduit -->
+  <Make_OWD_NecroticConduit.label>制作腐化导管</Make_OWD_NecroticConduit.label>
+  <!-- EN: Craft a Necrotic Conduit, allowing a necromancer to link with shamblers -->
+  <Make_OWD_NecroticConduit.description>制作腐化导管，允许死灵法师和蹒跚怪建立连接。</Make_OWD_NecroticConduit.description>
+  <!-- EN: Crafting Necrotic Conduit. -->
+  <Make_OWD_NecroticConduit.jobString>制作腐化导管</Make_OWD_NecroticConduit.jobString>
+  
+</LanguageData>

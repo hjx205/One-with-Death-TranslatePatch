@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <ControlExpansionItem.comps.CompUsableImplant.useLabel>研究{0_label}</ControlExpansionItem.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: Control expansion theory -->
+  <OWD_ControlExpansionItem.label>稳定控制扩展理论</OWD_ControlExpansionItem.label>
+  <!-- EN: A theory written on an old page. By applying its fundamentals you can expand the number of undead you can have under your stable control. Can be used up to 5 times -->
+  <OWD_ControlExpansionItem.description>记载于泛黄书页上的古老理论。通过运用其核心原理，可永久性提升同时操控的亡灵生物数量上限。最多可使用5次</OWD_ControlExpansionItem.description>
+  <!-- EN: Study {0_label} -->
+  <OWD_ControlExpansionItem.comps.CompUsableImplant.useLabel>研究{0_label}</OWD_ControlExpansionItem.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: Unstable control expansion theory -->
+  <OWD_UnstableControlExpansionItem.label>高危控制扩展理论</OWD_UnstableControlExpansionItem.label>
+  <!-- EN: A refined theory that allows for pushing the boundaries of undead control into unstable territory. Requires a deep understanding of the underlying workings of control servitors in order to be made. Can be used up to 5 times, required 5 levels of the previous tier -->
+  <OWD_UnstableControlExpansionItem.description>突破亡灵控制极限的进阶理论，需深入理解控制仆从的能量运作机制方可制作。最多可使用5次，但要求先完成5层稳定理论研究</OWD_UnstableControlExpansionItem.description>
+  <!-- EN: Study {0_label} -->
+  <OWD_UnstableControlExpansionItem.comps.CompUsableImplant.useLabel>研究{0_label}</OWD_UnstableControlExpansionItem.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Extract Soul Shard -->
+  <OWD_ExtractSoulShardRitual.label>萃灵仪式·净魂</OWD_ExtractSoulShardRitual.label>
+  <!-- EN: Perform a ritual to forcibly extract an infused soul shard from a pawn, cleansing it of the stored essence. The process is destructive, and may shatter the shard itself if the ritual is not performed with sufficient focus. -->
+  <OWD_ExtractSoulShardRitual.description>通过仪式强行从小人身上萃取灌注的灵魂碎片，并清除其中储存的精华。该过程具有破坏性，若仪式专注度不足可能导致碎片碎裂</OWD_ExtractSoulShardRitual.description>
+  <!-- EN: The infused soul shard will be removed from the target pawn. Depending on the ritual's quality, an empty soul shard will be produced, or the shard will shatter into nothing. -->
+  <OWD_ExtractSoulShardRitual.outcomeDescription>灌注的灵魂碎片将从目标小人身上移除。根据仪式质量，可能产生空白灵魂碎片，或碎片彻底碎裂消失。</OWD_ExtractSoulShardRitual.outcomeDescription>
+  
+</LanguageData>

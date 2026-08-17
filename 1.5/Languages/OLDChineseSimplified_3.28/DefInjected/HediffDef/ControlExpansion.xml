@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: control expansion -->
+  <ControlExpansion.label>强化控制</ControlExpansion.label>
+  <!-- EN: Increases a necromancer's undead control capacity. Can be increased up to 10 times. -->
+  <ControlExpansion.description>增加死灵法师能够控制亡灵的数量。最多可增加15次。</ControlExpansion.description>
+  
+</LanguageData>

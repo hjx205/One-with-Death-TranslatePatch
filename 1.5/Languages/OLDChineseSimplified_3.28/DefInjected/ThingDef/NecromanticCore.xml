@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fleshbound Grimoire -->
+  <NecromanticCore.label>亡魂魔典</NecromanticCore.label>
+  <!-- EN: A grotesque tome of stitched human skin, adorned with a grinning skull, its empty pages emitting a faint, ceaseless whisper. -->
+  <NecromanticCore.description>一本用人类皮肤缝制的可怖魔典，封面是一个有着诡异笑容的骷髅头，它那空白的页面不断散发出微弱而无休止的低语。</NecromanticCore.description>
+  <!-- EN: Read {0_label} to become necromancer -->
+  <NecromanticCore.comps.CompUsableImplant.useLabel>阅读 {0_label} 以成为死灵法师</NecromanticCore.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

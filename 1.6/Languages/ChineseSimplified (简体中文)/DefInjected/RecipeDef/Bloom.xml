@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: synthesize Necro-Bloom tonic -->
+  <Make_OWD_NecroBloomTonic.label>炼制死灵绽露药剂</Make_OWD_NecroBloomTonic.label>
+  <!-- EN: Synthesize refined Necro-Bloom dust into a potent, multi-purpose tonic. -->
+  <Make_OWD_NecroBloomTonic.description>将精炼死灵绽露粉末合成为强效多功能药剂</Make_OWD_NecroBloomTonic.description>
+  <!-- EN: Synthesizing Necro-Bloom tonic. -->
+  <Make_OWD_NecroBloomTonic.jobString>正在炼制死灵绽露药剂</Make_OWD_NecroBloomTonic.jobString>
+  
+</LanguageData>

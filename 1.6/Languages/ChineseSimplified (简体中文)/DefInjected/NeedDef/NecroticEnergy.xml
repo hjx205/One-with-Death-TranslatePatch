@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Energy -->
+  <OWD_NecroticEnergy.label>死灵能量</OWD_NecroticEnergy.label>
+  <!-- EN: A reserve of necrotic energy or archites used for necromancy. -->
+  <OWD_NecroticEnergy.description>一种用于死灵法术的死灵能量或archites储备</OWD_NecroticEnergy.description>
+  
+</LanguageData>

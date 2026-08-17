@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Orb -->
+  <OWD_NecroticOrb.label>死灵宝珠</OWD_NecroticOrb.label>
+  <!-- EN: An ancient orb of compressed necrotic energy that has been stabilized beyond your comprehension. When installed in place of a heart, it projects a powerful, shimmering green energy field that intercepts incoming projectiles. The energy emitted prevents other orbs from being Installed. The orb seems to have other uses as well, I must investigate further. -->
+  <OWD_NecroticOrb.description>一种古老的死灵能量宝珠，已经稳定成防御矩阵。当安装在心脏的位置时，它会投射出一个强大的、闪闪发光的绿色能量场，拦截来袭的投射物。</OWD_NecroticOrb.description>
+  <!-- EN: Analyze this strange artifact to unlock its uses. -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateDescString>分析这件诡异神器，揭开其隐藏的禁忌知识</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateLabelString>解析宝珠...</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the Necrotic Orb, {PAWN_labelShort} has unlocked the secrets of {RESEARCH}.\n\nYour researchers can now begin exploring this forbidden knowledge. -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究死灵宝珠，{PAWN_labelShort}参透了{RESEARCH}的奥秘。\n\n科研者现已可探索这门禁忌领域</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Necrotic Orb analyzed: {RESEARCH} unlocked -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.completedLetterLabel>死灵宝珠解析完成：{RESEARCH}解锁</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.guiLabelString>指派研究者分析宝珠</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者进行分析研究</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyzing Necrotic Orb -->
+  <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.jobString>正在解析死灵宝珠</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.jobString>
+  <!-- EN: Install Necrotic Orb -->
+  <OWD_NecroticOrb.comps.CompUsable_InstallNecroticOrb.useLabel>安装死灵宝珠</OWD_NecroticOrb.comps.CompUsable_InstallNecroticOrb.useLabel>
+  
+  <!-- EN: necrotic orb field -->
+  <OWD_Thing_NecroticOrbFollower.label>死灵宝珠力场</OWD_Thing_NecroticOrbFollower.label>
+  <!-- EN: A pulsating orb of necromantic energy that shields its bearer from harm. -->
+  <OWD_Thing_NecroticOrbFollower.comps.Comp_NecroticOrbInterceptor.customTip>一个跳动的充满死灵能量的球体，保护其持有者免受伤害。</OWD_Thing_NecroticOrbFollower.comps.Comp_NecroticOrbInterceptor.customTip>
+  
+</LanguageData>

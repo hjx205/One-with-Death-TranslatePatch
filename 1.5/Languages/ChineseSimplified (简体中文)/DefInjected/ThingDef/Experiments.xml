@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Experiment Results I -->
+  <ExperimentResultsI.label>实验结果I</ExperimentResultsI.label>
+  <!-- EN: An old page detailing forbidden experiments with the dead. Reading it imparts unsettling knowledge. -->
+  <ExperimentResultsI.description>一页有关亡者禁忌实验的旧纸，阅读它会获得令人不安的知识。</ExperimentResultsI.description>
+  <!-- EN: Read {0_label} -->
+  <ExperimentResultsI.comps.CompUsable.useLabel>阅读 {0_label}</ExperimentResultsI.comps.CompUsable.useLabel>
+  
+  <!-- EN: Experiment Results II -->
+  <ExperimentResultsII.label>实验结果II</ExperimentResultsII.label>
+  <!-- EN: Write the results of your experiments on paper. -->
+  <ExperimentResultsII.description>你的实验结果已记录在纸上。</ExperimentResultsII.description>
+  <!-- EN: Read {0_label} -->
+  <ExperimentResultsII.comps.CompUsable.useLabel>阅读 {0_label}</ExperimentResultsII.comps.CompUsable.useLabel>
+  
+  <!-- EN: Experiment Results III -->
+  <ExperimentResultsIII.label>实验结果III</ExperimentResultsIII.label>
+  <!-- EN: The final record of experiments, uniting the reader with death itself. -->
+  <ExperimentResultsIII.description>实验的最终记录，读者将与死亡本身融为一体。</ExperimentResultsIII.description>
+  <!-- EN: Read {0_label} -->
+  <ExperimentResultsIII.comps.CompUsable.useLabel>阅读 {0_label}</ExperimentResultsIII.comps.CompUsable.useLabel>
+  
+</LanguageData>

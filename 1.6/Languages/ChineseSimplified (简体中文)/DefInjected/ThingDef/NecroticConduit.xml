@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic Conduit -->
+  <OWD_NecroticConduit.label>腐化导管</OWD_NecroticConduit.label>
+  <!-- EN: A crude amalgamation of a dark archotechnological shard and crystalized necrotic archites placed seemingly at random in order to forcibly create a conduit between shamblers an necromancer. -->
+  <OWD_NecroticConduit.description>由暗黑超凡碎片与结晶化的死灵能量粗糙拼合而成，使得死灵法师可以和蹒跚怪强行建立连接通道。</OWD_NecroticConduit.description>
+  <!-- EN: Install {0_label} -->
+  <OWD_NecroticConduit.comps.CompUsableImplant.useLabel>安装{0_label}</OWD_NecroticConduit.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic link -->
+  <OWD_NecroticLink.label>死灵链接</OWD_NecroticLink.label>
+  <!-- EN: A neural implant made from crystallized archites, surrendering parts of this pawn's brain to the linked necromancer, granting 1 extra control and allowing the backlash from unsafely using necromantic abilities to be absorbed by this pawn instead. -->
+  <OWD_NecroticLink.description>由结晶化的死灵能量制成的神经植入物，该角色大脑的一部分将连接至死灵法师，为后者提供额外的1点控制能力，并使该角色能吸收因不安全使用死灵能力而产生的反噬。</OWD_NecroticLink.description>
+  
+</LanguageData>

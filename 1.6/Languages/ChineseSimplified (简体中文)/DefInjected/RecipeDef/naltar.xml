@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: convert necrotic energy -->
+  <OWD_ConvertCorpseToEnergy.label>萃取死灵能量</OWD_ConvertCorpseToEnergy.label>
+  <!-- EN: Convert a corpse into 5 necrotic energy. -->
+  <OWD_ConvertCorpseToEnergy.description>将尸体转化为5单位死灵能量</OWD_ConvertCorpseToEnergy.description>
+  <!-- EN: Converting corpse to energy. -->
+  <OWD_ConvertCorpseToEnergy.jobString>正在萃取尸体能量</OWD_ConvertCorpseToEnergy.jobString>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enraged -->
+  <OWD_Enrage.label>虚妄怒火</OWD_Enrage.label>
+  <!-- EN: This creature has had their senses overwhelmed by an artificial rage induced by the necrotic link. Images of enemies far away are flickering in their minds, driving them to chase the necromancer's enemies -->
+  <OWD_Enrage.description>该生物的感官被死灵链接所引发的虚妄怒火所淹没。远方敌人的影像在其脑海中闪烁，驱使着它们追逐死灵法师的敌人。</OWD_Enrage.description>
+  <!-- EN: enraged -->
+  <OWD_Enrage.stages.enraged.label>狂怒</OWD_Enrage.stages.enraged.label>
+  <!-- EN: ??? -->
+  <OWD_Enrage.stages.1.label>???</OWD_Enrage.stages.1.label>
+  
+  <!-- EN: Necrotic Field -->
+  <OWD_NecroticField.label>死灵力场</OWD_NecroticField.label>
+  <!-- EN: A surge of necrotic energy accelerates healing, restoring flesh and bones in the undead. -->
+  <OWD_NecroticField.description>大量的死灵能量正在加速重构亡灵的血肉。</OWD_NecroticField.description>
+  <!-- EN: minimal -->
+  <OWD_NecroticField.stages.minimal.label>微弱</OWD_NecroticField.stages.minimal.label>
+  <!-- EN: moderate -->
+  <OWD_NecroticField.stages.moderate.label>中等</OWD_NecroticField.stages.moderate.label>
+  <!-- EN: strong -->
+  <OWD_NecroticField.stages.strong.label>强烈</OWD_NecroticField.stages.strong.label>
+  <!-- EN: extreme -->
+  <OWD_NecroticField.stages.extreme.label>极强</OWD_NecroticField.stages.extreme.label>
+  
+  <!-- EN: Necrotic mending -->
+  <OWD_NecroticMending.label>死灵修复</OWD_NecroticMending.label>
+  <!-- EN: A surge of necrotic energy is actively knitting this creature's wounds back together. -->
+  <OWD_NecroticMending.description>一股死灵能量正主动缝合该生物的伤口，促使其愈合</OWD_NecroticMending.description>
+  
+  <!-- EN: Necrotic Regeneration -->
+  <OWD_NecroticRegeneration.label>死灵再生</OWD_NecroticRegeneration.label>
+  <!-- EN: A surge of necrotic energy accelerates healing restoring flesh and bones in the undead. -->
+  <OWD_NecroticRegeneration.description>大量的死灵能量正在加速重构亡灵的血肉。</OWD_NecroticRegeneration.description>
+  
+</LanguageData>

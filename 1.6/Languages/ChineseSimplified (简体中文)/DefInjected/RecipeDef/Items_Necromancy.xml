@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft Green Crystal -->
+  <Make_GreenCrystal.label>制作翠绿灵晶</Make_GreenCrystal.label>
+  <!-- EN: Craft a Green Crystal by using Jade as a catalyst and bodies as fuel, allowing archites to replicate themselves. -->
+  <Make_GreenCrystal.description>使用翡翠作为催化剂，尸体作为燃料，制作翠绿灵晶，使死灵能量能够自我复制。</Make_GreenCrystal.description>
+  <!-- EN: Crafting a Green Crystal. -->
+  <Make_GreenCrystal.jobString>正在制作翠绿灵晶。</Make_GreenCrystal.jobString>
+  
+  <!-- EN: craft Green Crystal (metal catalyst) -->
+  <Make_GreenCrystal_Metal.label>制作翠绿灵晶（金属催化剂）</Make_GreenCrystal_Metal.label>
+  <!-- EN: Craft a Green Crystal by using steel, gold, plasteel, or uranium as a catalyst and bodies as fuel, allowing archites to replicate themselves. -->
+  <Make_GreenCrystal_Metal.description>使用钢铁、黄金、玻璃钢或铀作为催化剂，尸体作为燃料，制作翠绿灵晶，使死灵能量能够自我复制。</Make_GreenCrystal_Metal.description>
+  <!-- EN: Crafting a Green Crystal. -->
+  <Make_GreenCrystal_Metal.jobString>正在制作翠绿灵晶。</Make_GreenCrystal_Metal.jobString>
+  
+</LanguageData>

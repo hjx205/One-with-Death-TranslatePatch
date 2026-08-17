@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install neural shackle -->
+  <InstallNeuralShackle.label>安装死灵链接</InstallNeuralShackle.label>
+  <!-- EN: Install a neural shackle to link the pawn to a necromancer. -->
+  <InstallNeuralShackle.description>安装死灵链接，将该角色与死灵法师连接。</InstallNeuralShackle.description>
+  <!-- EN: Installing neural shackle. -->
+  <InstallNeuralShackle.jobString>正在安装死灵链接。</InstallNeuralShackle.jobString>
+  
+</LanguageData>

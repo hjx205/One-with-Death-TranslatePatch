@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Undead (Deprecated) -->
+  <Undead.label>亡灵</Undead.label>
+  <!-- EN: This is a dummy placeholder for savegame compatibility. If you see this, please kill this pawn and raise it again.. -->
+  <Undead.description>这是一个用于保存格式兼容性的虚拟占位符。如果你看到这个，请杀了这个家伙，再复活它。</Undead.description>
+  
+</LanguageData>

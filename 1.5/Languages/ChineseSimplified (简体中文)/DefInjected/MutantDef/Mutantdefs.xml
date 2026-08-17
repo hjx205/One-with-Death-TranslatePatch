@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Undead -->
+<OWD_Shambler.label>亡灵</OWD_Shambler.label>
+<!-- EN: A creature who has been raised from the dead by corrupted nano-scale archites.\n\nAbout shamblers: Shamblers are corpses which have been reanimated by archotechnology. They attack living creatures relentlessly and their immunity to pain makes them difficult to kill. However, the archites which animate them cannot sustain the rotting body for long, so shamblers expire after a few days of movement.\n\nThere are ways to raise your own shamblers and make yourself invisible to them, so they attack only outsiders. -->
+<OWD_Shambler.description>一种被腐化死灵能量复生的生物。\n\n关于蹒跚怪：蹒跚怪是被超凡微械复活的尸体。它们会对活着的生物发起无情的攻击，并且对疼痛的免疫力使它们难以被杀死。然而，赋予它们生命的死灵能量无法长时间维持其身体，因此蹒跚怪会在活动几天后死亡。\n\n有一些方法可以创造你自己的蹒跚怪，并让自己对它们隐形，这样它们只会攻击外来者。</OWD_Shambler.description>
+<!-- EN: Undead -->
+<OWD_Shambler.namePrefix>不死</OWD_Shambler.namePrefix>
+<!-- EN: Shambler wounds -->
+<OWD_Shambler.renderNodeProperties.0.debugLabel>蹒跚怪伤口</OWD_Shambler.renderNodeProperties.0.debugLabel>
+<!-- EN: Shambler wounds -->
+<OWD_Shambler.renderNodeProperties.1.debugLabel>蹒跚怪伤口</OWD_Shambler.renderNodeProperties.1.debugLabel>
+<!-- EN: teeth -->
+<OWD_Shambler.tools.teeth.label>牙齿</OWD_Shambler.tools.teeth.label>
+<!-- EN: left hand -->
+<OWD_Shambler.tools.left_hand.label>左手</OWD_Shambler.tools.left_hand.label>
+<!-- EN: hand -->
+<OWD_Shambler.tools.left_hand.labelNoLocation>手</OWD_Shambler.tools.left_hand.labelNoLocation>
+<!-- EN: right hand -->
+<OWD_Shambler.tools.right_hand.label>右手</OWD_Shambler.tools.right_hand.label>
+<!-- EN: hand -->
+<OWD_Shambler.tools.right_hand.labelNoLocation>手</OWD_Shambler.tools.right_hand.labelNoLocation>
+
+</LanguageData>

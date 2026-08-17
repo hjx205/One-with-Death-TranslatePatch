@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: turret shot -->
+  <OWD_Bullet_MiniTurret_Weak.label>迷你炮塔弱效弹</OWD_Bullet_MiniTurret_Weak.label>
+  
+  <!-- EN: Gnawer -->
+  <OWD_Gnawer.label>啃咬者</OWD_Gnawer.label>
+  <!-- EN: A small undead who's only purpose is to eat and convert it to necrotic energy. -->
+  <OWD_Gnawer.description>一种小型亡灵，其存在的唯一目的就是进食，并将食物转化为亡灵能量</OWD_Gnawer.description>
+  <!-- EN: teeth -->
+  <OWD_Gnawer.tools.teeth.label>牙齿</OWD_Gnawer.tools.teeth.label>
+  
+  <!-- EN: lesser undead -->
+  <OWD_LesserUndead.label>次级亡灵</OWD_LesserUndead.label>
+  <!-- EN: A lesser form of undead, a reanimated skeleton Powered by a necrotic energy core in its chest, it exists only to serve for a short time before its animating energy dissipates. -->
+  <OWD_LesserUndead.description>一种较低等的亡灵形态，是由胸腔内的坏死能量核心驱动的复生骨架。它仅能短暂存在，为其创造者服务，直至驱动能量消散殆尽</OWD_LesserUndead.description>
+  <!-- EN: left fist -->
+  <OWD_LesserUndead.tools.left_fist.label>左拳</OWD_LesserUndead.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <OWD_LesserUndead.tools.right_fist.label>右拳</OWD_LesserUndead.tools.right_fist.label>
+  <!-- EN: head -->
+  <OWD_LesserUndead.tools.head.label>头部</OWD_LesserUndead.tools.head.label>
+  
+  <!-- EN: Undead Legion -->
+  <OWD_LesserUndead_Legion.label>亡灵军团</OWD_LesserUndead_Legion.label>
+  <!-- EN: An undead animated by an energy core deeply embedded in its chest. -->
+  <OWD_LesserUndead_Legion.description>一种由深嵌胸腔的能量核心所驱动的亡灵</OWD_LesserUndead_Legion.description>
+  <!-- EN: left fist -->
+  <OWD_LesserUndead_Legion.tools.left_fist.label>左拳</OWD_LesserUndead_Legion.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <OWD_LesserUndead_Legion.tools.right_fist.label>右拳</OWD_LesserUndead_Legion.tools.right_fist.label>
+  <!-- EN: head -->
+  <OWD_LesserUndead_Legion.tools.head.label>头部</OWD_LesserUndead_Legion.tools.head.label>
+  
+  <!-- EN: Lesser undead -->
+  <OWD_LesserUndead_Turret.label>次级亡灵炮塔</OWD_LesserUndead_Turret.label>
+  <!-- EN: A lesser form of undead, a reanimated skeleton Powered by a necrotic energy core in its chest, it exists only to serve for a short time before its animating energy dissipates. -->
+  <OWD_LesserUndead_Turret.description>一种较低等的亡灵形态，是由胸腔内的死灵能量核心驱动的复生骨架。它仅能短暂存在，为其创造者服务，直至驱动能量消散殆尽</OWD_LesserUndead_Turret.description>
+  <!-- EN: left fist -->
+  <OWD_LesserUndead_Turret.tools.left_fist.label>左拳</OWD_LesserUndead_Turret.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <OWD_LesserUndead_Turret.tools.right_fist.label>右拳</OWD_LesserUndead_Turret.tools.right_fist.label>
+  <!-- EN: head -->
+  <OWD_LesserUndead_Turret.tools.head.label>头部</OWD_LesserUndead_Turret.tools.head.label>
+  
+  <!-- EN: Mounted turret -->
+  <OWD_Turret.label>挂载式炮塔</OWD_Turret.label>
+  <!-- EN: A compact autonomous turret mounted directly onto the user's body. -->
+  <OWD_Turret.description>一种紧凑型自动炮塔，可直接安装在使用者身体上</OWD_Turret.description>
+  <!-- EN: Mounted turret -->
+  <OWD_Turret.verbs.Verb_Shoot.label>挂载式炮塔射击</OWD_Turret.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Necrotic link Perception -->
+  <OWD_LinkPerception.label>死灵链接感知</OWD_LinkPerception.label>
+  <!-- EN: The user's mind is subtly attuned to the necrotic link, granting a sense of detachment and boosting healing speed. -->
+  <OWD_LinkPerception.description>使用者的心智微妙地与死灵链接共鸣，获得超然物外的感知并提升愈合速度</OWD_LinkPerception.description>
+  
+  <!-- EN: necrotic mending (tonic) -->
+  <OWD_TonicHealing.label>死灵修复(药剂)</OWD_TonicHealing.label>
+  <!-- EN: A short, intense surge of necrotic energy is actively knitting this creature's wounds back together. -->
+  <OWD_TonicHealing.description>一股短暂而强烈的死灵能量正主动缝合该生物的伤口</OWD_TonicHealing.description>
+  
+</LanguageData>

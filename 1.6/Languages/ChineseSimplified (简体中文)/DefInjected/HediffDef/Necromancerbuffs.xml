@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Martial Echoes -->
+  <OWD_Buff_ChampFight.label>战斗回响</OWD_Buff_ChampFight.label>
+  <!-- EN: Fading memories floating in the greater link floats in the undead, improving its combat stats. -->
+  <OWD_Buff_ChampFight.description>消散的记忆通过链接在亡灵中回荡，提升了其战斗属性</OWD_Buff_ChampFight.description>
+  
+  <!-- EN: Osseous Plating -->
+  <OWD_Buff_ChampResist.label>骨制护甲</OWD_Buff_ChampResist.label>
+  <!-- EN: Reinforces the body's structure to act as natural armor. -->
+  <OWD_Buff_ChampResist.description>强化身体结构，使其起到天然护甲的作用</OWD_Buff_ChampResist.description>
+  
+  <!-- EN: Relentless Pursuit -->
+  <OWD_Buff_ChampSpeed.label>无尽追击</OWD_Buff_ChampSpeed.label>
+  <!-- EN: Optimizes energy usage to accelerate movement. -->
+  <OWD_Buff_ChampSpeed.description>优化能量使用以提升移动速度</OWD_Buff_ChampSpeed.description>
+  
+  <!-- EN: Core Expansion -->
+  <OWD_Buff_OverCap.label>核心扩展</OWD_Buff_OverCap.label>
+  <!-- EN: Alters the geometry of the necrotic core, allowing it to hold more power. -->
+  <OWD_Buff_OverCap.description>改变死灵核心的几何结构，使其能够容纳更多能量</OWD_Buff_OverCap.description>
+  
+  <!-- EN: Parasitic Bond -->
+  <OWD_Buff_OverLink.label>寄生链接</OWD_Buff_OverLink.label>
+  <!-- EN: Creates a one-way siphon to draw excess energy regeneration from the master. -->
+  <OWD_Buff_OverLink.description>创建一个单向虹吸，从主人身上吸取过量的能量再生</OWD_Buff_OverLink.description>
+  
+  <!-- EN: Corpse Bloat -->
+  <OWD_Buff_ShamblerBloat.label>尸体膨胀</OWD_Buff_ShamblerBloat.label>
+  <!-- EN: Reduces incoming damage for shamblers. -->
+  <OWD_Buff_ShamblerBloat.description>降低蹒跚怪所受的伤害</OWD_Buff_ShamblerBloat.description>
+  
+  <!-- EN: Undying March -->
+  <OWD_Buff_ShamblerMarch.label>不死行军</OWD_Buff_ShamblerMarch.label>
+  <!-- EN: Increased movement speed for shamblers. -->
+  <OWD_Buff_ShamblerMarch.description>提升蹒跚怪的移动速度</OWD_Buff_ShamblerMarch.description>
+  
+  <!-- EN: Lingering Rot -->
+  <OWD_Buff_ShamblerRot.label>延绵腐朽</OWD_Buff_ShamblerRot.label>
+  <!-- EN: Increases the lifespan of the shambler. -->
+  <OWD_Buff_ShamblerRot.description>延长蹒跚怪的存续时间</OWD_Buff_ShamblerRot.description>
+  
+  <!-- EN: Link Clarity -->
+  <OWD_Buff_UndeadControl.label>链接明晰</OWD_Buff_UndeadControl.label>
+  <!-- EN: Stabilizes the necrotic connection, improving responsiveness and consciousness. -->
+  <OWD_Buff_UndeadControl.description>稳定死灵连接，提升其响应速度与意识清晰度</OWD_Buff_UndeadControl.description>
+  
+  <!-- EN: Unnatural Efficiency -->
+  <OWD_Buff_UndeadCost.label>非人效率</OWD_Buff_UndeadCost.label>
+  <!-- EN: Accelerates the undead's motor functions for faster work speed. -->
+  <OWD_Buff_UndeadCost.description>加速亡灵的机体机能，使其工作速度更快</OWD_Buff_UndeadCost.description>
+  
+  <!-- EN: Necrotic Impulse -->
+  <OWD_Buff_UndeadSpeed.label>死灵脉冲</OWD_Buff_UndeadSpeed.label>
+  <!-- EN: Channels raw energy directly into the frame for faster movements. -->
+  <OWD_Buff_UndeadSpeed.description>将原始能量直接注入亡灵躯壳，以获得更快的移动速度</OWD_Buff_UndeadSpeed.description>
+  
+  <!-- EN: Forbidden Knowledge -->
+  <OWD_OverseerBuffs.label>禁忌知识</OWD_OverseerBuffs.label>
+  <!-- EN: Accelerates the comprehension of necromantic knowledge, increasing experience gain and how to better use their undead body. -->
+  <OWD_OverseerBuffs.description>加速对死灵知识的理解，增加经验获取，并学会如何更好地运用其亡灵之躯</OWD_OverseerBuffs.description>
+  
+</LanguageData>

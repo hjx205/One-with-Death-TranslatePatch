@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enraged -->
+  <OWD_Enrage.label>虚妄怒火</OWD_Enrage.label>
+  <!-- EN: This creature has had their senses overwhelmed by an artificial rage induced by the necrotic link. Images of enemies far away are flickering in their minds, driving them to chase the necromancer's enemies -->
+  <OWD_Enrage.description>该生物的感官被死灵链接所引发的虚妄怒火所淹没。远方敌人的影像在其脑海中闪烁，驱使着它们追逐死灵法师的敌人。</OWD_Enrage.description>
+  
+  <!-- EN: Necrotic Regeneration -->
+  <OWD_NecroticRegeneration.label>死灵再生</OWD_NecroticRegeneration.label>
+  <!-- EN: A surge of necrotic energy accelerates healing restoring flesh and bones in the undead. -->
+  <OWD_NecroticRegeneration.description>大量的死灵能量正在加速重构亡灵的血肉。</OWD_NecroticRegeneration.description>
+  
+</LanguageData>

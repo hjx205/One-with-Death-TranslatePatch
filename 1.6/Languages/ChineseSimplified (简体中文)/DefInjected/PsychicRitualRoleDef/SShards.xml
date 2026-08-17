@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Target -->
+  <OWD_Target_Infused.label>灵魂灌注体</OWD_Target_Infused.label>
+  <!-- EN: A being with a soul shard already infused within them. The ritual will extract this shard. -->
+  <OWD_Target_Infused.description>体内已灌注灵魂碎片的个体。仪式将萃取其体内的灵魂碎片。</OWD_Target_Infused.description>
+  
+</LanguageData>

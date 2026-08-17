@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Familiar with Death -->
+  <FamiliarWithDeath.label>理解死亡</FamiliarWithDeath.label>
+  <!-- EN: You start to understand what death is, the archites link and how undead are able to move even without food -->
+  <FamiliarWithDeath.description>你开始理解死亡的本质、死灵能量以及亡灵即使不需要进食也能够行动的原理。</FamiliarWithDeath.description>
+  
+  <!-- EN: One with Death -->
+  <OneWithDeath.label>死亡化身</OneWithDeath.label>
+  <!-- EN: You fully embraced death and became familiar with the innerworkings of the archite link. As long as you have archites flowing thorugh you, or have pawns to sacrifice, you are functionally immortal. -->
+  <OneWithDeath.description>你完全拥抱死亡，并熟悉了死灵能量的全部运作机制。只要你体内有死灵能量流动，或有可以牺牲的个体，你就可以称为永生。</OneWithDeath.description>
+  
+  <!-- EN: Unfamiliar with Death -->
+  <UnfamiliarWithDeath.label>窥视死亡</UnfamiliarWithDeath.label>
+  <!-- EN: You do not fully comprehend what lies beyond. -->
+  <UnfamiliarWithDeath.description>你尚未完全理解死亡的奥秘。</UnfamiliarWithDeath.description>
+  
+</LanguageData>

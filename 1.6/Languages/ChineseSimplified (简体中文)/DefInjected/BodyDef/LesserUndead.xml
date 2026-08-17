@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: undead -->
+  <OWD_UndeadBody.label>亡灵</OWD_UndeadBody.label>
+  <!-- EN: left sight node -->
+  <OWD_UndeadBody.corePart.parts.OWD_UndeadNeck.parts.OWD_UndeadHead.parts.OWD_UndeadSkull.parts.left_sight_node.customLabel>左视点节点</OWD_UndeadBody.corePart.parts.OWD_UndeadNeck.parts.OWD_UndeadHead.parts.OWD_UndeadSkull.parts.left_sight_node.customLabel>
+  <!-- EN: right sight node -->
+  <OWD_UndeadBody.corePart.parts.OWD_UndeadNeck.parts.OWD_UndeadHead.parts.OWD_UndeadSkull.parts.right_sight_node.customLabel>右视点节点</OWD_UndeadBody.corePart.parts.OWD_UndeadNeck.parts.OWD_UndeadHead.parts.OWD_UndeadSkull.parts.right_sight_node.customLabel>
+  <!-- EN: left shoulder -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.customLabel>左肩</OWD_UndeadBody.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左锁骨</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左桡骨</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左无名指</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</OWD_UndeadBody.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.customLabel>右肩</OWD_UndeadBody.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右锁骨</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右桡骨</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右无名指</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</OWD_UndeadBody.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <OWD_UndeadBody.corePart.parts.left_leg.customLabel>左腿</OWD_UndeadBody.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</OWD_UndeadBody.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_tibia.customLabel>左胫骨</OWD_UndeadBody.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.customLabel>左脚</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左第四趾</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左中趾</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左第二趾</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左拇趾</OWD_UndeadBody.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <OWD_UndeadBody.corePart.parts.right_leg.customLabel>右腿</OWD_UndeadBody.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</OWD_UndeadBody.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_tibia.customLabel>右胫骨</OWD_UndeadBody.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.customLabel>右脚</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右第四趾</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右中趾</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右第二趾</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右拇趾</OWD_UndeadBody.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

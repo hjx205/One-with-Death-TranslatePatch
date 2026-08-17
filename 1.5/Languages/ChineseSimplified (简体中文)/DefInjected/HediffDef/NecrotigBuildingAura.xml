@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: Necrotic Aura -->
+<OWD_NecroticAura.label>死灵灵气</OWD_NecroticAura.label>
+<!-- EN: A psychic field combined with a mist of necrotic archites is slowly and forcefully clotting wounds and reconstructing flesh and missing limbs, while forcing the mind to stay focused. This however has various adverse effects. -->
+<OWD_NecroticAura.description>一种由灵能场和坏死纳米机器人组成的雾气缓慢而强力地凝结伤口，重建血肉和缺失的肢体，同时迫使思维保持专注。然而，这会产生各种不利影响。</OWD_NecroticAura.description>
+<!-- EN: mild -->
+<OWD_NecroticAura.stages.mild.label>轻微</OWD_NecroticAura.stages.mild.label>
+<!-- EN: moderate -->
+<OWD_NecroticAura.stages.moderate.label>中等</OWD_NecroticAura.stages.moderate.label>
+<!-- EN: strong -->
+<OWD_NecroticAura.stages.strong.label>强烈</OWD_NecroticAura.stages.strong.label>
+<!-- EN: intense -->
+<OWD_NecroticAura.stages.intense.label>剧烈</OWD_NecroticAura.stages.intense.label>
+<!-- EN: extreme -->
+<OWD_NecroticAura.stages.extreme.label>极端</OWD_NecroticAura.stages.extreme.label>
+
+</LanguageData>
