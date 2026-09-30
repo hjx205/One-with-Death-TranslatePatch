@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dimensional fissure -->
+  <OWD_DimensionalFissure.label>维度裂隙</OWD_DimensionalFissure.label>
+  
+  <!-- EN: Dimensional Storage -->
+  <OWD_DimensionalStorage.label>维度储物箱</OWD_DimensionalStorage.label>
+  <!-- EN: An artifact container that links an item across dimensions. Channeling 1000 Necrotic Energy into it will extract a perfect copy of the linked artifact. -->
+  <OWD_DimensionalStorage.description>一个神器容器，可与物品跨维度链接。向其引导 1000 点死灵能量，即可提取所链接神器的完美复制品。</OWD_DimensionalStorage.description>
+  
+  <!-- EN: dimension stabilizer -->
+  <OWD_DimensionStabilizer.label>维度稳定器</OWD_DimensionStabilizer.label>
+  <!-- EN: A structural anchor that stabilizes the dimension, reducing energy drain -->
+  <OWD_DimensionStabilizer.description>一种结构锚点，可稳定维度并降低能量消耗</OWD_DimensionStabilizer.description>
+  
+  <!-- EN: Soul Binder -->
+  <OWD_SoulBinder.label>缚魂石棺</OWD_SoulBinder.label>
+  <!-- EN: A highly modified sarcophagus capable of recording the exact necrotic signature and physical traits of an undead. By fueling it with a generic corpse and 100 Necrotic Energy, it can reconstruct the stored undead's body across dimensions. -->
+  <OWD_SoulBinder.description>一具经过高度改造的石棺，能够记录亡灵精确的死灵特征与身体特征。通过向其中投入一具普通尸体与 100 点死灵能量，它便能跨维度重塑所储存亡灵的躯体。</OWD_SoulBinder.description>
+  
+  <!-- EN: void bait -->
+  <OWD_VoidBait.label>虚空诱饵</OWD_VoidBait.label>
+  <!-- EN: Lures the enemies towards this point -->
+  <OWD_VoidBait.description>将敌人引诱至此地</OWD_VoidBait.description>
+  
+  <!-- EN: Void Portal -->
+  <OWD_VoidPortal.label>虚空传送门</OWD_VoidPortal.label>
+  <!-- EN: A tear in reality connected to another dimension. -->
+  <OWD_VoidPortal.description>一道连接着另一维度的现实裂口。</OWD_VoidPortal.description>
+  
+</LanguageData>

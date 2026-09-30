@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mors Vastum -->
+  <OWD_MorsVastum.label>死亡荒原</OWD_MorsVastum.label>
+  <!-- EN: A staff with an unnaturally dense core of pure necrotic energy. -->
+  <OWD_MorsVastum.description>一柄法杖，其核心由异常致密的纯净死灵能量构成。</OWD_MorsVastum.description>
+  <!-- EN: Staff's shaft -->
+  <OWD_MorsVastum.tools.Staffs_shaft.label>杖身</OWD_MorsVastum.tools.Staffs_shaft.label>
+  <!-- EN: Mors Vastum -->
+  <OWD_MorsVastum.verbs.Verb_ShootNecroticLaser.label>死亡荒原</OWD_MorsVastum.verbs.Verb_ShootNecroticLaser.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Mote_MorsVastum_Charge.label>光点</OWD_Mote_MorsVastum_Charge.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Mote_MorsVastumBeam.label>光点</OWD_Mote_MorsVastumBeam.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Mote_MuzzlePortal.label>光点</OWD_Mote_MuzzlePortal.label>
+  
+  <!-- EN: necrotic distortion -->
+  <OWD_Projectile_DistortionPulse.label>死灵畸变</OWD_Projectile_DistortionPulse.label>
+  
+  <!-- EN: necrotic beam -->
+  <OWD_Projectile_NecroticDamage.label>死灵光束</OWD_Projectile_NecroticDamage.label>
+  
+</LanguageData>

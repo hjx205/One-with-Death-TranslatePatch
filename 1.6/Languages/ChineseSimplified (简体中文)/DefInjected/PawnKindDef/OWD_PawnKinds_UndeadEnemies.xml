@@ -4,16 +4,13 @@
   <!-- EN: Lich -->
   <OWD_EnemyNecromancer.label>巫妖</OWD_EnemyNecromancer.label>
   
-  <!-- EN: legion skeleton -->
+  <!-- EN: Legion skeleton -->
   <OWD_LesserUndead_Legion.label>军团骷髅</OWD_LesserUndead_Legion.label>
   
-  <!-- EN: legion champion -->
+  <!-- EN: Legion Champion -->
   <OWD_LesserUndead_Legion_Armored.label>军团冠军</OWD_LesserUndead_Legion_Armored.label>
   
-  <!-- EN: skeleton champion -->
-  <OWD_SkeletonChampion.label>骷髅冠军</OWD_SkeletonChampion.label>
-  
-  <!-- EN: skeleton soldier -->
-  <OWD_SkeletonSoldier.label>骷髅战士</OWD_SkeletonSoldier.label>
+  <!-- EN: Legion turret skeleton -->
+  <OWD_LesserUndead_Legion_Turret.label>军团炮塔骷髅</OWD_LesserUndead_Legion_Turret.label>
   
 </LanguageData>

@@ -3,7 +3,7 @@
   
   <!-- EN: Necrotic Orb -->
   <OWD_NecroticOrb.label>死灵宝珠</OWD_NecroticOrb.label>
-  <!-- EN: An ancient orb of compressed necrotic energy that has been stabilized beyond your comprehension. When installed in place of a heart, it projects a powerful, shimmering green energy field that intercepts incoming projectiles. The energy emitted prevents other orbs from being Installed. The orb seems to have other uses as well, I must investigate further. -->
+  <!-- EN: An ancient orb of compressed necrotic energy that has been stabilized beyond what should be possible. Can be installed in the chest of an undead to project a strong energy field that protects the user . The energy emitted prevents other orbs from being Installed by normal means. The orb seems to have other uses as well. -->
   <OWD_NecroticOrb.description>一种古老的死灵能量宝珠，已经稳定成防御矩阵。当安装在心脏的位置时，它会投射出一个强大的、闪闪发光的绿色能量场，拦截来袭的投射物。</OWD_NecroticOrb.description>
   <!-- EN: Analyze this strange artifact to unlock its uses. -->
   <OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateDescString>分析这件诡异神器，揭开其隐藏的禁忌知识</OWD_NecroticOrb.comps.CompAnalyzableUnlockResearch.activateDescString>

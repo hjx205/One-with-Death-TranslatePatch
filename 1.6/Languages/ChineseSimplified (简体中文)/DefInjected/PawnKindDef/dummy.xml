@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: skeleton champion (deprecated) -->
+  <OWD_SkeletonChampion.label>骷髅冠军</OWD_SkeletonChampion.label>
+  
+  <!-- EN: skeleton soldier (deprecated) -->
+  <OWD_SkeletonSoldier.label>骷髅战士</OWD_SkeletonSoldier.label>
+  
+</LanguageData>

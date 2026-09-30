@@ -266,6 +266,71 @@
     <OWD_OWDM_CMC>控制倍率调整：</OWD_OWDM_CMC>
     <OWD_OWDM_CMC_desc>放大死灵法师的基础精神纽带和衍生的控制点数。视觉界面更新可能需要重新选择单位或重启游戏才能完全显示。</OWD_OWDM_CMC_desc>
     <OWD_OWDM_CCCM>点击以修改控制倍率。</OWD_OWDM_CCCM>
+    <!-- Patch_Building_DimensionalCore -->
+    <OWD_BD_EnterD>进入维度</OWD_BD_EnterD>
+    <OWD_BD_CD_1>无法折叠裂隙：不存在安全的锚点</OWD_BD_CD_1>
+    <OWD_BD_CD_2>维度结构排斥了这一悖论。锚点已被转移至稳定的现实维度</OWD_BD_CD_2>
+    <OWD_BD_CD_3>维度裂隙折叠，将内部空间彻底封印</OWD_BD_CD_3>
+    <!-- MannulPatch_Building_DimensionalCore_GetGizmo_0 -->
+    <Auto-Siphon>自动虹吸</Auto-Siphon>
+    <OWD_CollapseDimension>折叠维度</OWD_CollapseDimension>
+    <OWD_CollapseDimension_desc>安全地收起维度。如果拥有者身处其中，他们将会被传送出来</OWD_CollapseDimension_desc>
+    <OWD_DestroyDimension>摧毁维度</OWD_DestroyDimension>
+    <OWD_DestroyDimension_desc>永久销毁口袋维度及其内部的一切。这将重置布局，但您的维度等级和点数将会保留</OWD_DestroyDimension_desc>
+    <OWD_RemoveAbductor>移除绑架裂隙</OWD_RemoveAbductor>
+    <OWD_RemoveAbductor_desc>删除当前启用的绑架裂隙</OWD_RemoveAbductor_desc>
+    <OWD_OpenDimension>打开维度</OWD_OpenDimension>
+    <OWD_OpenDimension_desc>打开通往你口袋维度的传送门</OWD_OpenDimension_desc>
+    <!-- Patch_Designator_PlaceRiftIntake -->
+    <OWD_PRI>放置裂隙入口</OWD_PRI>
+    <OWD_PRI_desc>放置一个裂隙入口。其存储网络中的物品将被自动传送到另一端已链接的裂隙出口</OWD_PRI_desc>
+    <!-- Patch_Designator_PlaceRiftEmitter -->
+    <OWD_PRE>放置裂隙出口</OWD_PRE>
+    <OWD_PRE_desc>放置一个裂隙出口。从裂隙入口进入的物品将完美地传送到其连接的存储网络中</OWD_PRE_desc>
+    <!-- Patch_Designator_PlaceAbductorCore -->
+    <OWD_PA>放置绑架裂隙</OWD_PA>
+    <OWD_PA_desc>放置绑架裂隙，将敌对目标拉入维度中。</OWD_PA_desc> 
+    <!-- Patch_Designator_PlaceAbductorOutput -->
+    <OWD_PAO>放置绑架出口</OWD_PAO>
+    <OWD_PAO_desc>指定被诱捕的敌人在你的维度中生成的位置</OWD_PAO_desc>
+    <!-- MannulPatch_Building_DimensionalCoreInner_GetGizmo -->
+    <OWD_DS>维度状态</OWD_DS>
+    <OWD_DS_desc>查看统计信息、扩展大小并管理楼层/屋顶</OWD_DS_desc>
+    <OWD_RAO>移除绑架出口</OWD_RAO>
+    <OWD_RAO_desc>删除当前激活的绑架出口</OWD_RAO_desc>
+    <!-- Patch_Building_DimensionalCoreInner -->
+    <OWD_BD_ExitD>离开维度</OWD_BD_ExitD>
+    <!-- Patch_Dialog_DimensionStatus -->
+    <OWD_DS_DL>维度等级: {0} (经验: {1} / {2})</OWD_DS_DL>
+    <OWD_DS_earnDL>在口袋维度内击败敌对敌人即可获得维度经验</OWD_DS_earnDL>
+    <OWD_DS_ADP>可用维度点数：</OWD_DS_ADP>
+    <OWD_DS_PDN>维度内角色的数量: {0}</OWD_DS_PDN> 
+    <OWD_DS_CE>当前效果：</OWD_DS_CE>
+    <!-- Patch_Dialog_EnlargeDimension -->
+    <OWD_ED_ExpandD>点击相邻的一个浅灰色区块以扩展维度</OWD_ED_ExpandD>
+    <OWD_ED_ExpandRequire>扩展维度？这将消耗 {0} 点死灵能量和 {1} 点维度点数</OWD_ED_ExpandRequire>
+    <OWD_ED_ExpandNo>资源不足。需要 {0} 点死灵能量和 {1} 点维度点数</OWD_ED_ExpandNo>
+    <!-- Patch_Dialog_DimensionEffects -->
+    <OWD_DE_Change>将维度效果更改为 {0}？稳定维度的花销将变更为 {1}{2} 死灵能量/小时</OWD_DE_Change>
+    <!-- Patch_Dialog_ManageDimensionGrid -->
+    <OWD_MDG_TitleRoof>点击未锁定的地块以更改屋顶</OWD_MDG_TitleRoof>
+    <OWD_MDG_TitleFloor>点击未锁定的地块以更改地面</OWD_MDG_TitleFloor>
+    <OWD_Soil>土地</OWD_Soil>
+    <OWD_Rocks>岩石...</OWD_Rocks>
+    <OWD_Granite>花岗岩</OWD_Granite>
+    <OWD_Granite_Rough>粗糙的花岗岩</OWD_Granite_Rough>
+    <OWD_Slate>板岩</OWD_Slate>
+    <OWD_Slate_Rough>粗糙的板岩</OWD_Slate_Rough>
+    <OWD_Sandstone>砂岩</OWD_Sandstone>
+    <OWD_Sandstone_Rough>粗糙的砂岩</OWD_Sandstone_Rough>
+    <OWD_Marble>大理石</OWD_Marble>
+    <OWD_Marble_Rough>粗糙的大理石</OWD_Marble_Rough>
+    <OWD_Default>默认</OWD_Default>
+    <OWD_GraySurface>灰暗地面</OWD_GraySurface>
+    <!-- MannulPatch_Building_DimensionalCore_GetGizmo_1 -->
+    <OWD_OpenDimensionMsg>现实中的裂隙稳定下来了</OWD_OpenDimensionMsg>
+    <!-- MannulPatch_Building_SoulBinder_GetGizmo_0 -->
+    <OWD_SB_SkipMsg> 被传送到缚魂石棺附近</OWD_SB_SkipMsg>    
 
     <Test>测试翻译文本</Test>
 </LanguageData>

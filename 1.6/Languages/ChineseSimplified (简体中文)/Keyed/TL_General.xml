@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- General UI -->
+  <!-- EN: Cancel -->
+  <OWD_Cancel>取消</OWD_Cancel>
+  <!-- EN: Confirm -->
+  <OWD_Confirm>确认</OWD_Confirm>
+  <!-- EN: Close -->
+  <OWD_Close>关闭</OWD_Close>
+  <!-- EN: Accept -->
+  <OWD_Accept>接受</OWD_Accept>
+   
+  
+  <!-- General Warnings -->
+  <!-- EN: An error occurred. -->
+  <OWD_ErrorGeneric>发生错误。</OWD_ErrorGeneric>
+  <!-- EN: Insufficient Necrotic Energy. -->
+  <OWD_InsufficientEnergy>死灵能量不足。</OWD_InsufficientEnergy>
+
+  <!-- EN: Necrotic Energy -->
+  <OWD_NecroticEnergy>死灵能量</OWD_NecroticEnergy>
+  <!-- EN: Buildings -->
+  <OWD_Buildings>建筑</OWD_Buildings>
+  <!-- EN: Energy -->
+  <OWD_Energy>能量</OWD_Energy>
+  <!-- EN: Empty -->
+  <OWD_Empty>空</OWD_Empty>
+
+</LanguageData>

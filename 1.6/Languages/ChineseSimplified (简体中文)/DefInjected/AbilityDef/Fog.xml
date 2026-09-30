@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: release necrotic fog -->
+  <OWD_ReleaseNecroticFog.label>释放死灵之雾</OWD_ReleaseNecroticFog.label>
+  <!-- EN: A thick cloud of necrotic energy working to boost our undead while weakening the enemies. -->
+  <OWD_ReleaseNecroticFog.description>一团浓密的死灵能量之云，能强化我方亡灵并削弱敌人。</OWD_ReleaseNecroticFog.description>
+  
+</LanguageData>

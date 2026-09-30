@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Failed to alter reality, broken soul -->
+  <OWD_MissingSoulID>改变现实失败，灵魂残缺</OWD_MissingSoulID>
+  <!-- EN: The dimensional fabric rejects the paradox. The Dimensional Anchor cannot be placed inside its own rift. -->
+  <OWD_CannotManifestInsideOwn>维度结构排斥这一悖论。维度锚点无法放置在其自身的裂隙内。</OWD_CannotManifestInsideOwn>
+  <!-- EN: The dimensional fabric rejects the paradox. The anchor has been displaced. -->
+  <OWD_AnchorRelocated>维度结构排斥这一悖论。锚点已被转移。</OWD_AnchorRelocated>
+  <!-- EN: The tear in reality stabilizes. -->
+  <OWD_DimensionOpened>现实中的裂口趋于稳定。</OWD_DimensionOpened>
+  <!-- EN: The dimensional rift collapses, sealing the space within. -->
+  <OWD_DimensionCollapsed>维度裂隙坍塌，封闭了内部空间。</OWD_DimensionCollapsed>
+  <!-- EN: Cannot collapse the rift: No safe anchor point exists. -->
+  <OWD_CollapseNoSafeMap>无法坍塌裂隙：不存在安全的锚点。</OWD_CollapseNoSafeMap>
+  <!-- EN: Insufficient dimension points. -->
+  <OWD_DimensionPointsMissing>维度点不足。</OWD_DimensionPointsMissing>
+  <!-- EN: Spend {0} Dimension Point to expand the rift? -->
+  <OWD_DimensionPointsCostConfirm>是否消耗 {0} 维度点来扩张裂隙？</OWD_DimensionPointsCostConfirm>
+  <!-- EN: Channel {0} necrotic energy to alter the ceiling? -->
+  <OWD_RoofToggleConfirm>是否利用 {0} 死灵能量来改造屋顶？</OWD_RoofToggleConfirm>
+  <!-- EN: Channel {0} necrotic energy to transmute the ground to {1}? -->
+  <OWD_FloorChangeConfirm>是否利用 {0} 死灵能量将地面转化为 {1}？</OWD_FloorChangeConfirm>
+
+  
+  <!-- EN: Bound Soul -->
+  <OWD_BoundSoul>缚魂</OWD_BoundSoul>
+
+
+  <!-- EN: Bind Soul -->
+  <OWD_BindSoul>绑定灵魂</OWD_BindSoul>
+  <!-- EN: Select an undead to bind their soul to this sarcophagus. -->
+  <OWD_BindSoulDesc>选择一名亡灵，将其灵魂绑定到此石棺。</OWD_BindSoulDesc>
+  <!-- EN: No eligible undead found. -->
+  <OWD_NoEligibleUndead>未找到符合条件的亡灵。</OWD_NoEligibleUndead>
+  <!-- EN: {0}'s soul has been bound to the sarcophagus. -->
+  <OWD_SoulBound>{0}的灵魂已绑定至石棺。</OWD_SoulBound>
+  
+  <!-- EN: Sever Link -->
+  <OWD_UnbindSoul>切断链接</OWD_UnbindSoul>
+  <!-- EN: Sever the link to the currently bound soul -->
+  <OWD_UnbindSoulDesc>切断与当前绑定灵魂的链接</OWD_UnbindSoulDesc>
+  
+  <!-- EN: Channel Energy -->
+  <OWD_ChannelEnergy>引导能量</OWD_ChannelEnergy>
+  <!-- EN: Order someone to channel their own Necrotic Energy to recharge the structure. -->
+  <OWD_ChannelEnergyDesc>命令某人引导自身的死灵能量为该结构充能。</OWD_ChannelEnergyDesc>
+  <!-- EN: No Necromancers found. -->
+  <OWD_NoNecromancers>未找到死灵法师。</OWD_NoNecromancers>
+  
+  <!-- EN: Recreate {0} -->
+  <OWD_RecreateBody>重塑{0}</OWD_RecreateBody>
+  <!-- EN: Uses an immense amount of necrotic energy to alter the corpse stored inside, reading the bound's soul memory of the original corpse and recreating it -->
+  <OWD_RecreateBodyDesc>消耗大量死灵能量改造内部存放的尸体，读取被缚灵魂关于原尸体的记忆并将其重塑</OWD_RecreateBodyDesc>
+
+  <!-- EN: The lifeless body of {0} has been reconstructed. -->
+  <OWD_BodyReconstructed>{0}的躯体已被重塑。</OWD_BodyReconstructed>
+  <!-- EN: Requires {0} Energy. -->
+  <OWD_RequiresEnergy>需要 {0} 能量。</OWD_RequiresEnergy>
+  <!-- EN: Requires a corpse inside to function. -->
+  <OWD_RequiresCorpse>需要内部存放一具尸体才能运作。</OWD_RequiresCorpse>
+  <!-- EN: Out of Necrotic Energy. -->
+  <OWD_OutofEnergy>死灵能量耗尽。</OWD_OutofEnergy>
+  <!-- EN: You can't bring back an active undead. -->
+  <OWD_ActiveUndead>无法重塑仍在活动的亡灵。</OWD_ActiveUndead>
+    <!-- EN: You can't bring back an active undead. -->
+  <OWD_AlreadyAlive>无法重塑仍在活动的亡灵。</OWD_AlreadyAlive>
+  
+  <!-- EN: Skip {0} -->
+  <OWD_SkipUndead>折跃{0}</OWD_SkipUndead>
+  <!-- EN: Teleport this undead directly to the Soul Binder. -->
+  <OWD_SkipUndeadDesc>将此亡灵直接传送至缚魂石棺。</OWD_SkipUndeadDesc>
+
+  <!-- EN: Linked Item -->
+  <OWD_StoredBlueprint>已链接物品</OWD_StoredBlueprint>
+  <!-- EN: Link Item -->
+  <OWD_StoreBlueprint>链接物品</OWD_StoreBlueprint>
+  <!-- EN: Establish a cross-dimensional link to the item stored inside. -->
+  <OWD_StoreBlueprintDesc>与内部存放的物品建立跨维度链接。</OWD_StoreBlueprintDesc>
+  <!-- EN: Cross-dimensional link established to {0}. -->
+  <OWD_BlueprintStored>已与{0}建立跨维度链接。</OWD_BlueprintStored>
+  <!-- EN: No valid item found inside. -->
+  <OWD_NoValidItem>内部未找到有效物品。</OWD_NoValidItem>
+  
+  <!-- EN: Sever Link -->
+  <OWD_ClearBlueprint>切断链接</OWD_ClearBlueprint>
+  <!-- EN: Sever the dimensional tether to the linked item. -->
+  <OWD_ClearBlueprintDesc>切断与已链接物品的维度纽带。</OWD_ClearBlueprintDesc>
+  
+  <!-- EN: Extract Item -->
+  <OWD_ReplicateItem>提取物品</OWD_ReplicateItem>
+  <!-- EN: Uses 1000 Energy to forcefully steal an item from a parallel dimension -->
+  <OWD_ReplicateItemDesc>消耗 1000 能量，从平行维度强行窃取一件物品</OWD_ReplicateItemDesc>
+  <!-- EN: Item extracted -->
+  <OWD_ItemReplicated>物品已提取</OWD_ItemReplicated>
+  <!-- EN: Must be placed inside a personal pocket dimension. -->
+  <OWD_MustBeInPocketDimension>必须放置在个人口袋维度内。</OWD_MustBeInPocketDimension>
+
+  <!-- EN: Necrotic Energy -->
+  <OWD_NecroticEnergy>死灵能量</OWD_NecroticEnergy>
+  <!-- EN: Dimension Status -->
+  <OWD_DimensionStatus>维度状态</OWD_DimensionStatus>
+  <!-- EN: Expand Dimension -->
+  <OWD_ExpandDimension>扩张维度</OWD_ExpandDimension>
+  <!-- EN: Dimension Effects -->
+  <OWD_DimensionEffects>维度效果</OWD_DimensionEffects>
+  <!-- EN: Roof Management -->
+  <OWD_ManageRoofs>屋顶管理</OWD_ManageRoofs>
+  <!-- EN: Floor Type -->
+  <OWD_ManageFloors>地面类型</OWD_ManageFloors>
+  <!-- EN: DIMENSION UNSTABLE -->
+  <OWD_DimensionUnstable>维度不稳定</OWD_DimensionUnstable>
+  <!-- EN: Cannot Charge Until Stabilized -->
+  <OWD_CannotChangeUntilStabilized>稳定前无法充能</OWD_CannotChangeUntilStabilized>
+  
+  <!-- EN: Auto-Siphon: Drains mana from the necromancer at reduced efficiency. -->
+  <OWD_AutoSiphonDesc>自动虹吸：以较低效率从死灵法师身上吸取能量。</OWD_AutoSiphonDesc>
+  <!-- EN: The dimensional rift has stabilized, and immediate threats have subsided. -->
+  <OWD_DimensionStabilized>维度裂隙已经稳定，眼前的威胁也已平息。</OWD_DimensionStabilized>
+
+  <!-- Weather Names & Tooltips -->
+  <!-- EN: Default -->
+  <OWD_Weather_Default>默认</OWD_Weather_Default>
+  <!-- EN: Clear -->
+  <OWD_Weather_Clear>晴朗</OWD_Weather_Clear>
+  <!-- EN: Abyssal Rain -->
+  <OWD_Weather_Rain>深渊之雨</OWD_Weather_Rain>
+
+  <!-- EN: Restores 0.5 Necrotic Energy per hour. -->
+  <OWD_Tooltip_Default>每小时恢复 0.5 点死灵能量。</OWD_Tooltip_Default>
+  <!-- EN: Costs 0.2 Necrotic Energy per hour. -->
+  <OWD_Tooltip_Clear>每小时消耗 0.2 点死灵能量。</OWD_Tooltip_Clear>
+  <!-- EN: Costs 0.2 Necrotic Energy per hour, plus 0.1 per unroofed grid. Transmutes exposed Soil into Rich Soil. -->
+  <OWD_Tooltip_Rain>每小时消耗 0.2 点死灵能量，每格无屋顶区域额外消耗 0.1 点。将裸露的土壤转化为肥沃土壤。</OWD_Tooltip_Rain>
+
+  <!-- Predictive Warnings -->
+  <!-- EN: Imminent danger: The dimensional fabric has become unstable. Minor anomalies are imminent if not stabilized soon. -->
+  <OWD_Warning_Stage1>迫近的危机：维度结构已变得不稳定。若不尽快稳定，小型异常即将出现。</OWD_Warning_Stage1>
+  <!-- EN: Imminent danger: The air grows heavy. A moderate anomaly is forming. -->
+  <OWD_Warning_Stage2>迫近的危机：空气变得沉重，一场中等规模的异常正在形成。</OWD_Warning_Stage2>
+  <!-- EN: Imminent danger: The Dimension instability is putting a heavy strain on the Necromancer. It's about to get worse. -->
+  <OWD_Warning_Stage3>迫近的危机：维度不稳定正给死灵法师带来沉重负担。情况即将恶化。</OWD_Warning_Stage3>
+  <!-- EN: Imminent danger: The dimensional walls grow weak. Something is approaching. -->
+  <OWD_Warning_Stage4>迫近的危机：维度壁障逐渐薄弱，有什么东西正在逼近。</OWD_Warning_Stage4>
+
+  <!-- Event Execution Letters -->
+  <!-- EN: A dry thunderstorm has broken out inside the dimension. it will strike any tiles not covered by roof. -->
+  <OWD_Event_Stage1_Thunderstorm>维度内爆发了一场干雷暴。它会劈击任何没有屋顶覆盖的格子。</OWD_Event_Stage1_Thunderstorm>
+  <!-- EN: A Blight has infected everything. -->
+  <OWD_Event_Stage1_Blight>枯萎病已感染一切。</OWD_Event_Stage1_Blight>
+  <!-- EN: The dimension grows unnaturally hot. -->
+  <OWD_Event_Stage1_HeatWave>维度内变得异常炎热。</OWD_Event_Stage1_HeatWave>
+  <!-- EN: The dimension grows unnaturally cold. -->
+  <OWD_Event_Stage1_ColdSnap>维度内变得异常寒冷。</OWD_Event_Stage1_ColdSnap>
+  <!-- EN: Something is attacking the dimension, deadlife dust particles are seeping through the floor. -->
+  <OWD_Event_Stage2>有什么东西正在攻击维度，死灵尘正从地板中渗出。</OWD_Event_Stage2>
+  <!-- EN: The dimensional instability has caused a severe strain on the necromancer's mind. His ability to control the undead will be temporarily dampened. -->
+  <OWD_Event_Stage3>维度不稳定给死灵法师的心智带来了严重负担。他控制亡灵的能力将被暂时削弱。</OWD_Event_Stage3>
+  <!-- EN: A Void Portal has torn open in the dimension! Undead legions are pouring through! -->
+  <OWD_Event_Stage4>一道虚空传送门在维度中撕裂开来！亡灵军团正蜂拥而入！</OWD_Event_Stage4>
+
+  <!-- EN: Instability Discharge -->
+  <OWD_Event_Stage1_Thunderstorm_Title>不稳定放电</OWD_Event_Stage1_Thunderstorm_Title>
+<!-- EN: Corruption -->
+  <OWD_Event_Stage1_Blight_Title>腐化</OWD_Event_Stage1_Blight_Title>
+<!-- EN: Instability Discharge -->
+  <OWD_Event_Stage1_HeatWave_Title>不稳定放电</OWD_Event_Stage1_HeatWave_Title>
+<!-- EN: Instability Discharge -->
+  <OWD_Event_Stage1_ColdSnap_Title>不稳定放电</OWD_Event_Stage1_ColdSnap_Title>
+<!-- EN: Black Dust -->
+  <OWD_Event_Stage2_Title>黑尘</OWD_Event_Stage2_Title>
+<!-- EN: Mental Strain -->
+  <OWD_Event_Stage3_Title>精神重压</OWD_Event_Stage3_Title>
+<!-- EN: Rift Incursion -->
+  <OWD_Event_Stage4_Title>裂隙入侵</OWD_Event_Stage4_Title>
+  <!-- EN: Rift Closed -->
+  <OWD_RiftClosedTitle>裂隙已关闭</OWD_RiftClosedTitle>
+  <!-- EN: The rift has closed off. -->
+  <OWD_RiftClosedDesc>裂隙已经关闭。</OWD_RiftClosedDesc>
+
+
+
+  
+
+  <!-- EN: Stabilizer Limit: {0} -->
+  <OWD_StabilizerLimit>稳定器上限：{0}</OWD_StabilizerLimit>
+  <!-- EN: Spend 1 Dimension Point to increase the Stabilizer limit by 1? -->
+  <OWD_StabilizerUpgradeConfirm>是否消耗 1 维度点，使稳定器上限提高 1？</OWD_StabilizerUpgradeConfirm>
+  <!-- EN: Toggle dimension building blueprints. -->
+  <OWD_BuildingsToggleDesc>切换维度建筑蓝图显示。</OWD_BuildingsToggleDesc>
+  <!-- EN: Stabilizer limit reached. Upgrade the limit in the Dimension Status menu. -->
+  <OWD_StabilizerLimitReached>已达到稳定器上限。请在维度状态菜单中升级上限。</OWD_StabilizerLimitReached>
+
+
+<!-- EN: A dimensional fissure has stabilized around the container. -->
+  <OWD_FissureOpened>一道维度裂隙已在容器周围稳定形成。</OWD_FissureOpened>
+  <!-- EN: Army Dispatched -->
+  <OWD_ArmySentTitle>军队已派出</OWD_ArmySentTitle>
+  <!-- EN: An army of {0} undead has entered the fissure. They are expected to return in roughly a day. -->
+  <OWD_ArmySentDesc>一支由 {0} 名亡灵组成的军队已进入裂隙。预计约一天后返回。</OWD_ArmySentDesc>
+  
+  <!-- EN: Expedition Successful -->
+  <OWD_HeistSuccessTitle>远征成功</OWD_HeistSuccessTitle>
+   <!-- EN: Expedition Successful. The {0} has been secured, but the rift requires time to fully dissipate its energy and close. We will be vulnerable during this time. -->
+  <OWD_HeistSuccessDesc>远征成功。{0}已到手，但裂隙需要时间完全消散能量并关闭。在此期间我们将十分脆弱。</OWD_HeistSuccessDesc>
+  <!-- EN: Expedition Failed -->
+  <OWD_HeistFailureTitle>远征失败</OWD_HeistFailureTitle>
+  <!-- EN: Your undead army was repelled by forces from another dimension. The attempt failed, but the rift's collapse returned 750 necrotic energy. -->
+  <OWD_HeistFailureDesc>你的亡灵军队被来自另一维度的势力击退。行动失败，但裂隙坍塌返还了 750 点死灵能量。</OWD_HeistFailureDesc>
+  
+  <!-- EN: Rift Invasion -->
+  <OWD_InvasionTitle>裂隙入侵</OWD_InvasionTitle>
+  <!-- EN: A rift has split reality itself and something is coming through! -->
+  <OWD_InvasionDesc>一道裂隙撕裂了现实本身，有什么东西正从中涌出！</OWD_InvasionDesc>
+  <!-- EN: {0}'s Lesser undead -->
+  <OWD_InvaderName>{0}的次级亡灵</OWD_InvaderName>
+  <!-- EN: The rift was forcefully sealed, trapping any remaining invaders on the other side. -->
+  <OWD_InvasionClosedEarly>裂隙被强行封印，残余入侵者被封锁在另一侧。</OWD_InvasionClosedEarly>
+  <!-- EN: Rift Dissipated -->
+  <OWD_InvasionEndedTitle>裂隙消散</OWD_InvasionEndedTitle>
+  <!-- EN: The dimensional rift has collapsed. Any remaining hostiles have crumbled to dust. -->
+  <OWD_InvasionEndedDesc>维度裂隙已经坍塌。所有残余敌对单位都已化为尘埃。</OWD_InvasionEndedDesc>
+  
+  <!-- EN: Manage Expedition -->
+  <OWD_ManageArmy>管理远征军</OWD_ManageArmy>
+  <!-- EN: Assemble an army of undead to send into the dimensional fissure to retrieve the item. -->
+  <OWD_ManageArmyDesc>组建一支亡灵军队送入维度裂隙，以取回物品。</OWD_ManageArmyDesc>
+  
+  <!-- EN: Collapse Fissure -->
+  <OWD_CollapseRift>坍塌裂隙</OWD_CollapseRift>
+  <!-- EN: Cancel the expedition and forcefully close the dimensional fissure. Energy spent will not be refunded. -->
+  <OWD_CollapseRiftDesc>取消远征并强行关闭维度裂隙。已消耗的能量不会返还。</OWD_CollapseRiftDesc>
+  <!-- EN: Are you sure you want to close the dimensional fissure? The channeled energy will be lost. -->
+  <OWD_ConfirmCollapseRift>确定要关闭维度裂隙吗？已引导的能量将会丢失。</OWD_ConfirmCollapseRift>
+  
+  <!-- EN: Seal Rift -->
+  <OWD_CloseRiftCommand>封印裂隙</OWD_CloseRiftCommand>
+  <!-- EN: Order an Overseer or Necromancer to channel 25 Necrotic Energy to forcefully seal the invasion rift. -->
+  <OWD_CloseRiftCommandDesc>命令一名亡灵督军或死灵法师引导 25 点死灵能量，强行封印入侵裂隙。</OWD_CloseRiftCommandDesc>
+  <!-- EN: Dimensional Expedition Army -->
+  <OWD_ArmyManagementTitle>维度远征军</OWD_ArmyManagementTitle>
+  <!-- EN: No Undead Overseers are available in your faction to lead the expedition. -->
+  <OWD_NoOverseersWarning>你的阵营中没有可领导远征的亡灵督军。</OWD_NoOverseersWarning>
+  <!-- EN: Undead per squad -->
+  <OWD_SquadCap>每队亡灵数</OWD_SquadCap>
+  <!-- EN: Available Squads -->
+  <OWD_AvailableSquads>可用小队</OWD_AvailableSquads>
+  <!-- EN: Total Army: {0} undead -->
+  <OWD_TotalArmy>军队总数：{0} 名亡灵</OWD_TotalArmy>
+  <!-- EN: Chance to secure item: {0}% -->
+  <OWD_SuccessChance>取得物品的几率：{0}%</OWD_SuccessChance>
+  <!-- EN: Chance to secure item: NO ITEM FOUND -->
+  <OWD_ChanceNoItem>取得物品的几率：未找到物品</OWD_ChanceNoItem>
+  <!-- EN: Send Army -->
+  <OWD_SendArmy>派遣军队</OWD_SendArmy>
+  <!-- EN: Dispatch {0} undead into the dimensional fissure to invade and try and forcibly retrieve a copy of this item from another dimension? -->
+  <OWD_ConfirmSendArmy>是否派遣 {0} 名亡灵进入维度裂隙，入侵并尝试从另一维度强行取回此物品的复制品？</OWD_ConfirmSendArmy>
+  <!-- EN: Open Fissure -->
+  <OWD_OpenFissure>开启裂隙</OWD_OpenFissure>
+  <!-- EN: Stabilize the built-up necrotic energy to rip open a dimensional fissure around the targeted container. -->
+  <OWD_OpenFissureDesc>稳定积聚的死灵能量，在目标容器周围撕开一道维度裂隙。</OWD_OpenFissureDesc>
+  <!-- EN: Invasion in progress. -->
+  <OWD_InvasionInProgress>入侵进行中。</OWD_InvasionInProgress>
+
+  <!-- EN: Item Stolen -->
+  <OWD_InvasionItemStolenTitle>物品被窃</OWD_InvasionItemStolenTitle>
+  <!-- EN: An invading force from a parallel dimension has completed their ritual and stolen your {0}! -->
+  <OWD_InvasionItemStolenDesc>一支来自平行维度的入侵部队完成了仪式，偷走了你的{0}！</OWD_InvasionItemStolenDesc>
+  <!-- EN: Ritual Ended -->
+  <OWD_InvasionRitualFailedTitle>仪式结束</OWD_InvasionRitualFailedTitle>
+  <!-- EN: The invading force completed their ritual, but failed to locate what they were looking for. -->
+  <OWD_InvasionRitualFailedDesc>入侵部队完成了仪式，但未能找到他们搜寻的东西。</OWD_InvasionRitualFailedDesc>
+  <!-- EN: The ritual has failed. -->
+  <OWD_InvasionAllInvokersLost>仪式已失败。</OWD_InvasionAllInvokersLost>
+ <!-- EN: The ritual has failed, the enemy is retreating. -->
+  <OWD_InvasionRetreating>仪式已失败，敌人正在撤退。</OWD_InvasionRetreating>
+  <!-- EN: Rift Disturbed -->
+  <OWD_RiftDisturbedTitle>裂隙受到扰动</OWD_RiftDisturbedTitle>
+  <!-- EN: The dimensional rift was disturbed, the enemy was able to take advantage of that. -->
+  <OWD_RiftDisturbedDesc>维度裂隙受到了扰动，敌人借此占了上风。</OWD_RiftDisturbedDesc>
+</LanguageData>

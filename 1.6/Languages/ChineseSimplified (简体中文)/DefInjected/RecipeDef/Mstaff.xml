@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disassemble artifact -->
+  <OWD_DisassembleArtifact.label>拆解神器</OWD_DisassembleArtifact.label>
+  <!-- EN: Carefully disassemble an artifact at an altar to recover its core components. -->
+  <OWD_DisassembleArtifact.description>在祭坛上仔细拆解一件神器，以回收其核心部件。</OWD_DisassembleArtifact.description>
+  <!-- EN: Disassembling artifact. -->
+  <OWD_DisassembleArtifact.jobString>正在拆解神器。</OWD_DisassembleArtifact.jobString>
+  
+</LanguageData>

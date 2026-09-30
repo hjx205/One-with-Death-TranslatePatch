@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Write scroll of subjugation -->
+  <Make_OWD_Scroll_Subjugate.label>书写镇压卷轴</Make_OWD_Scroll_Subjugate.label>
+  <!-- EN: Let knowledge hidden deep in the parchment resurface, and write it all down as a cohesive theory. -->
+  <Make_OWD_Scroll_Subjugate.description>让深藏于羊皮纸中的知识重新浮现，并将其整理成完整的理论。</Make_OWD_Scroll_Subjugate.description>
+  <!-- EN: Scribing scroll. -->
+  <Make_OWD_Scroll_Subjugate.jobString>正在抄写卷轴。</Make_OWD_Scroll_Subjugate.jobString>
+  
+</LanguageData>

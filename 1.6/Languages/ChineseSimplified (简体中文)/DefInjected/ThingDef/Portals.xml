@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_AbductorInput_Inner.label>光点</OWD_Graphic_AbductorInput_Inner.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_AbductorInput_Rim.label>光点</OWD_Graphic_AbductorInput_Rim.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_AbductorOutput_Inner.label>光点</OWD_Graphic_AbductorOutput_Inner.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_AbductorOutput_Rim.label>光点</OWD_Graphic_AbductorOutput_Rim.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_Anchor_Inner.label>光点</OWD_Graphic_Anchor_Inner.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_Anchor_Rim.label>光点</OWD_Graphic_Anchor_Rim.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_Void_Inner.label>光点</OWD_Graphic_Void_Inner.label>
+  
+  <!-- EN: Mote -->
+  <OWD_Graphic_Void_Rim.label>光点</OWD_Graphic_Void_Rim.label>
+  
+</LanguageData>

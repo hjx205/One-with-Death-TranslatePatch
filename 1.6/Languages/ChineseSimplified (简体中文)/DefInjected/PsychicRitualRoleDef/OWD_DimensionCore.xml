@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chanter -->
+  <OWD_HeistChanter.label>吟咒者</OWD_HeistChanter.label>
+  
+  <!-- EN: defender -->
+  <OWD_HeistDefender.label>防御者</OWD_HeistDefender.label>
+  
+  <!-- EN: invoker -->
+  <OWD_HeistInvoker.label>主祭</OWD_HeistInvoker.label>
+  
+</LanguageData>

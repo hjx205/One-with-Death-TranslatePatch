@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: summon necrotic light -->
+  <OWD_SummonNecroticLight.label>召唤死灵之光</OWD_SummonNecroticLight.label>
+  <!-- EN: Conjure a perpetual, spinning necrotic light source at the target location. -->
+  <OWD_SummonNecroticLight.description>在目标位置召唤一个永久旋转的死灵光源。</OWD_SummonNecroticLight.description>
+  
+</LanguageData>

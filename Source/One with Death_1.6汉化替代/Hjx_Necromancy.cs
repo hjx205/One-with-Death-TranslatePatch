@@ -23,7 +23,7 @@ namespace Hjx_OneWithDeath_HarmonyTest
     {
         static StartUp()
         {
-            Log.Message("OWD_zh 版本：v2.1 2026.5.12");
+            Log.Message("OWD_zh 版本：v3 2026.9.30");
             var harmony = new Harmony("Hjx.onewithdeath_zh");
             harmony.PatchAll();
         }
@@ -241,6 +241,151 @@ namespace Hjx_OneWithDeath_HarmonyTest
 		}
     }
 
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Building_DimensionalCore))]
+	public class Patch_Building_DimensionalCore
+    {
+		[HarmonyPatch("get_EnterString")]
+		[HarmonyPostfix]
+		public static void Postfix_get_EnterString(ref string __result)
+        {
+			__result = "OWD_BD_EnterD".Translate();
+		}
+
+		[HarmonyPatch("CollapseDimension")]
+		[HarmonyTranspiler]
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+        {
+			var matcher = new CodeMatcher(instructions);
+			string replacetarget = "Cannot collapse the rift: No safe anchor point exists.";
+			string replace = "OWD_BD_CD_1";
+			Hjx_translate_OWD translate_OWD = new Hjx_translate_OWD();
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			replacetarget = "The dimensional fabric rejects the paradox. The anchor has been displaced to a stable reality.";
+			replace = "OWD_BD_CD_2";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			replacetarget = "The dimensional rift collapses, sealing the space within.";
+			replace = "OWD_BD_CD_3";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			return matcher.Instructions();
+		}
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Building_DimensionalCoreInner))]
+	public class Patch_Building_DimensionalCoreInner
+    {
+		[HarmonyPatch("get_EnterString")]
+		[HarmonyPostfix]
+		public static void Postfix_get_EnterString(ref string __result)
+        {
+			__result = "OWD_BD_ExitD".Translate();
+		}
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch]
+	public class MannulPatch_Building_DimensionalCore_GetGizmo
+    {
+		public static MethodInfo TargetMethod()
+        {
+			return AccessTools.Method("OneWithDeath.Building_DimensionalCore/<GetGizmos>d__21:MoveNext",
+				new Type[0],
+				null);
+        }
+
+		[HarmonyTranspiler]
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+        {
+			var matcher = new CodeMatcher(instructions);
+			string replaceTarget = "Auto-Siphon";
+			Hjx_translate_OWD translate_OWD = new Hjx_translate_OWD();
+			translate_OWD.Translate_Direct(matcher, replaceTarget);
+			replaceTarget = "Collapse dimension";
+			string replace = "OWD_CollapseDimension";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Safely store the dimension. If the owner is inside, they will be teleported out.";
+			replace = "OWD_CollapseDimension_desc";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Destroy dimension";
+			replace = "OWD_DestroyDimension";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Permanently destroy the pocket dimension and everything inside it. This resets the layout but your dimension level and points are kept.";
+			replace = "OWD_DestroyDimension_desc";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Remove Abductor";
+			replace = "OWD_RemoveAbductor";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Delete the active Abductor Core.";
+			replace = "OWD_RemoveAbductor_desc";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Open dimension";
+			replace = "OWD_OpenDimension";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			replaceTarget = "Open the portal to your pocket dimension.";
+			replace = "OWD_OpenDimension_desc";
+			translate_OWD.Translate_Assingment(matcher, replaceTarget, replace);
+			return matcher.Instructions();
+		}
+    }
+
+	//校对完成 v2.3
+	[HarmonyPatch]
+	public class MannulPatch_Building_DimensionalCore_GetGizmo_1
+    {
+		public static MethodInfo TargetMethod()
+        {
+			return AccessTools.Method("OneWithDeath.Building_DimensionalCore/<>c__DisplayClass21_0:<GetGizmos>b__9",
+				new Type[0],
+				null);
+        }
+
+		[HarmonyTranspiler]
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+        {
+			var matcher = new CodeMatcher(instructions);
+			string replacetarget = "The tear in reality stabilizes.";
+			string replace = "OWD_OpenDimensionMsg";
+			Hjx_translate_OWD translate_OWD = new Hjx_translate_OWD();
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			return matcher.Instructions();
+		}
+    }
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Building_DimensionalCoreInner))]
+	public class MannulPatch_Building_DimensionalCoreInner_GetGizmo
+    {
+		public static MethodInfo TargetMethod()
+        {
+			return AccessTools.Method("OneWithDeath.Building_DimensionalCoreInner/<GetGizmos>d__22:MoveNext",
+				new Type[0],
+				null);
+        }
+
+		[HarmonyTranspiler]
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instruction)
+        {
+			var matcher = new CodeMatcher(instruction);
+			string replacetarget = "Auto-Siphon";
+			Hjx_translate_OWD translate_OWD = new Hjx_translate_OWD();
+			translate_OWD.Translate_Direct(matcher, replacetarget);
+			replacetarget = "Dimension Status";
+			string replace = "OWD_DS";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			replacetarget = "View statistics, expand size, and manage floors/roofs.";
+			replace = "OWD_DS_desc";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			replacetarget = "Remove Abductor Output";
+			replace = "OWD_RAO";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			replacetarget = "Delete the active Abductor Output.";
+			replace = "OWD_RAO_desc";
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			return matcher.Instructions();
+		}
+    }
+
 	//校对完成 v2.2
 	[HarmonyPatch]
 	public class MannulPatch_Building_ControlServitor_GetGizmo_0
@@ -353,7 +498,7 @@ namespace Hjx_OneWithDeath_HarmonyTest
     {
 		public static MethodInfo TargetMethod()
         {
-			return AccessTools.Method("OneWithDeath.Building_ObeliskEntrance/<GetGizmos>d__20:MoveNext",
+			return AccessTools.Method("OneWithDeath.Building_ObeliskEntrance/<GetGizmos>d__25:MoveNext",
 				new Type[0],
 				null);
         }
@@ -379,7 +524,7 @@ namespace Hjx_OneWithDeath_HarmonyTest
     {
 		public static MethodInfo TargetMethod()
         {
-			return AccessTools.Method("OneWithDeath.Building_ObeliskEntrance:<GetGizmos>b__20_0",
+			return AccessTools.Method("OneWithDeath.Building_ObeliskEntrance:<GetGizmos>b__25_0",
 				new Type[0],
 				null);
         }
@@ -394,6 +539,29 @@ namespace Hjx_OneWithDeath_HarmonyTest
 			matcher = translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
 			return matcher.Instructions();
 
+		}
+    }
+
+	//校对完成 v2.3
+	[HarmonyPatch]
+	public class MannulPatch_Building_SoulBinder_GetGizmo_0
+    {
+		public static MethodInfo TargetMethod()
+        {
+			return AccessTools.Method("OneWithDeath.Building_SoulBinder/<>c__DisplayClass8_0:<GetGizmos>b__7",
+				new Type[0],
+				null);
+        }
+
+		[HarmonyTranspiler]
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+        {
+			var matcher = new CodeMatcher(instructions);
+			string replacetarget = " skipped to Soul Binder.";
+			string replace = "OWD_SB_SkipMsg";
+			Hjx_translate_OWD translate_OWD = new Hjx_translate_OWD();
+			translate_OWD.Translate_Assingment(matcher, replacetarget, replace);
+			return matcher.Instructions();
 		}
     }
 
@@ -1313,60 +1481,58 @@ namespace Hjx_OneWithDeath_HarmonyTest
 		}
     }
 
-	//校对完成 v2.2
-	[HarmonyPatch(typeof(DeathActionWorker_SkipAndLichCheck))]
-	public class Patch_DeathActionWorker_SkipAndLichCheck_PawnDied
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Designator_PlaceRiftIntake))]
+	public class Patch_Designator_PlaceRiftIntake
     {
-		[HarmonyPatch(nameof(DeathActionWorker_SkipAndLichCheck.PawnDied), new Type[] {typeof(Corpse), typeof(Lord) })]
-		[HarmonyPrefix]
-		public static bool Prefix_PawnDied(DeathActionWorker_SkipAndLichCheck __instance, Corpse corpse, Lord prevLord)
+		[HarmonyPatch(MethodType.Constructor, new Type[] { typeof(string)})]
+		[HarmonyPostfix]
+		public static void Postfix_Designator_PlaceRiftIntake(Designator_PlaceRiftIntake __instance)
         {
-			if (corpse == null)
-			{
-				return false;
-			}
-			Pawn innerPawn = corpse.InnerPawn;
-			if (corpse.Map != null)
-			{
-				EffecterDefOf.Skip_Entry.Spawn(corpse.Position, corpse.Map).Cleanup();
-				SoundDef.Named("Psycast_Skip_Entry").PlayOneShot(new TargetInfo(corpse.Position, corpse.Map));
-			}
-			if (innerPawn?.mutant?.Def == MyModDefs.OWD_legion_lich)
-			{
-				int num = 0;
-				if (corpse.Map != null)
-				{
-					List<Pawn> list = corpse.Map.mapPawns.PawnsInFaction(corpse.InnerPawn.Faction);
-					foreach (Pawn item in list)
-					{
-						if (item != corpse.InnerPawn && !item.Dead && !item.health.hediffSet.HasHediff(MyModDefs.OWD_Enrage))
-						{
-							item.health.AddHediff(MyModDefs.OWD_Enrage);
-							num++;
-						}
-					}
-				}
-				string text = "OWD_LichCheck_0".Translate(innerPawn.Name.ToStringShort);
-				if (num > 0)
-				{
-					text += "OWD_LichCheck_1".Translate();
-				}
-				Find.WindowStack.Add(new Dialog_MessageBox(text));
-			}
-			corpse.Destroy();
-			if (innerPawn != null)
-			{
-				if (Find.WorldPawns.Contains(innerPawn))
-				{
-					Find.WorldPawns.RemoveAndDiscardPawnViaGC(innerPawn);
-				}
-				else if (!innerPawn.Destroyed)
-				{
-					innerPawn.Destroy();
-				}
-			}
-			return false;
-        }
+			__instance.defaultLabel = "OWD_PRI".Translate();
+			__instance.defaultDesc = "OWD_PRI_desc".Translate();
+		}
+
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Designator_PlaceRiftEmitter))]
+	public class Patch_Designator_PlaceRiftEmitter
+    {
+		[HarmonyPatch(MethodType.Constructor, new Type[] { typeof(string)})]
+		[HarmonyPostfix]
+		public static void Postfix_Designator_PlaceRiftEmitter(Designator_PlaceRiftEmitter __instance)
+        {
+			__instance.defaultLabel = "OWD_PRE".Translate();
+			__instance.defaultDesc = "OWD_PRE_desc".Translate();
+		}
+
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Designator_PlaceAbductorCore))]
+	public class Patch_Designator_PlaceAbductorCore
+    {
+		[HarmonyPatch(MethodType.Constructor, new Type[] {typeof(Building_DimensionalCore)})]
+		[HarmonyPostfix]
+		public static void Postfix_Designator_PlaceAbductorCore(Designator_PlaceAbductorCore __instance)
+        {
+			__instance.defaultLabel = "OWD_PA".Translate();
+			__instance.defaultDesc = "OWD_PA_desc".Translate();
+		}
+
+	}
+
+	[HarmonyPatch(typeof(Designator_PlaceAbductorOutput))]
+	public class Patch_Designator_PlaceAbductorOutput
+    {
+		[HarmonyPatch(MethodType.Constructor, new Type[] {typeof(Building_DimensionalCoreInner)})]
+		[HarmonyPostfix]
+		public static void Postfix_Designator_PlaceAbductorOutput(Designator_PlaceAbductorOutput __instance)
+        {
+			__instance.defaultLabel = "OWD_PAO".Translate();
+			__instance.defaultDesc = "OWD_PAO_desc".Translate();
+		}
 
 	}
 
@@ -1436,6 +1602,297 @@ namespace Hjx_OneWithDeath_HarmonyTest
 		}
     }
 
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Dialog_DimensionEffects))]
+	public class Patch_Dialog_DimensionEffects
+    {
+		[HarmonyPatch(nameof(Dialog_DimensionEffects.DoWindowContents))]
+		[HarmonyPrefix]
+		public static bool Prefix_DoWindowContents(Dialog_DimensionEffects __instance, Rect inRect)
+        {
+			Traverse trav = Traverse.Create(__instance);
+			Map dimMap = trav.Field("dimMap").GetValue<Map>();
+			Vector2 scrollPosition = trav.Field("scrollPosition").GetValue<Vector2>();
+			List<WeatherDef> allowedWeathers = trav.Field("allowedWeathers").GetValue<List<WeatherDef>>();
+			MapComponent_PersonalDimension comp = MapComponent_PersonalDimension.GetOrCreate(dimMap);
+			int num = comp.unlockedGrids.Count((IntVec3 g) => !comp.gridRoofs.ContainsKey(g) || !comp.gridRoofs[g]);
+			if (comp.dimensionEntropy > 0f)
+			{
+				Text.Font = GameFont.Small;
+				Text.Anchor = TextAnchor.MiddleCenter;
+				GUI.color = Color.red;
+				Widgets.Label(new Rect(inRect.x, inRect.y, inRect.width, 30f), "OWD_DimensionUnstable".Translate().ToString());
+				Widgets.Label(new Rect(inRect.x, inRect.y + 25f, inRect.width, 30f), "OWD_CannotChangeUntilStabilized".Translate().ToString());
+				GUI.color = Color.white;
+				Text.Anchor = TextAnchor.UpperLeft;
+			}
+			else
+			{
+				Text.Font = GameFont.Medium;
+				Widgets.Label(new Rect(inRect.x, inRect.y, inRect.width, 35f), "OWD_DimensionEffects".Translate().ToString());
+			}
+			Text.Font = GameFont.Small;
+			Rect outRect = new Rect(inRect.x, inRect.y + 60f, inRect.width, inRect.height - 110f);
+			Rect viewRect = new Rect(0f, 0f, outRect.width - 16f, (float)allowedWeathers.Count * 35f);
+			Widgets.BeginScrollView(outRect, ref scrollPosition, viewRect);
+			float num2 = 0f;
+			foreach (WeatherDef weather in allowedWeathers)
+			{
+				Rect rect = new Rect(0f, num2, viewRect.width, 30f);
+				string arg = "OWD_Weather_Default".Translate();
+				string text = "OWD_Tooltip_Default".Translate();
+				float num3 = -0.5f;
+				if (weather == WeatherDefOf.Clear)
+				{
+					arg = "OWD_Weather_Clear".Translate();
+					text = "OWD_Tooltip_Clear".Translate();
+					num3 = 0f;
+				}
+				else if (weather == MyModDefs.Rain)
+				{
+					arg = "OWD_Weather_Rain".Translate();
+					text = "OWD_Tooltip_Rain".Translate();
+					num3 = 0.2f + (float)num * 0.1f;
+				}
+				bool flag = dimMap.weatherManager.curWeather == weather;
+				bool flag2 = comp.dimensionEntropy > 0f;
+				bool flag3 = comp.dimensionEnergy > 0f || num3 <= 0f;
+				bool flag4 = flag || flag2 || !flag3;
+				if (flag4)
+				{
+					GUI.color = Color.grey;
+				}
+				TooltipHandler.TipRegion(rect, text);
+				string arg2 = ((num3 > 0f) ? "-" : "+");
+				if (Widgets.ButtonText(rect, $"{arg} ({arg2}{Mathf.Abs(num3):F1}/h)") && !flag4)
+				{
+					Find.WindowStack.Add(Dialog_MessageBox.CreateConfirmation("OWD_DE_Change".Translate(arg, arg2, $"{Mathf.Abs(num3):F1}"), delegate
+					{
+						__instance.ExecuteChangeWeather(weather);
+					}));
+				}
+				GUI.color = Color.white;
+				num2 += 35f;
+			}
+			Widgets.EndScrollView();
+			if (Widgets.ButtonText(new Rect(inRect.width / 2f - 60f, inRect.height - 40f, 120f, 35f), "OWD_Close".Translate()))
+			{
+				__instance.Close();
+			}
+
+			return false;
+        }
+
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Dialog_DimensionStatus))]
+	public class Patch_Dialog_DimensionStatus
+    {
+		[HarmonyPatch(nameof(Dialog_DimensionStatus.DoWindowContents))]
+		[HarmonyPrefix]
+		public static bool Prefix_DoWindowContents(Dialog_DimensionStatus __instance, Rect inRect)
+        {
+			Traverse trav = Traverse.Create(__instance);
+			Pawn_NecromancerTracker necroTracker = trav.Field("necroTracker").GetValue<Pawn_NecromancerTracker>();
+			MapComponent_PersonalDimension comp = trav.Field("comp").GetValue<MapComponent_PersonalDimension>();
+			Map dimMap = trav.Field("dimMap").GetValue<Map>();
+			if (Prefs.DevMode && DebugSettings.godMode)
+			{
+				Text.Anchor = TextAnchor.MiddleCenter;
+				if (Widgets.ButtonText(new Rect(inRect.x, inRect.y, 24f, 24f), "-") && necroTracker != null)
+				{
+					necroTracker.dimensionLevel = Mathf.Max(1, necroTracker.dimensionLevel - 1);
+				}
+				if (Widgets.ButtonText(new Rect(inRect.x + 30f, inRect.y, 24f, 24f), "+") && necroTracker != null)
+				{
+					necroTracker.dimensionLevel++;
+				}
+				Text.Anchor = TextAnchor.UpperLeft;
+			}
+			Listing_Standard listing_Standard = new Listing_Standard();
+			listing_Standard.Begin(inRect);
+			Text.Font = GameFont.Medium;
+			Text.Anchor = TextAnchor.MiddleCenter;
+			listing_Standard.Label("OWD_DimensionStatus".Translate().ToString());
+			Text.Font = GameFont.Small;
+			listing_Standard.GapLine();
+			int num = comp.pendingChanges.Count((PendingDimChange p) => p.type == DimChangeType.Expand);
+			int num2 = comp.unlockedGrids.Count - 1 + num;
+			int num3 = ((necroTracker != null) ? Mathf.Max(0, necroTracker.dimensionLevel - num2 - comp.unlockedStabilizerLimit) : 0);
+			if (necroTracker != null)
+			{
+				necroTracker.dimensionPoints = num3;
+			}
+			int num4 = necroTracker?.dimensionLevel ?? 1;
+			int num5 = necroTracker?.dimensionXP ?? 0;
+			int requiredXP = PortalVisuals.GetRequiredXP(num4);
+			Text.Anchor = TextAnchor.UpperLeft;
+			Rect rect = listing_Standard.GetRect(Text.LineHeight);
+			Widgets.Label(rect, "OWD_DS_DL".Translate(num4, num5, requiredXP));
+			TooltipHandler.TipRegion(rect, "OWD_DS_earnDL".Translate());
+			Rect rect2 = listing_Standard.GetRect(30f);
+			string text = "OWD_DS_ADP".Translate();
+			float x = Text.CalcSize(text).x;
+			float x2 = Text.CalcSize(num3.ToString()).x;
+			float num6 = rect2.x + (rect2.width - (x + x2)) / 2f;
+			Widgets.Label(new Rect(num6, rect2.y, x, rect2.height), text);
+			GUI.color = Color.green;
+			Widgets.Label(new Rect(num6 + x, rect2.y, x2, rect2.height), num3.ToString());
+			GUI.color = Color.white;
+			Text.Anchor = TextAnchor.UpperLeft;
+			listing_Standard.GapLine();
+			Rect rect3 = listing_Standard.GetRect(30f);
+			Widgets.Label(new Rect(rect3.x, rect3.y, rect3.width - 40f, rect3.height), "OWD_StabilizerLimit".Translate(comp.unlockedStabilizerLimit));
+			if (Widgets.ButtonText(new Rect(rect3.xMax - 30f, rect3.y, 24f, 24f), "+"))
+			{
+				if (num3 > 0)
+				{
+					Find.WindowStack.Add(Dialog_MessageBox.CreateConfirmation("OWD_StabilizerUpgradeConfirm".Translate(), delegate
+					{
+						comp.unlockedStabilizerLimit++;
+					}));
+				}
+				else
+				{
+					Messages.Message("OWD_DimensionPointsMissing".Translate(), MessageTypeDefOf.RejectInput, historical: false);
+				}
+			}
+			listing_Standard.GapLine();
+			int num7 = dimMap.mapPawns.AllPawns.Count((Pawn p) => !p.Dead && p.RaceProps.Humanlike);
+			string text2 = "OWD_Weather_Default".Translate();
+			if (dimMap.weatherManager.curWeather == WeatherDefOf.Clear)
+			{
+				text2 = "OWD_Weather_Clear".Translate();
+			}
+			else if (dimMap.weatherManager.curWeather == MyModDefs.Rain)
+			{
+				text2 = "OWD_Weather_Rain".Translate();
+			}
+			listing_Standard.Label("OWD_DS_PDN".Translate(num7));
+			listing_Standard.Label("OWD_DS_CE".Translate() + text2);
+			listing_Standard.Gap(15f);
+			if (listing_Standard.ButtonText("OWD_ExpandDimension".Translate().ToString()))
+			{
+				Find.WindowStack.Add(new Dialog_EnlargeDimension(dimMap, necroTracker));
+				__instance.Close();
+			}
+			if (listing_Standard.ButtonText("OWD_DimensionEffects".Translate().ToString()))
+			{
+				Find.WindowStack.Add(new Dialog_DimensionEffects(dimMap));
+				__instance.Close();
+			}
+			Rect rect4 = listing_Standard.GetRect(30f);
+			if (Widgets.ButtonText(new Rect(rect4.x, rect4.y, rect4.width / 2f - 5f, rect4.height), "OWD_ManageRoofs".Translate().ToString()))
+			{
+				Find.WindowStack.Add(new Dialog_ManageDimensionGrid(dimMap, isRoofMode: true));
+				__instance.Close();
+			}
+			if (Widgets.ButtonText(new Rect(rect4.x + rect4.width / 2f + 5f, rect4.y, rect4.width / 2f - 5f, rect4.height), "OWD_ManageFloors".Translate().ToString()))
+			{
+				Find.WindowStack.Add(new Dialog_ManageDimensionGrid(dimMap, isRoofMode: false));
+				__instance.Close();
+			}
+			listing_Standard.End();
+
+			return false;
+        }
+
+	}
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Dialog_EnlargeDimension))]
+	public class Patch_Dialog_EnlargeDimension
+    {
+		[HarmonyPatch(nameof(Dialog_EnlargeDimension.DoWindowContents))]
+		[HarmonyPrefix]
+		public static bool Prefix_DoWindowContents(Dialog_EnlargeDimension __instance, Rect inRect)
+        {
+			Traverse trav = Traverse.Create(__instance);
+			Pawn_NecromancerTracker necroTracker = trav.Field("necroTracker").GetValue<Pawn_NecromancerTracker>();
+			MapComponent_PersonalDimension comp = trav.Field("comp").GetValue<MapComponent_PersonalDimension>();
+			Map dimMap = trav.Field("dimMap").GetValue<Map>();
+			Text.Font = GameFont.Medium;
+			Widgets.Label(new Rect(inRect.x, inRect.y, inRect.width, 35f), "OWD_ExpandDimension".Translate().ToString());
+			Text.Font = GameFont.Small;
+			Widgets.Label(new Rect(inRect.x, inRect.y + 35f, inRect.width, 40f), "OWD_ED_ExpandD".Translate());
+			float num = 50f;
+			float num2 = 5f;
+			float num3 = 5f * num + 4f * num2;
+			float num4 = inRect.x + (inRect.width - num3) / 2f;
+			float num5 = inRect.y + 80f;
+			float energyCost = 50f;
+			int num6 = 1;
+			int num7 = comp.pendingChanges.Count((PendingDimChange p) => p.type == DimChangeType.Expand);
+			int num8 = comp.unlockedGrids.Count - 1 + num7;
+			int num9 = ((necroTracker != null) ? Mathf.Max(0, necroTracker.dimensionLevel - num8) : 0);
+			bool flag = necroTracker != null && num9 >= num6 && comp.dimensionEnergy >= energyCost;
+			for (int num10 = 0; num10 >= -4; num10--)
+			{
+				for (int num11 = -2; num11 <= 2; num11++)
+				{
+					IntVec3 gridPos = new IntVec3(num11, 0, num10);
+					Rect rect = new Rect(num4 + (float)(num11 + 2) * (num + num2), num5 + (float)(-num10) * (num + num2), num, num);
+					bool flag2 = num11 == 0 && num10 == 0;
+					bool flag3 = comp.unlockedGrids.Contains(gridPos);
+					bool flag4 = comp.pendingChanges.Any((PendingDimChange p) => p.gridPos == gridPos);
+					bool flag5 = !flag3 && (comp.unlockedGrids.Contains(new IntVec3(num11 + 1, 0, num10)) || comp.unlockedGrids.Contains(new IntVec3(num11 - 1, 0, num10)) || comp.unlockedGrids.Contains(new IntVec3(num11, 0, num10 + 1)) || comp.unlockedGrids.Contains(new IntVec3(num11, 0, num10 - 1)));
+					if (flag2)
+					{
+						Widgets.DrawBoxSolid(rect, Color.yellow);
+					}
+					else if (flag4)
+					{
+						Widgets.DrawBoxSolid(rect, new Color(0.8f, 0.5f, 0.2f));
+					}
+					else if (flag3)
+					{
+						Widgets.DrawBoxSolid(rect, new Color(0.5f, 0.8f, 0.5f));
+					}
+					else if (flag5)
+					{
+						if (!flag)
+						{
+							GUI.color = Color.grey;
+						}
+						Widgets.DrawBoxSolid(rect, new Color(0.7f, 0.7f, 0.7f));
+						if (Mouse.IsOver(rect))
+						{
+							Widgets.DrawHighlight(rect);
+						}
+						if (!flag4 && Widgets.ButtonInvisible(rect))
+						{
+							if (flag)
+							{
+								Find.WindowStack.Add(Dialog_MessageBox.CreateConfirmation("OWD_ED_ExpandRequire".Translate(energyCost, num6), delegate
+								{
+									__instance.ExecuteExpand(gridPos, energyCost);
+								}));
+							}
+							else
+							{
+								Messages.Message("OWD_ED_ExpandNo".Translate(energyCost, num6), MessageTypeDefOf.RejectInput, historical: false);
+							}
+						}
+						GUI.color = Color.white;
+					}
+					else
+					{
+						Widgets.DrawBoxSolid(rect, new Color(0.3f, 0.3f, 0.3f));
+					}
+					Widgets.DrawBox(rect);
+				}
+			}
+			if (Widgets.ButtonText(new Rect(inRect.width / 2f - 60f, inRect.height - 40f, 120f, 35f), "OWD_Close".Translate()))
+			{
+				__instance.Close();
+			}
+
+			return false;
+        }
+
+	}
+
 	//校对完成 v2.2
 	[HarmonyPatch(typeof(Dialog_LesserUndeadSettings))]
 	public class Patch_Dialog_LesserUndeadSettings
@@ -1480,6 +1937,164 @@ namespace Hjx_OneWithDeath_HarmonyTest
 			return matcher.Instructions();
 		}
     }
+
+	//校对完成 v2.3
+	[HarmonyPatch(typeof(Dialog_ManageDimensionGrid))]
+	public class Patch_Dialog_ManageDimensionGrid
+    {
+		[HarmonyPatch("ConfirmAndApplyFloor")]
+		[HarmonyPrefix]
+		public static bool Prefix_ConfirmAndApplyFloor(IntVec3 gridPos, string terrainDefName, ref string label)
+        {
+			Log.Message("Test");
+            switch (label)
+            {
+				case "Default":
+					label = "OWD_Default".Translate();
+					break;
+				case "Soil":
+					label = "OWD_Soil".Translate();
+					break;
+				case "rough Granite":
+					label = "OWD_Granite_Rough".Translate();
+					break;
+				case "rough Slate":
+					label = "OWD_Slate_Rough".Translate();
+					break;
+				case "rough Sandstone":
+					label = "OWD_Sandstone_Rough".Translate();
+					break;
+				case "rough Marble":
+					label = "OWD_Marble_Rough".Translate();
+					break;
+			}
+
+			return true;
+        }
+
+		[HarmonyPatch(nameof(Dialog_ManageDimensionGrid.DoWindowContents))]
+		[HarmonyPrefix]
+		public static bool Prefix_DoWindowContents(Dialog_ManageDimensionGrid __instance, Rect inRect)
+        {
+			Traverse trav = Traverse.Create(__instance);
+			MapComponent_PersonalDimension comp = trav.Field("comp").GetValue<MapComponent_PersonalDimension>();
+			Map dimMap = trav.Field("dimMap").GetValue<Map>();
+			bool isRoofMode = trav.Field("isRoofMode").GetValue<bool>();
+			Text.Font = GameFont.Medium;
+			Widgets.Label(new Rect(inRect.x, inRect.y, inRect.width, 35f), isRoofMode ? "OWD_ManageRoofs".Translate().ToString() : "OWD_ManageFloors".Translate().ToString());
+			Text.Font = GameFont.Small;
+			string label = (isRoofMode ? "OWD_MDG_TitleRoof".Translate() : "OWD_MDG_TitleFloor".Translate());
+			Widgets.Label(new Rect(inRect.x, inRect.y + 35f, inRect.width, 40f), label);
+			float num = 50f;
+			float num2 = 5f;
+			float num3 = 5f * num + 4f * num2;
+			float num4 = inRect.x + (inRect.width - num3) / 2f;
+			float num5 = inRect.y + 80f;
+			for (int num6 = 0; num6 >= -4; num6--)
+			{
+				for (int i = -2; i <= 2; i++)
+				{
+					IntVec3 gridPos = new IntVec3(i, 0, num6);
+					Rect rect = new Rect(num4 + (float)(i + 2) * (num + num2), num5 + (float)(-num6) * (num + num2), num, num);
+					bool flag = comp.unlockedGrids.Contains(gridPos);
+					if (comp.pendingChanges.Any((PendingDimChange p) => p.gridPos == gridPos))
+					{
+						Widgets.DrawBoxSolid(rect, new Color(0.8f, 0.5f, 0.2f));
+						Text.Font = GameFont.Tiny;
+						Text.Anchor = TextAnchor.MiddleCenter;
+						Widgets.Label(rect, "Working...");
+						Text.Font = GameFont.Small;
+						Text.Anchor = TextAnchor.UpperLeft;
+					}
+					else if (flag)
+					{
+						if (isRoofMode)
+						{
+							bool flag2 = !comp.gridRoofs.ContainsKey(gridPos) || comp.gridRoofs[gridPos];
+							Widgets.DrawBoxSolid(rect, flag2 ? new Color(0.2f, 0.6f, 0.2f) : new Color(0.7f, 0.7f, 0.7f));
+						}
+						else
+						{
+							Widgets.DrawBoxSolid(rect, new Color(0.7f, 0.7f, 0.7f));
+							Text.Font = GameFont.Tiny;
+							Text.Anchor = TextAnchor.MiddleCenter;
+							string text = (comp.gridFloors.ContainsKey(gridPos) ? comp.gridFloors[gridPos].Translate() : "OWD_GraySurface".Translate());
+							string label2 = ((text == "OWD_Soil".Translate()) ? "OWD_Soil".Translate() : (text.Contains("OWD_Granite".Translate()) ? "OWD_Granite".Translate() : (text.Contains("OWD_Slate".Translate()) ? "OWD_Slate".Translate() : (text.Contains("OWD_Sandstone".Translate()) ? "OWD_Sandstone".Translate() : (text.Contains("OWD_Marble".Translate()) ? "OWD_Marble".Translate() : "OWD_Default".Translate())))));
+							Widgets.Label(rect, label2);
+							Text.Font = GameFont.Small;
+							Text.Anchor = TextAnchor.UpperLeft;
+						}
+						if (Mouse.IsOver(rect))
+						{
+							Widgets.DrawHighlight(rect);
+						}
+						if (Widgets.ButtonInvisible(rect))
+						{
+							if (isRoofMode)
+							{
+								float cost = 10f;
+								Find.WindowStack.Add(Dialog_MessageBox.CreateConfirmation("OWD_RoofToggleConfirm".Translate(cost.ToString("F0")), delegate
+								{
+									__instance.ExecuteToggleRoof(gridPos, cost);
+								}));
+							}
+							else
+							{
+								List<FloatMenuOption> list = new List<FloatMenuOption>
+							{
+								new FloatMenuOption("OWD_Default".Translate() + " (" + "OWD_GraySurface".Translate() + ")", delegate
+								{
+									trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "GraySurface", "Default");
+								}),
+								new FloatMenuOption("OWD_Soil".Translate(), delegate
+								{
+									trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "Soil", "Soil");
+								})
+							};
+								FloatMenuOption item = new FloatMenuOption("OWD_Rocks".Translate(), delegate
+								{
+									List<FloatMenuOption> options = new List<FloatMenuOption>
+								{
+									new FloatMenuOption("OWD_Granite".Translate(), delegate
+									{
+										trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "Granite_Rough", "rough Granite");
+									}),
+									new FloatMenuOption("OWD_Slate".Translate(), delegate
+									{
+										trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "Slate_Rough", "rough Slate");
+									}),
+									new FloatMenuOption("OWD_Sandstone".Translate(), delegate
+									{
+										trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "Sandstone_Rough", "rough Sandstone");
+									}),
+									new FloatMenuOption("OWD_Marble".Translate(), delegate
+									{
+										trav.Method("ConfirmAndApplyFloor", new Type[]{ typeof(IntVec3), typeof(string), typeof(string)}).GetValue(gridPos, "Marble_Rough", "rough Marble");
+									})
+								};
+									Find.WindowStack.Add(new FloatMenu(options));
+								});
+								list.Add(item);
+								Find.WindowStack.Add(new FloatMenu(list));
+							}
+						}
+					}
+					else
+					{
+						Widgets.DrawBoxSolid(rect, new Color(0.3f, 0.3f, 0.3f));
+					}
+					Widgets.DrawBox(rect);
+				}
+			}
+			if (Widgets.ButtonText(new Rect(inRect.width / 2f - 60f, inRect.height - 40f, 120f, 35f), "OWD_Close".Translate()))
+			{
+				__instance.Close();
+			}
+
+			return false;
+        }
+
+	}
 
 	//校对完成 v2.2
 	[HarmonyPatch(typeof(Dialog_NecromancerGroupSettings))]
@@ -2043,7 +2658,7 @@ namespace Hjx_OneWithDeath_HarmonyTest
 	{
 		public static MethodInfo TargetMethod()
 		{
-			return AccessTools.Method("OneWithDeath.Hediff_NecromancerImplant/<>c__DisplayClass6_0:<ShowCompletionWindow>b__0",
+			return AccessTools.Method("OneWithDeath.Hediff_NecromancerImplant/<>c__DisplayClass7_0:<ShowCompletionWindow>b__0",
 				new Type[0],
 				null);
 		}
@@ -2714,35 +3329,22 @@ namespace Hjx_OneWithDeath_HarmonyTest
 				Find.FactionManager.Add(faction);
 			}
 			List<Pawn> list = new List<Pawn>();
-			for (int i = 0; i < num2; i++)
+			for (int num4 = 0; num4 < num2; num4++)
 			{
-				PawnGenerationRequest request = new PawnGenerationRequest(MyModDefs.OWD_SkeletonChampion, faction, PawnGenerationContext.NonPlayer, null, forceGenerateNewPawn: true, allowDead: false, allowDowned: false, canGeneratePawnRelations: false, mustBeCapableOfViolence: false, 0f, forceAddFreeWarmLayerIfNeeded: false, allowGay: true, allowPregnant: false, allowFood: true, allowAddictions: true, inhabitant: false, certainlyBeenInCryptosleep: false, forceRedressWorldPawnIfFormerColonist: false, worldPawnFactionDoesntMatter: false, 0f, 0f, null, 1f, null, null, null, null, null, null, null, null, null, null, null, null, forceNoIdeo: false, forceNoBackstory: true);
-				Pawn pawn2 = PawnGenerator.GeneratePawn(request);
-				ThingWithComps primary = pawn2.equipment.Primary;
-				if (primary != null)
-				{
-					pawn2.equipment.Remove(primary);
-				}
-				MutantUtility.SetPawnAsMutantInstantly(pawn2, MyModDefs.OWD_mutant_undead, RotStage.Dessicated);
-				if (pawn2.mutant != null)
-				{
-					pawn2.mutant.rotStage = RotStage.Dessicated;
-				}
-				if (primary != null)
-				{
-					pawn2.equipment.AddEquipment(primary);
-				}
-				Hediff hediff = HediffMaker.MakeHediff(MyModDefs.OWD_ECrescens, pawn2);
-				hediff.Severity = num3;
-				pawn2.health.AddHediff(hediff);
 				if (!CellFinder.TryFindRandomSpawnCellForPawnNear(cell, map, out var result, 10))
 				{
 					result = cell;
 				}
-				GenSpawn.Spawn(pawn2, result, map);
-				EffecterDefOf.Skip_Entry.Spawn(pawn2.Position, map).Cleanup();
-				SoundDef.Named("Psycast_Skip_Entry").PlayOneShot(new TargetInfo(pawn2.Position, map));
-				list.Add(pawn2);
+				Pawn pawn2 = LegionSpawningUtility.SpawnLegionUndead(MyModDefs.OWD_LesserUndead_Legion_Armored, result, map, faction);
+				if (pawn2 != null)
+				{
+					Hediff hediff = HediffMaker.MakeHediff(MyModDefs.OWD_ECrescens, pawn2);
+					hediff.Severity = num3;
+					pawn2.health.AddHediff(hediff);
+					EffecterDefOf.Skip_Entry.Spawn(pawn2.Position, map).Cleanup();
+					SoundDefOf.Psycast_Skip_Entry?.PlayOneShot(new TargetInfo(pawn2.Position, map));
+					list.Add(pawn2);
+				}
 			}
 			if (list.Any())
 			{

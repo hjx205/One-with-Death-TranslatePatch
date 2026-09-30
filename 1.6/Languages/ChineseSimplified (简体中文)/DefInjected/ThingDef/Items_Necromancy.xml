@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Green crystal -->
-  <GreenCrystal.label>翠绿灵晶</GreenCrystal.label>
-  <!-- EN: A green crystal that seems to be made from condensed archites and crystallized energy. -->
-  <GreenCrystal.description>一种绿色的水晶，似乎由浓缩的死灵能量结晶构成。</GreenCrystal.description>
-  
   <!-- UNUSED -->
   <GreenCrystal.comps.CompAnalyzableUnlockResearch.activateDescString>分析翠绿灵晶以解锁其秘密。</GreenCrystal.comps.CompAnalyzableUnlockResearch.activateDescString>
   <GreenCrystal.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</GreenCrystal.comps.CompAnalyzableUnlockResearch.activateLabelString>

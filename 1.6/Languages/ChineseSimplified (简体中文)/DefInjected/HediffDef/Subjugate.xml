@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lich's touch -->
+  <OWD_LichsTouch.label>巫妖之触</OWD_LichsTouch.label>
+  <!-- EN: I feel like a deep sense of trust growing within me....but also hollowed out. -->
+  <OWD_LichsTouch.description>我感到一种深深的信任在内心滋长……但同时又有一种被掏空的感觉。</OWD_LichsTouch.description>
+  
+  <!-- EN: subjugation sickness -->
+  <OWD_SubjugationSickness.label>镇压后遗症</OWD_SubjugationSickness.label>
+  <!-- EN: The contradictions in this pawn's mind are slowly driving it insane. -->
+  <OWD_SubjugationSickness.description>这名小人脑中的矛盾正慢慢将其逼疯。</OWD_SubjugationSickness.description>
+  <!-- EN: confusion -->
+  <OWD_SubjugationSickness.stages.confusion.label>困惑</OWD_SubjugationSickness.stages.confusion.label>
+  <!-- EN: inner fight -->
+  <OWD_SubjugationSickness.stages.inner_fight.label>内心挣扎</OWD_SubjugationSickness.stages.inner_fight.label>
+  <!-- EN: broken mind -->
+  <OWD_SubjugationSickness.stages.broken_mind.label>破碎心智</OWD_SubjugationSickness.stages.broken_mind.label>
+  
+</LanguageData>

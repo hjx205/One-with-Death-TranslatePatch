@@ -8,4 +8,9 @@
   <!-- EN: head -->
   <OWD_NecromancerStaff.tools.head.label>杖首</OWD_NecromancerStaff.tools.head.label>
   
+  <!-- EN: necrotic light -->
+  <OWD_NecroticLight.label>死灵之光</OWD_NecroticLight.label>
+  <!-- EN: A swirling cluster of necrotic energy serving as a perpetual light source. -->
+  <OWD_NecroticLight.description>一团旋转的死灵能量，可作为永久光源。</OWD_NecroticLight.description>
+  
 </LanguageData>

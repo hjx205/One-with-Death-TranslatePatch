@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ritual of skipping -->
+  <OWD_ItemHeist.label>折跃仪式</OWD_ItemHeist.label>
+  <!-- EN: A ritual with the sole purpose of stealing items. -->
+  <OWD_ItemHeist.description>一种以窃取物品为唯一目的的仪式。</OWD_ItemHeist.description>
+  
+</LanguageData>

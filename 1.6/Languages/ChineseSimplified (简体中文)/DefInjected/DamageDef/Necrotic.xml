@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: necrotic burn -->
+  <OWD_NecroticDamage.label>死灵灼伤</OWD_NecroticDamage.label>
+  <!-- EN: {0} has succumbed to necrotic erosion. -->
+  <OWD_NecroticDamage.deathMessage>{0}已死于死灵侵蚀。</OWD_NecroticDamage.deathMessage>
+  
+  <!-- EN: necrotic gas -->
+  <OWD_NecroticGasExplosion.label>死灵毒气</OWD_NecroticGasExplosion.label>
+  <!-- EN: {0} has been killed. -->
+  <OWD_NecroticGasExplosion.deathMessage>{0}已被杀死。</OWD_NecroticGasExplosion.deathMessage>
+  
+</LanguageData>

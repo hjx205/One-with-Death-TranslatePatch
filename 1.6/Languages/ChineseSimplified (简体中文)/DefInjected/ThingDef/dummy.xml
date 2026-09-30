@@ -6,6 +6,11 @@
   <!-- EN: A deprecated item used for save game compatibility. -->
   <ControlExpansionItem.description>该物品已不再使用，但为保留旧存档的完整性而保留</ControlExpansionItem.description>
   
+  <!-- EN: legion undead (deprecated) -->
+  <OWD_Race_LegionUndead.label>军团亡灵</OWD_Race_LegionUndead.label>
+  <!-- EN: Deprecated legacy definition for translation compatibility. -->
+  <OWD_Race_LegionUndead.description>一种被死灵力量支配的亡灵生物，古老而致命。</OWD_Race_LegionUndead.description>
+  
   <!-- EN: Soul Shard (deprecated) -->
   <OWD_SoulShardFilled.label>灵魂碎片(已弃用)</OWD_SoulShardFilled.label>
   <!-- EN: A deprecated item used for save game compatibility. -->

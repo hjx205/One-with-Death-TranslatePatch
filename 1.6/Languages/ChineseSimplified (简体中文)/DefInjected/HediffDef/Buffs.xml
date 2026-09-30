@@ -10,6 +10,24 @@
   <!-- EN: ??? -->
   <OWD_Enrage.stages.1.label>???</OWD_Enrage.stages.1.label>
   
+  <!-- EN: Exhausted Core -->
+  <OWD_ExhaustedCore.label>核心枯竭</OWD_ExhaustedCore.label>
+  <!-- EN: The necromancer's Inner core has undergone a tremendous amount of stress after performing a particularly difficult action -->
+  <OWD_ExhaustedCore.description>在完成一次特别困难的操作后，死灵法师的内核承受了巨大的压力</OWD_ExhaustedCore.description>
+  <!-- EN: strained -->
+  <OWD_ExhaustedCore.stages.strained.label>紧绷</OWD_ExhaustedCore.stages.strained.label>
+  <!-- EN: minor -->
+  <OWD_ExhaustedCore.stages.minor.label>轻微</OWD_ExhaustedCore.stages.minor.label>
+  <!-- EN: moderate -->
+  <OWD_ExhaustedCore.stages.moderate.label>中等</OWD_ExhaustedCore.stages.moderate.label>
+  <!-- EN: extreme -->
+  <OWD_ExhaustedCore.stages.extreme.label>极重</OWD_ExhaustedCore.stages.extreme.label>
+  
+  <!-- EN: Rift Strain -->
+  <OWD_MentalStrain.label>裂隙重压</OWD_MentalStrain.label>
+  <!-- EN: The severe instability of the pocket dimension is causing psychic feedback. -->
+  <OWD_MentalStrain.description>口袋维度的严重不稳定正在引发灵能反噬。</OWD_MentalStrain.description>
+  
   <!-- EN: Necrotic Field -->
   <OWD_NecroticField.label>死灵力场</OWD_NecroticField.label>
   <!-- EN: A surge of necrotic energy accelerates healing, restoring flesh and bones in the undead. -->

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: binding soul to sarcophagus. -->
+  <OWD_BindSoulJob.reportString>正在将灵魂绑定至石棺。</OWD_BindSoulJob.reportString>
+  
+  <!-- EN: channeling necrotic energy. -->
+  <OWD_ChannelEnergyJob.reportString>正在引导死灵能量。</OWD_ChannelEnergyJob.reportString>
+  
+  <!-- EN: closing dimensional rift. -->
+  <OWD_CloseDimensionalRift.reportString>正在关闭维度裂隙。</OWD_CloseDimensionalRift.reportString>
+  
+</LanguageData>

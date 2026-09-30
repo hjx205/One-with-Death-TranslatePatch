@@ -14,7 +14,7 @@
   
   <!-- EN: Legion Undead -->
   <OWD_mutant_undead.label>军团亡灵</OWD_mutant_undead.label>
-  <!-- EN: A human whose flesh has rotted away or been necromantically stripped, leaving only an animated skeleton bound by dark energies. It knows no hunger, fatigue, or pain, and serves its master mindlessly. -->
+  <!-- EN: An old skeleton of unknown origin, you can feel something sinister animating it. -->
   <OWD_mutant_undead.description>一名肉体已经腐烂或被死灵术剥离的人类，只剩下被黑暗能量操纵的骸骨。它不知饥饿、疲倦和疼痛，只会无脑地服从主人。</OWD_mutant_undead.description>
   <!-- EN: teeth -->
   <OWD_mutant_undead.tools.teeth.label>獠牙</OWD_mutant_undead.tools.teeth.label>

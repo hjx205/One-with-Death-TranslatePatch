@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: necrotic fog exposure -->
+  <OWD_NecroticFogExposure.label>死灵之雾侵蚀</OWD_NecroticFogExposure.label>
+  <!-- EN: Necrotic archites are rapidly eating away matter. -->
+  <OWD_NecroticFogExposure.description>死灵微械正在迅速吞噬物质。</OWD_NecroticFogExposure.description>
+  
+  <!-- EN: necrotic surge -->
+  <OWD_NecroticSurge.label>死灵涌流</OWD_NecroticSurge.label>
+  <!-- EN: A surge of necrotic energy accelerating the host's capabilities. -->
+  <OWD_NecroticSurge.description>一股死灵能量涌流正在增强宿主的各项能力。</OWD_NecroticSurge.description>
+  
+</LanguageData>

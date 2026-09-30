@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shortbow arrow -->
+  <OWD_Arrow_Short.label>短弓箭</OWD_Arrow_Short.label>
+  
+  <!-- EN: undead short bow -->
+  <OWD_Bow_Short.label>亡灵短弓</OWD_Bow_Short.label>
+  <!-- EN: A simple shortbow manifested from necrotic energy. -->
+  <OWD_Bow_Short.description>由死灵能量凝聚而成的简易短弓。</OWD_Bow_Short.description>
+  <!-- EN: limb -->
+  <OWD_Bow_Short.tools.limb.label>弓臂</OWD_Bow_Short.tools.limb.label>
+  <!-- EN: undead short bow -->
+  <OWD_Bow_Short.verbs.Verb_Shoot.label>亡灵短弓</OWD_Bow_Short.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun blast -->
+  <OWD_Bullet_MiniShotgun.label>霰弹</OWD_Bullet_MiniShotgun.label>
+  
+  <!-- EN: undead mini-shotgun -->
+  <OWD_Gun_MiniShotgun.label>亡灵迷你霰弹枪</OWD_Gun_MiniShotgun.label>
+  <!-- EN: A compact, short-range shotgun manifested from necrotic energy and scrap. -->
+  <OWD_Gun_MiniShotgun.description>由死灵能量与废料凝聚而成的紧凑型短程霰弹枪。</OWD_Gun_MiniShotgun.description>
+  <!-- EN: undead mini-shotgun -->
+  <OWD_Gun_MiniShotgun.verbs.Verb_Shoot.label>亡灵迷你霰弹枪</OWD_Gun_MiniShotgun.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Legion turret skeleton -->
+  <OWD_LesserUndead_Legion_Turret.label>军团炮塔骷髅</OWD_LesserUndead_Legion_Turret.label>
+  <!-- EN: An undead legion skeleton equipped with a shoulder-mounted turret. -->
+  <OWD_LesserUndead_Legion_Turret.description>一名装备肩扛式炮塔的亡灵军团骷髅。</OWD_LesserUndead_Legion_Turret.description>
+  <!-- EN: left fist -->
+  <OWD_LesserUndead_Legion_Turret.tools.left_fist.label>左拳</OWD_LesserUndead_Legion_Turret.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <OWD_LesserUndead_Legion_Turret.tools.right_fist.label>右拳</OWD_LesserUndead_Legion_Turret.tools.right_fist.label>
+  <!-- EN: head -->
+  <OWD_LesserUndead_Legion_Turret.tools.head.label>头部</OWD_LesserUndead_Legion_Turret.tools.head.label>
+  
+</LanguageData>

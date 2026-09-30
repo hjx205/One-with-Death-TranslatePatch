@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Abduction Immunity -->
+  <OWD_AbductionImmunity.label>绑架免疫</OWD_AbductionImmunity.label>
+  <!-- EN: This creature's signature is temporarily being rejected by the dimension -->
+  <OWD_AbductionImmunity.description>该生物的特征信号暂时被维度排斥</OWD_AbductionImmunity.description>
+  
+</LanguageData>

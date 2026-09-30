@@ -3,7 +3,7 @@
   
   <!-- EN: advanced necromancy -->
   <AdvancedNecromancy.label>炉火纯青</AdvancedNecromancy.label>
-  <!-- EN: Infusing extreme amounts of necrotic energy into a body is dangerous, most simply rupture from the strain. Yet, I have succeeded. These undead regenerate at an astonishing rate, flesh reforming even from total desiccation. Their minds retain fragments of their past selves, their cognitive abilities enhanced beyond previous limits. The mental effort to control them is immense, but the results are undeniable. They seem to innatively know how to channel necrotic energy, but they can't store them optimally, they need to sacrifice their own flesh in order to make use of it. Fortunately they do have the ability to regenerate themselves. -->
+  <!-- EN: Infusing extreme amounts of necrotic energy into a body is dangerous, most simply rupture from the strain. Yet, I have succeeded. These undead regenerate at an astonishing rate, flesh reforming even from total desiccation. Their minds retain fragments of their past selves, their cognitive abilities enhanced beyond previous limits. The mental effort to control them is immense, but the results are undeniable. They seem to innately know how to channel necrotic energy, but they can't store them optimally, they need to sacrifice their own flesh in order to make use of it. Fortunately they do have the ability to regenerate themselves. -->
   <AdvancedNecromancy.description>将极大量的死灵能量注入一个躯体是极其危险的，大多数情况会因压力而直接崩裂。然而，我成功了。这些亡灵能够以惊人的速度再生，甚至从完全干枯的状态中复原。它们的心智保留了过去的片段，其认知能力超越了之前的极限。控制它们的精神压力巨大，但结果是不容忽视的。它们天生知道如何引导死灵能量，但却无法最佳地存储能量，需要牺牲自己的血肉来使用。不过，它们拥有自我再生的能力。</AdvancedNecromancy.description>
   
   <!-- EN: First experiment -->
@@ -23,7 +23,7 @@
   
   <!-- EN: Neural Shackle -->
   <NeuralShackleTech.label>死灵链接</NeuralShackleTech.label>
-  <!-- EN: Unlocks the ability to craft and install neural shackles. By studying the link between a necromancer and the undead, I learned that by using a catalyst on a living being, it's possible to recreate something similar. While Unable to fully control the living being, I can access parts of their brain, using them to help you control more undead. In a pinch, I am able to use the link to directly use their bodies as fuel for the archites. -->
+  <!-- EN: Unlocks the ability to craft and install neural shackles. By studying the link between a necromancer and the undead, I learned that by using a catalyst on a living being, it's possible to recreate something similar. While Unable to fully control the living being, I can access parts of their brain, using them to help us control more undead. In a pinch, I am able to use the link to directly use their bodies as fuel for the archites. -->
   <NeuralShackleTech.description>解锁制造和安装死灵链接的能力。通过研究死灵法师与亡灵之间的链接，我发现可以对活体使用催化剂来重现类似的链接效果。虽然无法完全控制活体，但我可以访问其大脑的部分区域，借此帮助我控制更多亡灵。在紧急情况下，我还能通过这种链接直接将他们的身体作为始机体的燃料。</NeuralShackleTech.description>
   
   <!-- EN: one with death -->
@@ -31,14 +31,24 @@
   <!-- EN: I have fully embraced death and undeath. The unseen connection that binds me to something far beyond mortal comprehension sustains my body, keeping me alive without food, sleep, or breath. - -Gain the ability to resurrect yourself using 25 Necrotic Energy or any alternative like controlled undead. -->
   <OneWithDeath.description>我已经完全拥抱了死亡与永生。那种将我与超越凡人理解的事物连接在一起的无形纽带支撑着我的身体，使我无需食物、睡眠或呼吸便能活下去。流淌于我体内的巨大死灵能量已经不可逆转地改变了我——我再也无法保持人的外貌。</OneWithDeath.description>
   
-  <!-- EN: Artifacts -->
+  <!-- EN: Knowledge Scribing -->
+  <OWD_AbilityScribing.label>知识抄录</OWD_AbilityScribing.label>
+  <!-- EN: Unlocks the ability to retrieve lost knowledge from ancient parchments of unknown origin infused with necrotic energy. Reading from such artifact automatically imparts the user such knowledge. -->
+  <OWD_AbilityScribing.description>解锁从来源不明、注满死灵能量的古代羊皮纸中找回失落知识的能力。阅读此类神器会自动将知识传授给使用者。</OWD_AbilityScribing.description>
+  
+  <!-- EN: Necrotic Orb -->
   <OWD_Artifacts.label>神器研究</OWD_Artifacts.label>
-  <!-- EN: Unlocks the creation of structures and items made from rare artifacts -->
+  <!-- EN: Unlocks the creation of structures and items made from rare artifacts. -->
   <OWD_Artifacts.description>解锁稀有神器制造建造与物品的能力</OWD_Artifacts.description>
+  
+  <!-- EN: Study of artifacts -->
+  <OWD_ArtifactStudy.label>神器研究</OWD_ArtifactStudy.label>
+  <!-- EN: With careful studying, even without knowing how to create them, we can learn how to use them. The first step is disassembling them at an altar. -->
+  <OWD_ArtifactStudy.description>通过仔细研究，即便不了解其制造方法，我们也能学会如何使用它们。第一步是在祭坛上将其拆解。</OWD_ArtifactStudy.description>
   
   <!-- EN: Corrupted Archites Integration -->
   <OWD_CAI.label>比肩超凡</OWD_CAI.label>
-  <!-- EN: By studying the corrupted archites that are seen reanimating corpses, we can now mimick the way they function with necrotic archites, which essentially allows us to replicate their functioning entirely. The resulting undead are not linked to the necromancer and thus we have no way of controlling them, but they are not hostile. -->
+  <!-- EN: By studying the corrupted archites that are seen reanimating corpses, we can now mimic the way they function with necrotic archites, which essentially allows us to replicate their functioning entirely. The resulting undead are not linked to the necromancer and thus we have no way of controlling them, but they are not hostile. -->
   <OWD_CAI.description>通过研究那些能使尸体复苏的超凡微械，我们能够用死灵能量模拟其运作方式，这基本上使我们能够完全复制它们的功能。所创造的不死生物不会与死灵法师产生连接，因此我们无法控制它们，但它们也不会表现出敌意。</OWD_CAI.description>
   
   <!-- EN: Constructs -->
@@ -63,13 +73,23 @@
   
   <!-- EN: Exuvia -->
   <OWD_ExuviaResearch.label>蜕魂仪式</OWD_ExuviaResearch.label>
-  <!-- EN: Unlock the Exuvia ritual, allowing a necromancer who is one with death to shed their mortal coil and store their soul in an orb. -->
+  <!-- EN: Unlock the Exuvia ritual, allowing a necromancer who is one with death to store their soul in the great link. The necromancer can be then resummoned with Enduvia across space and time (saves). Gain self resurrect and transfer soul abilities. -->
   <OWD_ExuviaResearch.description>解锁蜕魂仪式，使与死亡同化的死灵法师能蜕去肉体凡胎，将灵魂封存于灵球之中</OWD_ExuviaResearch.description>
   
   <!-- EN: Implants -->
   <OWD_implants.label>死灵植入</OWD_implants.label>
   <!-- EN: Developing necromantic implants allows us to enhance living or undead bodies with archite-infused devices, improving control and resilience at the cost of deeper integration with necrotic energy. -->
   <OWD_implants.description>研发死灵植入体，使我们能够将注入死灵能量的装置植入活体或不死生物体内，以此提升其可控性与韧性，但也需以更深层次融合死灵能量为代价。</OWD_implants.description>
+  
+  <!-- EN: Infused Parchment -->
+  <OWD_ParchmentStudy.label>注能羊皮纸</OWD_ParchmentStudy.label>
+  <!-- EN: Learn to handle the Infused Parchment artifacts, prerequisite research for practical applications -->
+  <OWD_ParchmentStudy.description>学会处理注能羊皮纸神器，这是实际应用的前置研究</OWD_ParchmentStudy.description>
+  
+  <!-- EN: Pocket Dimension -->
+  <OWD_PocketDimension.label>口袋维度</OWD_PocketDimension.label>
+  <!-- EN: By combining the power of the Necrotic Orb with spatial necromancy, we can anchor a stable rift in reality connected directly to a personal pocket dimension. -->
+  <OWD_PocketDimension.description>将死灵宝珠的力量与空间死灵术结合，我们便能在现实中锚定一道稳定裂隙，直接连接至个人口袋维度。</OWD_PocketDimension.description>
   
   <!-- EN: Rituals -->
   <OWD_Rituals.label>秘仪研究</OWD_Rituals.label>
@@ -123,7 +143,7 @@
   
   <!-- EN: unsafe casting -->
   <UnsafeCasting.label>血肉燃魂</UnsafeCasting.label>
-  <!-- EN: Through my studies, I discovered that every living or dead body harbors the potential to replicate necrotic archites. This revelation enables me to channel necromantic abilities using my own body as fuel,granting power at the expens of my own flesh. -->
+  <!-- EN: Through my studies, I discovered that every living or dead body harbors the potential to replicate necrotic archites. This revelation enables me to channel necromantic abilities using my own body as fuel, granting power at the expens of my own flesh. -->
   <UnsafeCasting.description>通过研究，我发现每个活体或死体都潜藏着复制死灵死灵能量的潜力。这一发现使我能够以自己的血肉为燃料，施展死灵能力，获得强大的力量。</UnsafeCasting.description>
   
 </LanguageData>

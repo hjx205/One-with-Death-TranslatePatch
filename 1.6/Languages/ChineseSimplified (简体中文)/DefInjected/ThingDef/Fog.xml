@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fog spawner -->
+  <OWD_FogSpawner.label>雾气生成器</OWD_FogSpawner.label>
+  
+  <!-- EN: necrotic fog -->
+  <OWD_NecroticFog.label>死灵之雾</OWD_NecroticFog.label>
+  <!-- EN: A thick cloud of necrotic energy. -->
+  <OWD_NecroticFog.description>一团浓密的死灵能量之云。</OWD_NecroticFog.description>
+  
+</LanguageData>

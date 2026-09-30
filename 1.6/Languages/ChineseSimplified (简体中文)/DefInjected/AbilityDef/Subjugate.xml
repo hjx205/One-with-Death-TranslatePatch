@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: subjugate -->
+  <OWD_Subjugate.label>镇压</OWD_Subjugate.label>
+  <!-- EN: By forming a pseudo weak link with the target, you can calm their emotions and make them like you for a short while. If cast on pawns of a different faction, it has a chance of making them switch sides. -->
+  <OWD_Subjugate.description>通过建立一道模拟的弱链接，你可以安抚目标情绪，使其在短时间内对你产生好感。若对异阵营成员施放，则有机会令其倒戈。</OWD_Subjugate.description>
+  
+</LanguageData>

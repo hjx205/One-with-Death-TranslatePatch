@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infused parchment -->
+  <OWD_InfusedParchment.label>注能羊皮纸</OWD_InfusedParchment.label>
+  <!-- EN: A piece of parchment heavily saturated with necrotic energy, its intricate patterns hiding ancient knowledge. Can be used to create new abilities at the altar -->
+  <OWD_InfusedParchment.description>一张被死灵能量高度浸透的羊皮纸，其上复杂的纹路隐藏着古老知识。可在祭坛上用于创造新能力</OWD_InfusedParchment.description>
+  <!-- EN: Analyze this strange parchment to unlock its secrets. -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.activateDescString>分析这张奇异的羊皮纸，解开其中的秘密。</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.activateLabelString>分析……</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the infused parchment, {PAWN_labelShort} has unlocked the secrets of {RESEARCH}.\n\nYour researchers can now begin exploring this forbidden knowledge. -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究注能羊皮纸，{PAWN_labelShort}已解锁{RESEARCH}的奥秘。\n\n你的研究者现在可以开始探索这项禁忌知识。</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Infused parchment analyzed: {RESEARCH} unlocked -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.completedLetterLabel>注能羊皮纸已分析：已解锁{RESEARCH}</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.guiLabelString>选择由谁来分析</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者进行分析。</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyzing infused parchment -->
+  <OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.jobString>正在分析注能羊皮纸</OWD_InfusedParchment.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: scroll of subjugation -->
+  <OWD_Scroll_Subjugate.label>镇压卷轴</OWD_Scroll_Subjugate.label>
+  <!-- EN: An old, forbidden scroll containing knowledge on how to dominate the minds of others. -->
+  <OWD_Scroll_Subjugate.description>一卷古老而禁忌的卷轴，记载着如何支配他人心智的知识。</OWD_Scroll_Subjugate.description>
+  <!-- EN: Read {0_label} -->
+  <OWD_Scroll_Subjugate.comps.CompUsable.useLabel>阅读{0_label}</OWD_Scroll_Subjugate.comps.CompUsable.useLabel>
+  
+</LanguageData>

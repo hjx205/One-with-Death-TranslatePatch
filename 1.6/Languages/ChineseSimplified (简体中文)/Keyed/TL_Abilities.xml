@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: You feel new knowledge flowing through you. -->
+  <OWD_ScrollReadSuccess>你感到新的知识在体内流淌。</OWD_ScrollReadSuccess>
+  <!-- EN: You couldn't make sense of anything. -->
+  <OWD_ScrollReadFail>你完全无法理解其中任何内容。</OWD_ScrollReadFail>
+  <!-- EN: Cannot cast: {0} -->
+  <OWD_CannotCastReason>无法施放：{0}</OWD_CannotCastReason>
+  
+  <!-- EN: {PAWN_labelShort} has joined your faction. -->
+  <OWD_SubjugateSuccess>{PAWN_labelShort}已加入你的阵营。</OWD_SubjugateSuccess>
+  <!-- EN: {PAWN_labelShort} resisted the subjugation, leaving their mind confused. -->
+  <OWD_SubjugateResisted>{PAWN_labelShort}抵抗了镇压，心智陷入混乱。</OWD_SubjugateResisted>
+  <!-- EN: {PAWN_labelShort}'s mind fractures further from resisting the subjugation. -->
+  <OWD_SubjugateFractured>{PAWN_labelShort}因抵抗镇压，心智进一步碎裂。</OWD_SubjugateFractured>
+  <!-- EN: {PAWN_labelShort}'s mind has completely broken. -->
+  <OWD_SubjugateBroken>{PAWN_labelShort}的心智已彻底崩溃。</OWD_SubjugateBroken>
+  <!-- EN: Subjugation failed -->
+  <OWD_SubjugateMentalBreakReason>镇压失败</OWD_SubjugateMentalBreakReason>
+  <!-- EN: Target cell is invalid or occupied. -->
+  <OWD_InvalidTargetCell>目标格无效或已被占用。</OWD_InvalidTargetCell>
+
+</LanguageData>

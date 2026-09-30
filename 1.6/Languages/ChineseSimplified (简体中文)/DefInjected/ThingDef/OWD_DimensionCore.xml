@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Abductor -->
+  <OWD_AbductorCore.label>绑架裂隙</OWD_AbductorCore.label>
+  <!-- EN: A rift designed to attract and abduct enemies into the pocket dimension, the destination can be set inside the dimension -->
+  <OWD_AbductorCore.description>一道用于吸引并绑架敌人进入口袋维度的裂隙，目的地可在维度内部设定。在维度内被击杀的敌人将被维度吞噬（维度将获得经验）</OWD_AbductorCore.description>
+  
+  <!-- EN: Abductor Output -->
+  <OWD_AbductorOutput.label>绑架出口</OWD_AbductorOutput.label>
+  <!-- EN: The receiving end of an Abductor. Hostiles pulled into the dimension will materialize from this place. -->
+  <OWD_AbductorOutput.description>绑架者的接收端。被拖入维度的敌对单位将从此处出现。在维度内被击杀的敌人将被维度吞噬（维度将获得经验）</OWD_AbductorOutput.description>
+  
+  <!-- EN: Dimensional anchor -->
+  <OWD_DimensionalCore.label>维度锚点</OWD_DimensionalCore.label>
+  <!-- EN: An stable rift, an anchor in reality that is linked to a pocket dimension. -->
+  <OWD_DimensionalCore.description>一道稳定的裂隙，一个连接口袋维度的现实锚点。</OWD_DimensionalCore.description>
+  
+  <!-- EN: Dimensional Core -->
+  <OWD_DimensionalCoreInner.label>维度核心</OWD_DimensionalCoreInner.label>
+  <!-- EN: The Stable connection that the pocket dimension has to the outside world -->
+  <OWD_DimensionalCoreInner.description>口袋维度与外界保持稳定连接的通道</OWD_DimensionalCoreInner.description>
+  
+  <!-- EN: rift emitter -->
+  <OWD_RiftEmitter.label>裂隙出口</OWD_RiftEmitter.label>
+  <!-- EN: A small rift capable of receiving objects from the connected dimension. -->
+  <OWD_RiftEmitter.description>一道小型裂隙，能够从相连维度接收物体。入口和出口都必须放置在容器或区域中</OWD_RiftEmitter.description>
+  
+  <!-- EN: rift intake -->
+  <OWD_RiftIntake.label>裂隙入口</OWD_RiftIntake.label>
+  <!-- EN: A small rift capable of sending objects to the connected dimension. -->
+  <OWD_RiftIntake.description>一道小型裂隙，能够将物体送往相连维度。入口和出口都必须放置在容器或区域中</OWD_RiftIntake.description>
+  
+</LanguageData>
